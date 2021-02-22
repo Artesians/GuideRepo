@@ -607,7 +607,7 @@ Also, Rainslasher is bad. Don’t use it. Just gonna get that out of the way.
 #### **Overall Main Carry Ranking: 1st**
 
 **Main Stats:** CR/ATK%/Electro%  
-_\*\*_CR:CD:ATK% substat distribution: 6:9:0
+\_\*\*\_CR:CD:ATK% substat distribution: 6:9:0
 
 Wolf’s Gravestone is strong enough to be a consistent 1st place for Main Carry. It has a ridiculous amount of ATK% that pads its damage output tremendously. On top of that, it has a party wide buff on its passive to further bolster team damage. Overall, Wolf’s is the low-effort, high-payout claymore that Beidou can absolutely take advantage of.
 
@@ -656,7 +656,7 @@ For Sub Carry, WGS’ insane ATK% stat is extremely helpful as it allows Beidou 
 #### **Overall Main Carry Ranking: 2nd**
 
 **Main Stats:** CR/ATK%/Electro%  
-_\*\*_CR:CD:ATK% substat distribution: 6:9:0
+\_\*\*\_CR:CD:ATK% substat distribution: 6:9:0
 
 The Unforged is generally considered to be a WGS-lite due to their extremely similar stats spreads. However, the Unforged has the caveat that it needs to attack to get the ATK% that WGS has by default. When shielding and at maximum stacks however, the Unforged actually pulls ahead of WGS in terms of personal damage. One thing to keep in mind however is that Beidou’s C1 shield **does not** grant Beidou the Unforged shield ATK% during her Burst. You will need to shield Beidou before she enters Burst for maximum effect.
 
