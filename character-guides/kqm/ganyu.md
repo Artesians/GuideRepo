@@ -26,7 +26,7 @@ description: >-
 
 Not really a “guide” per se, but the following is just some early thoughts of some people who have been testing out Ganyu quite extensively for the couple of days she has been out. As always, information this early is subject to change as we discover new mechanics or try out new compositions.
 
-### **Melt Shotganyu:** 
+### **Melt Shotganyu:**
 
 Using Xiangling elemental skill and burst to apply 1U pyro to enemies while spamming Frostflake Blooms at short range. Using your Q causes this playstyle to fall apart because your burst eats melts as Ganyu’s ultimate will overtake the pyro aura, but will still do more damage as long as you are fighting more than one enemy.
 
@@ -37,9 +37,9 @@ Using Xiangling elemental skill and burst to apply 1U pyro to enemies while spam
 * **Cons:**
   * Requires immense skill and practice to practically approach theoretical damage, and can feel clunky or weird depending on the team composition and rotation.
   * Struggles with shields in current abyss floor 12, but this can be circumvented by abusing mitachurl charges next to walls.
-  * Virtually _**impossible**_ to farm Wanderer’s Troupe, at Adventure Rank 55, it’s 40 resin for a 50/50 for Gladiator or WT. ****
+  * Virtually _**impossible**_ to farm Wanderer’s Troupe, at Adventure Rank 55, it’s 40 resin for a 50/50 for Gladiator or WT. _\*\*_
 
-### **Freeze Ganyu:** 
+### **Freeze Ganyu:**
 
 Using Xingqiu, Tartaglia, Mona, or Barbara to apply a hydro status and spamming Frostflake to get 40% Crit Chance, or just applying Cryo for 20%. Offers decent CC as enemies will be frozen.
 
@@ -86,7 +86,7 @@ While Ganyu’s Q may seem like a powerful tool for supporting Klee or Diluc as 
 
 Not having the possibility to enable constant melts isn't a big issue due to her insane damage values she brings even as a sub-DPS. She easily replaces Kaeya as a superconduct trigger, but her Q Cryo application on non-grouped enemies leaves a lot to be desired. You also have the option of intentionally reverse melting her Q with Klee and Diluc against large numbers of enemies. Of course, this can be supplemented by the free unit Kaeya, and can offer significant rates of melt with their combined Cryo application.
 
-Ganyu has worse energy generation, Cryo application, and single target DPS as a support than Kaeya. **Her value in quickswap as a sub-DPS /support role is largely reliant on keeping enemies grouped.** 
+Ganyu has worse energy generation, Cryo application, and single target DPS as a support than Kaeya. **Her value in quickswap as a sub-DPS /support role is largely reliant on keeping enemies grouped.**
 
 ## **Constellations**
 
@@ -187,7 +187,7 @@ Melt Ganyu is quite simple in theory to pilot: you cast Xiangling ultimate and i
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Wanderer&apos;s Troupe (4)                     </b>
+      <td style="text-align:left"><b>Wanderer&apos;s Troupe (4)</b>
       </td>
       <td style="text-align:left">Best unconditional option of all. Gives 35 DMG% to CA + 15 DMG% (from
         80 EM bonus) to Melt. Use it if you have it.</td>
@@ -233,9 +233,7 @@ Last slot options \(skipping Venti, his teams will be covered later\) could be:
 * **Jean** - healer with big motion value \(highest scaling in game on elemental skill \(E\)\) and possibility to use VV set. Same problems as sucrose in the existing abyss. 
 * **Beidou** - even though her ultimate doesn't bring much value into team damage \(at least it comes after charge attacks, so it doesn’t ruin melts\), she is one of the best geo shield breakers in entire game \(overloads if you have enough pyro application + claymore\), and her c1 ultimate shield and parry could work as damage mitigation mechanics and save some time, otherwise spent dodging. Best option for the current spiral abyss floor 12 for players who don't have Zhongli.
 
-  
-\(Example of clearing floor 12-3, second team: [https://youtu.be/2tp4VhbZhgw](https://youtu.be/2tp4VhbZhgw)\)  
-
+\(Example of clearing floor 12-3, second team: [https://youtu.be/2tp4VhbZhgw](https://youtu.be/2tp4VhbZhgw)\)
 
 * **Diona** - Second healer in a team who can work as battery for Ganyu-Bennett double dps quickswap. Her C6 ultimate gives +200 EM \(+37.7 DMG% for melts and vaporise\), but “eats” 0.5U of gauge with her own cryo, thus making double-melts with Xiangling ult less consistent, so you better not use it a lot.
 * **Kaeya -** better than Diona damage-wise for the team, about the same battery for Ganyu. For the same double-dps quickswap idea Kaeya adds his low CD E and Q to rotation. 
@@ -270,11 +268,9 @@ Your rotations depend on how fast/well you can apply the hydro, but in general t
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
-| **Blizzard Strayer \(4\)**                                  | +15% Cryo DMG and +40% Crit Chance against Frozen enemies is too much to pass over. +20% Crit Chance against Cryo aura is strong already. |
+| **Blizzard Strayer \(4\)** | +15% Cryo DMG and +40% Crit Chance against Frozen enemies is too much to pass over. +20% Crit Chance against Cryo aura is strong already. |
 
 It should be noted that Ganyu’s Ascension 1 talent offers 20% Crit Chance for 5 seconds after every Frostflake Arrow, so it’s extremely easy to pass 100% Crit Rate. Prioritize Crit DMG.
-
-### 
 
 ### **Compositions**
 
@@ -341,7 +337,7 @@ The simple way to code things is: apply Omen as soon as you cast, if Illusory Bu
 
 [Boesik’s Mona Guide](https://docs.google.com/document/d/1pXlgCaYEpoizMIP9-QKlSkQbmRicWfrEoxb9USWD1Ro/edit)
 
-[Omen Stalling Video Guide:  
+[Omen Stalling Video Guide:    
 ](https://www.youtube.com/watch?v=ct3Al9lUYnk)
 
 ![](../../.gitbook/assets/14.png)

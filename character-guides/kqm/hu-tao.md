@@ -34,11 +34,11 @@ Coming soon!
 
 | Artifact Sets | Details/Notes |
 | :--- | :--- |
-| Crimson Witch of Flames \(4\)                                      | Crimson Witch of Flames is expected to be one of her premier sets if she can reliably vaporize or melt. For pre-farming you want an HP timepiece, Pyro DMG% goblet, and a Crit helmet depending on your substats and weapon. |
+| Crimson Witch of Flames \(4\) | Crimson Witch of Flames is expected to be one of her premier sets if she can reliably vaporize or melt. For pre-farming you want an HP timepiece, Pyro DMG% goblet, and a Crit helmet depending on your substats and weapon. |
 
-Other things to note about her artifacts is that she will have extremely diluted ATK values, so HP% substats will be more worthwhile. Your priority in sub-stats is projected to be:   
-  
-**Crit Rate/CritDMG &gt; HP% &gt;= EM &gt; ATK%**  
-  
+Other things to note about her artifacts is that she will have extremely diluted ATK values, so HP% substats will be more worthwhile. Your priority in sub-stats is projected to be:
+
+**Crit Rate/CritDMG &gt; HP% &gt;= EM &gt; ATK%**
+
 The value of HP% against EM and ATK% will depend on how much Hu Tao can vaporize effectively. These numbers are extremely early and we haven't received a large amount Hu Tao footage, so take it with a ~~grain~~ bowl of salt.
 

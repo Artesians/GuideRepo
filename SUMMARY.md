@@ -12,3 +12,7 @@
 * [Affiliated](character-guides/affiliated/README.md)
   * [Beidou](character-guides/affiliated/beidou.md)
 
+## Team Building
+
+* [Team Building Guide](team-building/team-building-guide.md)
+

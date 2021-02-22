@@ -29,38 +29,32 @@ This section is heavily under construction. I am currently enduring Winter Storm
 
 ## **Preface**
 
-This guide is a shortened version of Doug’s long and comprehensive Keqing document. Most of the information found here should be all available inside [Doug’s Keqing guide](https://docs.google.com/document/d/e/2PACX-1vSBDGJgQWui7PUOyH-TOUdSNNXe1DdyfkyRbvr7Uqp4Fbdo3PtVh_SgkLraMxOEJT0bi7vNdI1uLAtW/pub). 
+This guide is a shortened version of Doug’s long and comprehensive Keqing document. Most of the information found here should be all available inside [Doug’s Keqing guide](https://docs.google.com/document/d/e/2PACX-1vSBDGJgQWui7PUOyH-TOUdSNNXe1DdyfkyRbvr7Uqp4Fbdo3PtVh_SgkLraMxOEJT0bi7vNdI1uLAtW/pub).
 
 ### Keqing, Driving Thunder
 
 There is a misunderstanding in the wider Genshin community that if a character cannot output the same damage profile as vaporize Diluc, then they’re weak. Keqing, despite her lack of access to practical amping reactions, is a very capable unit that can clear the abyss. Keqing's kit makes her by far the most flexible 5-star unit. She is not a weak 5-star pull, but she does not have the damage volume to propel her into hypercarry status like her friends Diluc, Ganyu, and Xiao.
 
 * **Pros:**
-
   * Extremely mobile.
   * Low cooldowns make her strong inside quickswap compositions.
   * Her ascensions give her 15% Crit Rate on Burst cast, and her Critical Damage ascension stat is the premier attribute to stack.
   * Her powerful charged attack gives her variable playstyles \(Physical, Pyro, Cryo, and Electro Keqing are all possible\) with a wide diversity of artifact sets based on her supports.
   * Because her artifact sets are so variable, her artifacts are mostly all farmable outside of Gladiator’s Triumph.
   * Her F2P weapon options are not the worst, and The Black Sword is a strong low spender option.
-
 * **Cons:**
-
   * Her strongest compositions require her team to be built and well-geared to push your damage ceiling higher.
   * Her charged attacks are her bread and butter, so stamina management is a given.
   * Electro does not have access to a practical amping reaction, so Keqing’s ceiling cannot overcome Vaporize or Melt variations of hypercarry Ganyu or Diluc, and battery Xiao.
 
-  
-  **Element**:
+**Element**:
 
-  * Keqing is not Pyro, not Hydro, and not Cryo, disqualifying Keqing from being able to do any sort of burst damage through amped reactions \(with her base kit\). Electro remains the ever disdained element because of subpar reactions:
-    * **Electrocharge** - Low damage output and mostly an afterthought, never really worth focusing on with Elemental Mastery because its fickle nature of proc sources. 
-    * **Superconduct** - Strictly only used for the purpose of Physical Shred, it does nothing for the Electro element itself and thus is anti-synergistic with Keqing's self infusion. The only other notable use is in turbo energy comps which involve Fischl \(Oz\) needing to be the trigger so Keqing actually muddles that gameplan.
-    * **Overload** - Low damage output as well with the additional headache of launching enemies away. While Keqing does have a gap closer in her E2 this only adds to the already existing issue of her Charged Attack sending smaller enemies flying. **Should only be used in abyss for shield breaking with Bennett or Xiangling.**
+* Keqing is not Pyro, not Hydro, and not Cryo, disqualifying Keqing from being able to do any sort of burst damage through amped reactions \(with her base kit\). Electro remains the ever disdained element because of subpar reactions:
+  * **Electrocharge** - Low damage output and mostly an afterthought, never really worth focusing on with Elemental Mastery because its fickle nature of proc sources. 
+  * **Superconduct** - Strictly only used for the purpose of Physical Shred, it does nothing for the Electro element itself and thus is anti-synergistic with Keqing's self infusion. The only other notable use is in turbo energy comps which involve Fischl \(Oz\) needing to be the trigger so Keqing actually muddles that gameplan.
+  * **Overload** - Low damage output as well with the additional headache of launching enemies away. While Keqing does have a gap closer in her E2 this only adds to the already existing issue of her Charged Attack sending smaller enemies flying. **Should only be used in abyss for shield breaking with Bennett or Xiangling.**
 
-
-
-  One upside of course to Electro being that the resonance does allow for some good energy economy, however this is team comp dependent.
+One upside of course to Electro being that the resonance does allow for some good energy economy, however this is team comp dependent.
 
 ### Keqing Variations
 
@@ -108,9 +102,7 @@ ZΛNTO
 3b00d\_09  
 MightyThor  
 \[Neko\]  
-派蒙不可以  
-  
-
+派蒙不可以
 
 r/Keqingmains
 
@@ -124,19 +116,19 @@ Upgrading her auto attacks pushes Keqing's motion values on her charged attacks 
 
 #### C1: Thundering Might
 
-_Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink._ 
+_Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink._
 
 This constellation is free damage for Electro Keqing, but it cannot reliably double dip for 100% ATK damage from doing pointblank Stellar Restoration casts. It has less value for variations of Keqing that do not want to infuse Electro.
 
 #### C2: Keen Extraction
 
-_When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s._ 
+_When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s._
 
 This constellation is extremely powerful in Keqing's tazer compositions and for energy economy in general. It needs more exploration as we haven't been able to quantize this constellation very well.
 
 #### C4: Attunement
 
- _For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%._ 
+_For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%._
 
 Again, this constellation is just free damage.
 
@@ -151,10 +143,10 @@ Keqing's 6th constellation is not as impactful as we would like to imagine for a
 Keqing is quite flexible when it comes to weaponry. Multiple 4-star options are capable of performing at a decent rate but it's probably best to check out the existing guides for more insight into this. The short of it is she's not locked into needing a specific weapon to perform well.
 
 {% hint style="info" %}
- The numbers provided here were from Zanto. If you need extra information,  refer to [_The Queen's Armaments_](https://docs.google.com/document/d/e/2PACX-1vT2KvO7OD3fNqJOP44BuyuudQu5yIMaNuxPU-RBybOofgEMkgUIODGW9nSE6P1fn5RXCkQwZaYjelWS/pub). Differences between refinements can be calculated using his weapon calculator.
+The numbers provided here were from Zanto. If you need extra information, refer to [_The Queen's Armaments_](https://docs.google.com/document/d/e/2PACX-1vT2KvO7OD3fNqJOP44BuyuudQu5yIMaNuxPU-RBybOofgEMkgUIODGW9nSE6P1fn5RXCkQwZaYjelWS/pub). Differences between refinements can be calculated using his weapon calculator.
 {% endhint %}
 
-### Electro Carry 
+### Electro Carry
 
 | Weapon | Damage Output \[15s\] | Percent Change | Notes |
 | :--- | :--- | :--- | :--- |
@@ -162,12 +154,12 @@ Keqing is quite flexible when it comes to weaponry. Multiple 4-star options are 
 | **Summit Shaper \(Shielded\)** | 446,400 | 118.7% | Not plausible without Zhongli. |
 | **Summit Shaper \(Unshielded\)** | 417,376 | 111.0% | Miles ahead of everything below this point. |
 | **Aquila Favonia \(Passive\)** | 382,653 | 101.8% | Requires getting hit every 15 seconds. |
-| **The Black Sword**  | **375,977** | **100%** | Consistent and average option. |
+| **The Black Sword** | **375,977** | **100%** | Consistent and average option. |
 | **Lion's Roar \(75% Uptime\)** | 373,524 | 99.4% | Uptime will vary depending on team. |
-| **Aquila Favonia \(No Passive\)**                   | 366,455 | 97.5% | Pretty mediocre option without its passive. |
+| **Aquila Favonia \(No Passive\)** | 366,455 | 97.5% | Pretty mediocre option without its passive. |
 | **Blackcliff Longsword R1 \(1 Stack\)** | 363,821 | 96.8% | 1 stack can be difficult to maintain on low enemy density abyss floors. |
 | **Harbinger of Dawn R5** | 360,520 | 98.3% | Requires perfect play to maintain the 90% HP requirement. |
-| **Prototype Rancour** | 331,682 | 88.2% | Bad Aquila Favonia for Electro  |
+| **Prototype Rancour** | 331,682 | 88.2% | Bad Aquila Favonia for Electro |
 
 Electro carry Keqing weapon rankings should be mirrored across her deviant variations for Cryo/Pyro. The main takeaway is that The Black Sword is an extremely cost effective weapon on Keqing.
 
@@ -181,7 +173,7 @@ Electro carry Keqing weapon rankings should be mirrored across her deviant varia
 | **Aquila Favonia \(No Passive\)** | 411,997 | 114.1% | Damage loss with no passive is fairly significant. |
 | **Prototype Rancour R2** | 363,763 | 100.8% | Bare minimum weapon to use physical Keqing. |
 | **The Black Sword R1** | 360,939 | **100%** | Better than Rancour at the same refines. |
-| **Lion's Roar \(50% Uptime\)**                 | 348,169 | 96.5% | Hard to keep uptime on Electro aura. |
+| **Lion's Roar \(50% Uptime\)** | 348,169 | 96.5% | Hard to keep uptime on Electro aura. |
 | **Blackcliff Longsword R1 \(1 Stack\)** | 348,088 | 96.4% | 1 stack can be difficult to maintain on low enemy density abyss floors. |
 | **The Flute \(2 Procs\)** | 346,630 | 96% | Horrible scaling. |
 
@@ -195,9 +187,9 @@ For physical Keqing, Aquila Favonia edges out against Primordial Jade Cutter jus
 | **Summit Shaper \(Shielded\)** | 234,115 | 124.4% | Shield is easier to maintain in quickswap, but again, Zhongli makes it even easier. |
 | **Summit Shaper \(Unshielded\)** | 218,894 | 116.3% |  |
 | **Aquila Favonia \(Passive\)** | 200,287 | 106.4% | Difficult to get hit every 15 seconds in quickswap. |
-| **Lion's Roar \(66% Uptime\)**     | 193,899 | 103.1% | Uptime varies, but is a strong option. |
-| **Aquila Favonia \(No Passive\)**                            | 192,183 | 102.1% | Still decent weapon without the proc. |
-| **Blackcliff Longsword R1 \(1 Stack\)**       | 190,807 | 101.4% | Stacks are very difficult to maintain in quickswap. |
+| **Lion's Roar \(66% Uptime\)** | 193,899 | 103.1% | Uptime varies, but is a strong option. |
+| **Aquila Favonia \(No Passive\)** | 192,183 | 102.1% | Still decent weapon without the proc. |
+| **Blackcliff Longsword R1 \(1 Stack\)** | 190,807 | 101.4% | Stacks are very difficult to maintain in quickswap. |
 | **Harbinger of Dawn R5** | 189,075 | 100.5% | Pretty easy to use in quickswap. |
 | **The Black Sword** | 188,161 | **100%** | Passive is useless in quickswap. |
 
@@ -223,8 +215,7 @@ Keqing in Electro-focused comps can run variations of any of the above units. Pr
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-Physical Keqing really only needs one source of Cryo application to proc Superconduct which lasts for 12 seconds, so you can take your pick amongst the Cryo units. Xingqiu offers extra damage on top of the healing and damage reduction and has the added benefit of being able to freeze enemies so they don't get knocked back by Keqing's charged attacks.   
-
+Physical Keqing really only needs one source of Cryo application to proc Superconduct which lasts for 12 seconds, so you can take your pick amongst the Cryo units. Xingqiu offers extra damage on top of the healing and damage reduction and has the added benefit of being able to freeze enemies so they don't get knocked back by Keqing's charged attacks.
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
@@ -241,7 +232,7 @@ Pyro Keqing is limited by the fact that you need access to pyro infusion, which 
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
-| **Crimson Witch of Flames \(4\)**                           | +15% Pyro DMG and +15% Melt and Vaporize DMG makes this set very powerful as a set for Pyro Keqing. Keqing's casts of Stellar Restoration also count twice for increasing the bonus from the 4 piece effect of Crimson Witch of Flames for increased Pyro damage. |
+| **Crimson Witch of Flames \(4\)** | +15% Pyro DMG and +15% Melt and Vaporize DMG makes this set very powerful as a set for Pyro Keqing. Keqing's casts of Stellar Restoration also count twice for increasing the bonus from the 4 piece effect of Crimson Witch of Flames for increased Pyro damage. |
 
 ### Cryo Keqing
 
@@ -251,7 +242,7 @@ Cryo Keqing with Chongyun field is also available as a DPS option after the Bliz
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
-| **Blizzard Strayer \(4\)**                               | +15% Cryo DMG and +40% Crit Rate makes this set very accessible to players with weaker artifact sets. Keqing with her +15% Crit Rate on top of the bonus from Blizzard Strayer allows her to overcap on Crit Rate very easily. |
+| **Blizzard Strayer \(4\)** | +15% Cryo DMG and +40% Crit Rate makes this set very accessible to players with weaker artifact sets. Keqing with her +15% Crit Rate on top of the bonus from Blizzard Strayer allows her to overcap on Crit Rate very easily. |
 
 ### Quickswap
 
@@ -289,7 +280,7 @@ These four units synergize extremely well with Keqing. I personally like to sepa
 
 | Unit | Notes |
 | :--- | :--- |
-| **Zhongli**                 | Strong in quickswap and sustained. His 1.3 buffs to his Jade Shield make Keqing and other party members just do more damage due to the RES down and unkillable. |
+| **Zhongli** | Strong in quickswap and sustained. His 1.3 buffs to his Jade Shield make Keqing and other party members just do more damage due to the RES down and unkillable. |
 | **Jean** | Strong in quickswap and sustained. Her E poke has high MV/s, she's a Viridescent Venerer user, and can heal. |
 | **Venti** | Strong in quickswap. Venti groups enemies for Keqing's Starward Sword and Stellar Restoration. Strong Viridescent Venerer user. |
 | **Mona** | Mona offers alot of power in quickswap with her Omen buff. With Ganyu, it is possible to stall the Omen buff. |
