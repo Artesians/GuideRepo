@@ -249,8 +249,8 @@ The crystallize shield isn’t strong enough to be worth worrying about. The Pet
     </tr>
     <tr>
       <td style="text-align:left">Jean</td>
-      <td style="text-align:left">Can use a Viridescent Venerer set pretty well by using constantly using
-        her skill.</td>
+      <td style="text-align:left">Can use a Viridescent Venerer set pretty well by constantly using her
+        skill.</td>
     </tr>
     <tr>
       <td style="text-align:left">Kaeya</td>
