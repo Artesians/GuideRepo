@@ -47,8 +47,6 @@ Level 70-80 Xiao, level 7+ talents, Favonius Lance+, and a lot of energy recharg
   * Getting knocked out of your plunges or being staggered causes your DPS to fall off a cliff.
   * Virtually _**impossible**_ to farm Gladiator’s Triumph, at Adventure Rank 55, it’s 40 resin for a 50/50 for Gladiator or WT - but you only need 2.
 
-### 
-
 ### **Hyper Investment:**
 
 Level 80-90 Xiao, level 10 talents, Deathmatch+, and optional levels of energy recharge.
@@ -75,7 +73,7 @@ Lindon\#3315
 r/XiaoMains  
 r/Keqingmains
 
-##  **Weapons**
+## **Weapons**
 
 | **Weapons / Refinements / Conditions** | **DPS at 90, Max Stats** | **Notes** |
 | :--- | :--- | :--- |
@@ -215,8 +213,7 @@ At AR46 you gain access to a constellation that can also shred Anemo RES after Q
 An invaluable unit that provides healing as well as a massive ATK bonus that can make up for the lost ATK% on lower invested Xiao’s, but in practice, it's really easy to knock away small enemies out of the circle.
 
 **Lisa:**  
-Charlie and some others have proposed using Lisa A4 for the DEF down area effect. It runs into the same problem as Bennett and Diona because of the zone, but the buff is undoubtedly powerful. Another issue is that providing Lisa with enough energy is more difficult than battery for Xiao. 4TS Xiao is a possibility.  
-****
+Charlie and some others have proposed using Lisa A4 for the DEF down area effect. It runs into the same problem as Bennett and Diona because of the zone, but the buff is undoubtedly powerful. Another issue is that providing Lisa with enough energy is more difficult than battery for Xiao. 4TS Xiao is a possibility.
 
 ### **Sub-DPS**
 
@@ -249,7 +246,7 @@ Xiao is not a simple character. By merit of how his burst works and its energy c
 
 Xiao’s kit allows him to string many of his attacks together, but very few are efficient and provide good damage without compromising his energy.
 
-\*\*\*\*[**N1CJP - “Jet Combo”**](https://imgur.com/a/9dMEntj) 
+\*\*\*\*[**N1CJP - “Jet Combo”**](https://imgur.com/a/9dMEntj)
 
 N1CJP is an abbreviated form of Normal Attack 1, Charged Attack, Jump, High Plunge. It is a combo that cancels the animation for Xiao's charged attack and allows Xiao to plunge enemies that he has knocked up. Currently, it is his highest MV/s combo while he is inside his burst.
 
@@ -259,7 +256,7 @@ To do it, just hold down LMB for your Charged Attack, then jump after Xiao swing
 
 High plunge spam is exactly as it sounds, you jump up [high enough](https://imgur.com/fuC3rSh) for a high plunge and cancel the recovery frame by holding down a movement key or attacking once with a normal attack. This is more efficient than low plunge spam as long as you don’t go to the peak of your jump.
 
-\*\*\*\*[**JEP Combo**](https://imgur.com/BYOY4p6) ****
+\*\*\*\*[**JEP Combo**](https://imgur.com/BYOY4p6) _\*\*_
 
 This combo can be used if you need to gap close with its high mobility and high damage for the time it takes to do. You just jump, use Lemniscatic Wind Cycling, and plunge. However, you should only use this outside of your burst and when you are certain you can hit the enemy for Anemo particles.
 
@@ -273,6 +270,5 @@ This combo can be used if you need to gap close with its high mobility and high 
 
 2/11 - Gitbook
 
-**Planned:**  
-
+**Planned:**
 
