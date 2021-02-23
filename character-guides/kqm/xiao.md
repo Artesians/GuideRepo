@@ -87,8 +87,8 @@ r/Keqingmains
 | **Deathmatch \(2 enemies\)** | 11802.09 | CR% substat is powerful for bad artifacts. |
 | **Skyward Spine** | 11314.35 | No vacuum blade DPS, ER helps a lot. |
 | **Lithic Spear R1 +2 Liyue** | 11635.56 | Worst case scenario for Lithic. |
-| **Blackcliff Spear R1 +1** | 11078.75 |  |
-| **Blackcliff Spear R1 +0** | 11627.34 |  |
+| **Blackcliff Spear R1 +1** | 11627.34 |  |
+| **Blackcliff Spear R1 +0** | 11078.76 |  |
 | **Favonius Lance** | 9,774.32 | The orbs are more powerful than can be measured by DPS. |
 
 These calculations are made under the following assumptions:
