@@ -143,7 +143,7 @@ Keqing's 6th constellation is not as impactful as we would like to imagine for a
 Keqing is quite flexible when it comes to weaponry. Multiple 4-star options are capable of performing at a decent rate but it's probably best to check out the existing guides for more insight into this. The short of it is she's not locked into needing a specific weapon to perform well.
 
 {% hint style="info" %}
-The numbers provided here were from Zanto. If you need extra information, refer to [_The Queen's Armaments_](https://docs.google.com/document/d/e/2PACX-1vT2KvO7OD3fNqJOP44BuyuudQu5yIMaNuxPU-RBybOofgEMkgUIODGW9nSE6P1fn5RXCkQwZaYjelWS/pub). Differences between refinements can be calculated using his weapon calculator.
+The numbers provided here were from ZΛNTO\#4984. If you need extra information, refer to [_The Queen's Armaments_](https://docs.google.com/document/d/e/2PACX-1vT2KvO7OD3fNqJOP44BuyuudQu5yIMaNuxPU-RBybOofgEMkgUIODGW9nSE6P1fn5RXCkQwZaYjelWS/pub). Differences between refinements can be calculated using his weapon calculator.
 {% endhint %}
 
 ### Electro Carry
