@@ -107,7 +107,9 @@ Furthermore, the odds are again stacked against you in the banner. You’re like
 
 Weapon options on Xiao are completely dependent on what you need. **Minimum investment Xiao’s should prioritize running energy recharge timepieces with ATK% substat weapons.** For Xiao if you consider building ER Sands, Royal Spear is only slightly worse than a fully stacked Blackcliff Spear.
 
-\*\*\*\*[**Cola Sen’s Weapon Analysis** ](https://docs.google.com/document/d/1IeWykgt76EFDjeEEQXyjpNbt11QW-eTpanVYh7CKBs8/edit)
+Another thing to note is that the calculations for Primordial Jade-Winged Spear vs. Homa 50% are within 5% of each other. PJWS stacks actually gets diluted out by the DMG% gained when Xiao uses Bane of All Evil, so you have to start weighing out 50% HP \(which isn’t hard from my playtests with Xiao\) against stacking PJWS.
+
+[**Cola Sen’s Weapon Analysis** ](https://docs.google.com/document/d/1IeWykgt76EFDjeEEQXyjpNbt11QW-eTpanVYh7CKBs8/edit)
 
 ## **Talent Priority**
 
