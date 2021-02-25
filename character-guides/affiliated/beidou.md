@@ -288,7 +288,7 @@ Overload and Superconduct are the two reactions that have this property, meaning
 
 Beidou’s constellations are all great and each plays a unique role in developing her various playstyles. The following breakdown assumes you know the basic descriptions of each constellation:
 
-### **\*\***![](https://lh6.googleusercontent.com/5oZMAFG9-h1qNSLgDkUOAZv_5qJQdlbkbDfrpTmkO1RTr5vuB8aDKOA_6nXrvXSpVNWSXFMYZCU2m_XQEmtv0wHABUMt6jWp4z6HGZQSsi5Q463vozKHGiI9hB_Ien_SYo6SrwGV)C1: Sea Beast’s Scourge\*\*
+### ![](https://lh6.googleusercontent.com/5oZMAFG9-h1qNSLgDkUOAZv_5qJQdlbkbDfrpTmkO1RTr5vuB8aDKOA_6nXrvXSpVNWSXFMYZCU2m_XQEmtv0wHABUMt6jWp4z6HGZQSsi5Q463vozKHGiI9hB_Ien_SYo6SrwGV)C1: Sea Beast’s Scourge
 
 Strong and transferable shield that should have good uptime as long as you have Burst uptime. Currently the only Electro shield in the game, and also lasts 15 seconds. Does not do much to improve her overall damage, but allows for comfier gameplay. It also helps enable certain playstyles that revolve around shields, such as 4Bolide carries, Geo Resonance, and Geo Weapons. Decent constellation that gives Beidou more flexibility but does not hone in on her strengths.
 
@@ -296,7 +296,7 @@ Strong and transferable shield that should have good uptime as long as you have 
 
 ### ![](https://lh5.googleusercontent.com/epv2ZYMZTrMvT3F2PvSGOee8eIbbXRDbtJ7rccW5M-hI-fiV251Sx0mF5MrSTL1e3zcGPbsbMof8J0WQ-C-jYC18qdOUzBVxFrHi55ug6YSHOdybAyC13rYw8l7eXWPGAFkn3P9b)**C2: Upon the Turbulent Sea, The Thunder Arises**
 
-**B**eidou’s bread and butter constellation, easily her strongest constellation and one of the strongest in the entire game. Additional bounces boosts her AoE damage capabilities to even higher levels, **increasing her Burst damage values by 66% multiplicative damage.** Since 2 targets is all it takes for her Burst to get off all its bounces, it can now hit the initial target 3 times and a second target 2 times per second. Amazing constellation that should be your bare minimum goal.
+Beidou’s bread and butter constellation, easily her strongest constellation and one of the strongest in the entire game. Additional bounces boosts her AoE damage capabilities to even higher levels, **increasing her Burst damage values by 66% multiplicative damage.** Since 2 targets is all it takes for her Burst to get off all its bounces, it can now hit the initial target 3 times and a second target 2 times per second. Amazing constellation that should be your bare minimum goal.
 
 **Main DPS overall damage increase: 51%  
 Sub DPS overall damage increase: 57%**
