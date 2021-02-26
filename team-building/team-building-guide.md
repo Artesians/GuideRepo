@@ -97,7 +97,7 @@ Xiangling and Zhongli are bad in quickswap teams when built as Crescent Pike car
 | :--- | :---: | :---: | :---: | :---: |
 | Albedo | Good | Best | Good | Decent |
 | Barbara | Best | Decent | Decent | Bad |
-| Beidou | Bad | Best | Good | Bad |
+| Beidou | Bad | Best | Good | Good |
 | Bennett | Decent | Good | Best | Best |
 | Chongyun | Bad | Best | Good | Good |
 | Diona | Good | Best | Decent | Bad |
