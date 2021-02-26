@@ -14,72 +14,55 @@ description: 'Written by Zakharov#5645 and edited [Neko]#3521'
 
 ### Selfish Carry
 
-**A selfish carry team is focused entirely around maximizing the damage dealt by a single carry hero, who remains on the field for around 15 seconds at a time.** This is usually Klee, Razor or Xiao because their elemental bursts end if they switch out. A selfish carry team will have a rotation time of 20 seconds or more - 15 seconds on the carry, then swap to the supports to set up for the next carry rotation.  
+**A selfish carry team is focused entirely around maximizing the damage dealt by a single carry hero, who remains on the field for around 15 seconds at a time.** This is usually Klee, Razor or Xiao because their elemental bursts end if they switch out. A selfish carry team will have a rotation time of 20 seconds or more - 15 seconds on the carry, then swap to the supports to set up for the next carry rotation.
 
+When building a selfish carry team, you generally want to get your carry to level 80, ascension 6, level 90 weapon, level 8-10 talents, and +20 artifacts before investing in supports. However, you do need to invest enough in your healer to heal enough and enough in your other supports to not get one-shot.
 
-When building a selfish carry team, you generally want to get your carry to level 80, ascension 6, level 90 weapon, level 8-10 talents, and +20 artifacts before investing in supports. However, you do need to invest enough in your healer to heal enough and enough in your other supports to not get one-shot.  
+Good carries for selfish carry teams either have an ability which requires them to remain on the field, or are capable of doing enormous amounts of damage with melt or vaporize.
 
-
-Good carries for selfish carry teams either have an ability which requires them to remain on the field, or are capable of doing enormous amounts of damage with melt or vaporize.  
-
-
-Good supports for selfish carry teams have long cooldowns on their abilities. They provide healing, elemental reactions, energy for the carry, or an on-field damage source. The damage dealt by supports is not as important, so heroes like Albedo provide value only once you’ve finished building the carry and have resources left over to invest in them.  
-
+Good supports for selfish carry teams have long cooldowns on their abilities. They provide healing, elemental reactions, energy for the carry, or an on-field damage source. The damage dealt by supports is not as important, so heroes like Albedo provide value only once you’ve finished building the carry and have resources left over to invest in them.
 
 Selfish carry teams are very strong if you’ve started recently and don’t have a lot of resin available, as you only need to invest in a single hero to get value.
 
 ### **Sustained Damage Carry**
 
-**A sustained damage team spends most of the time attacking with the carry, but switches out to supports reasonably frequently to use elemental skills and bursts.** This is the most common kind of team in Genshin Impact. A sustained damage team will have a rotation time of 15-20 seconds, though these teams tend not to use rigidly planned rotations.  
+**A sustained damage team spends most of the time attacking with the carry, but switches out to supports reasonably frequently to use elemental skills and bursts.** This is the most common kind of team in Genshin Impact. A sustained damage team will have a rotation time of 15-20 seconds, though these teams tend not to use rigidly planned rotations.
 
+When building a sustained damage team, you generally want to get your carry to level 70, ascension 5, level 90 weapon, level 6-8 talents, and +20 artifacts before investing in supports.
 
-When building a sustained damage team, you generally want to get your carry to level 70, ascension 5, level 90 weapon, level 6-8 talents, and +20 artifacts before investing in supports.  
-
-
-Good carries for sustained damage teams have the ability to put out large amounts of damage with their normal or charged attacks without draining too much stamina.  
-
+Good carries for sustained damage teams have the ability to put out large amounts of damage with their normal or charged attacks without draining too much stamina.
 
 Good supports for sustained damage teams have moderate cooldowns \(~15 seconds\) on their abilities. Elements to react with, healing, and off-field damage are all valuable.
 
 ### **Short Rotation Carry**
 
-**A short rotation carry team spends 6-8 seconds attacking with the carry per rotation, with supports filling in the rest of the time.** A short rotation carry team will have a rotation time of 12-15 seconds - the carry does their burst of damage, then each support rotates in to use their skill and/or burst.  
+**A short rotation carry team spends 6-8 seconds attacking with the carry per rotation, with supports filling in the rest of the time.** A short rotation carry team will have a rotation time of 12-15 seconds - the carry does their burst of damage, then each support rotates in to use their skill and/or burst.
 
+When building a short rotation carry team, you usually need to invest in both your carry and your supports. If you don’t have the resin for that, play the team as a sustained damage carry team until then. Your carry should be at least level 70, ascension 5, level 90 weapon, level 6-8 talents, and +20 artifacts. Your supports should be at least level 60, ascension 4, level 80 weapon, level 6 talents, and +16 artifacts.
 
-When building a short rotation carry team, you usually need to invest in both your carry and your supports. If you don’t have the resin for that, play the team as a sustained damage carry team until then. Your carry should be at least level 70, ascension 5, level 90 weapon, level 6-8 talents, and +20 artifacts. Your supports should be at least level 60, ascension 4, level 80 weapon, level 6 talents, and +16 artifacts.  
+Good carries for short rotation carry teams have the ability to do a large amount of damage in a short window, such as Diluc’s attack-skill weave combo, or Keqing’s charged attack spam. tCarries with forced downtime, such as Tartaglia and Hu Tao, are a natural fit for a short rotation team.
 
+Good supports for short rotation teams often have 12 second cooldown bursts, which they can use off cooldown on a short rotation team. Elements to react with and burst damage are valuable. Favonius weapons are good choices, as short rotation teams are very energy hungry.
 
-Good carries for short rotation carry teams have the ability to do a large amount of damage in a short window, such as Diluc’s attack-skill weave combo, or Keqing’s charged attack spam. tCarries with forced downtime, such as Tartaglia and Hu Tao, are a natural fit for a short rotation team.  
-
-
-Good supports for short rotation teams often have 12 second cooldown bursts, which they can use off cooldown on a short rotation team. Elements to react with and burst damage are valuable. Favonius weapons are good choices, as short rotation teams are very energy hungry.  
-
-
-If your carry has forced downtime, such as Tartaglia or Hu Tao, you need a way to fill in that downtime. Bennett is a good option because of his short skill cooldown, you can rotate Tartaglia - Bennett - Support - Support - Bennett to fill a 6 second gap. Running a second carry is usually not a good idea, because the supports for your first carry won’t be able to support your second carry, you lose out on a support hero, and you need to invest in both carries.  
-
+If your carry has forced downtime, such as Tartaglia or Hu Tao, you need a way to fill in that downtime. Bennett is a good option because of his short skill cooldown, you can rotate Tartaglia - Bennett - Support - Support - Bennett to fill a 6 second gap. Running a second carry is usually not a good idea, because the supports for your first carry won’t be able to support your second carry, you lose out on a support hero, and you need to invest in both carries.
 
 Short rotation teams are impractical if you don’t have a lot of resin to invest, but are very strong once you’ve invested a lot in the entire team.
 
 ### Quickswap
 
-**A quickswap team spends almost no time using normal or charged attacks, instead swapping very quickly to use elemental skills and bursts.** The energy provided by the elemental skills fuels the bursts. A quickswap team will have a rotation time of under 12 seconds.  
+**A quickswap team spends almost no time using normal or charged attacks, instead swapping very quickly to use elemental skills and bursts.** The energy provided by the elemental skills fuels the bursts. A quickswap team will have a rotation time of under 12 seconds.
 
+When building a quickswap team, you need at least level 60, ascension 4, level 80 weapon, level 6 talents, and +16 artifacts on all your heroes. Generally you want to have level 70, etc, on most of them.
 
-When building a quickswap team, you need at least level 60, ascension 4, level 80 weapon, level 6 talents, and +16 artifacts on all your heroes. Generally you want to have level 70, etc, on most of them.  
-
-
-A quickswap team doesn’t have carries and supports as such, instead each hero spends a similar amount of time on the field and contributes a significant amount of damage output. Good heroes for quickswap teams have 6 second cooldowns on their skills and 12 second cooldowns on their bursts, and deal a lot of damage with them. Venti is extremely good on quickswap teams because of the energy generated by his A4 passive and because of his ability to group enemies for AoE skills. Energy generation and high burst damage are important.  
-
+A quickswap team doesn’t have carries and supports as such, instead each hero spends a similar amount of time on the field and contributes a significant amount of damage output. Good heroes for quickswap teams have 6 second cooldowns on their skills and 12 second cooldowns on their bursts, and deal a lot of damage with them. Venti is extremely good on quickswap teams because of the energy generated by his A4 passive and because of his ability to group enemies for AoE skills. Energy generation and high burst damage are important.
 
 Quickswap teams usually require a lot of resin to be effective, and also benefit a lot from having 5-star heroes, high-constellation 4-star heroes, or best of all high-constellation 5-star heroes.
 
 ### **Other Teams**
 
-A combo team aims to deal an enormous amount of damage very quickly with a combo such as Bennett + Mona + Tartaglia to clear an abyss floor in a single rotation. These teams require enormous investment in both resin and constellations.  
+A combo team aims to deal an enormous amount of damage very quickly with a combo such as Bennett + Mona + Tartaglia to clear an abyss floor in a single rotation. These teams require enormous investment in both resin and constellations.
 
-
-An off-field carry team has the “carry” who spends most of the time on the field enable an off-field damage dealer, instead of dealing damage themselves. For example, a Sucrose-Fischl-Xingqiu team uses Sucrose’s attacks to trigger Fischl’s A4 passive, or a Childe-Xiangling team has Childe attack to set up hydro for Xiangling to vaporize. These teams work similarly to sustained or short rotation carry teams, but investment should be focused on the character that does the most damage instead of the character that spends the most time on the field.  
-
+An off-field carry team has the “carry” who spends most of the time on the field enable an off-field damage dealer, instead of dealing damage themselves. For example, a Sucrose-Fischl-Xingqiu team uses Sucrose’s attacks to trigger Fischl’s A4 passive, or a Childe-Xiangling team has Childe attack to set up hydro for Xiangling to vaporize. These teams work similarly to sustained or short rotation carry teams, but investment should be focused on the character that does the most damage instead of the character that spends the most time on the field.
 
 ## **Team Suitability**
 
@@ -96,7 +79,7 @@ The following tables shows which teams each hero is most suitable for. Note that
 | Keqing \(electro\) | Bad | Bad | Best | Good |
 | Keqing \(physical\) | Bad | Decent | Best | Bad |
 | Klee | Best | Decent | Bad | Bad |
-| Ningguang \(carry\)    | Bad | Decent | Best | Good |
+| Ningguang \(carry\) | Bad | Decent | Best | Good |
 | Noelle | Bad | Best | Bad | Bad |
 | Razor | Best | Bad | Bad | Bad |
 | Tartaglia | Bad | Bad | Best | Good |
@@ -132,7 +115,7 @@ Xiangling and Zhongli are bad in quickswap teams when built as Crescent Pike car
 | Xiangling \(support\) | Decent | Best | Decent | Decent |
 | Xingqiu | Best | Good | Good | Bad |
 | Xinyan | Bad | Best | Decent | Bad |
-| Zhongli \(support\)  | Good | Good | Best | Good |
+| Zhongli \(support\) | Good | Good | Best | Good |
 
 {% hint style="info" %}
 **\*** Kaeya is good at enabling Superconduct for Razor but is otherwise bad on a selfish carry team.
@@ -142,39 +125,29 @@ Xiangling and Zhongli are bad in quickswap teams when built as Crescent Pike car
 
 ## **Elemental Reactions**
 
-**If you’re building a team around elemental reactions, you nearly always want to build around one or maybe two reactions, as that lets you focus on maximizing the value of that reaction.** For example, if you put Fischl on a Diluc-Xingqiu vaporize team, you’ll lose a lot of damage from Vaporizing Diluc’s damage in exchange for a small amount of overload and electro-charged damage. If you put Beidou on a Kaeya-Xingqiu freeze team, you’ll burn off the frozen status with superconduct triggers.  
-
+**If you’re building a team around elemental reactions, you nearly always want to build around one or maybe two reactions, as that lets you focus on maximizing the value of that reaction.** For example, if you put Fischl on a Diluc-Xingqiu vaporize team, you’ll lose a lot of damage from Vaporizing Diluc’s damage in exchange for a small amount of overload and electro-charged damage. If you put Beidou on a Kaeya-Xingqiu freeze team, you’ll burn off the frozen status with superconduct triggers.
 
 ### Melt and Vaporize
 
 **These damage-amplifying reactions are the strongest in the game.** It’s very important to have your largest damage sources trigger the reaction, which means having the corresponding element applied to the enemy before your largest damage source.
 
-Most of the time, triggering a 1.5x reaction \(vaporize with pyro or melt with cryo\) will leave some of the initial \(aura\) element still on a target. A single application of hydro can enable two 1.5x vaporize reactions, and a single application of pyro can enable two 1.5x melt reactions. On the other hand, an application of pyro can only support one 2x hydro-vaporize, and an application of cryo can support only one 2x pyro-melt. This makes it much easier to reliably trigger 1.5x reactions than 2x reactions.  
+Most of the time, triggering a 1.5x reaction \(vaporize with pyro or melt with cryo\) will leave some of the initial \(aura\) element still on a target. A single application of hydro can enable two 1.5x vaporize reactions, and a single application of pyro can enable two 1.5x melt reactions. On the other hand, an application of pyro can only support one 2x hydro-vaporize, and an application of cryo can support only one 2x pyro-melt. This makes it much easier to reliably trigger 1.5x reactions than 2x reactions.
 
+Elemental attacks and abilities do not always apply elements every time they hit; most talents have an internal cooldown on elemental application. For example, Klee’s normal attacks do not apply pyro on every hit, meaning they cannot vaporize every hit even against a hydro slime. This can also make it difficult to set up reactions how you would like - even though Kaeya’s burst hits more frequently than Xiangling’s burst, it applies cryo less frequently. If you use both bursts at the same time, Kaeya’s burst will trigger the melt reaction for 1.5x damage and Xiangling will not trigger melt.
 
-Elemental attacks and abilities do not always apply elements every time they hit; most talents have an internal cooldown on elemental application. For example, Klee’s normal attacks do not apply pyro on every hit, meaning they cannot vaporize every hit even against a hydro slime. This can also make it difficult to set up reactions how you would like - even though Kaeya’s burst hits more frequently than Xiangling’s burst, it applies cryo less frequently. If you use both bursts at the same time, Kaeya’s burst will trigger the melt reaction for 1.5x damage and Xiangling will not trigger melt.  
+In practice, this means that a melt/vaporize team will typically involve a pyro carry triggering Vaporize, or a cryo carry triggering Melt. Bennett and Amber are rare exceptions; their elemental applications have a long enough cooldown that you can reliably apply cryo in between the hits to trigger 2x pyro melts. Xingqiu is the best hydro-application support, and Xiangling the best pyro-application support.
 
+It’s not usually possible to support more than one vaporizer or melter on a team. Running Diluc + Xiangling + Xingqiu will apply too much pyro for Xingqiu to keep up, and you’ll end up burning off all the hydro from the enemy, applying pyro, and having Xingqiu trigger vaporize for tiny damage instead of Diluc or Xiangling triggering vaporize for a lot of damage. You can run Diluc + Bennett + Xingqiu, though, because Bennett only applies pyro occasionally.
 
-In practice, this means that a melt/vaporize team will typically involve a pyro carry triggering Vaporize, or a cryo carry triggering Melt. Bennett and Amber are rare exceptions; their elemental applications have a long enough cooldown that you can reliably apply cryo in between the hits to trigger 2x pyro melts. Xingqiu is the best hydro-application support, and Xiangling the best pyro-application support.  
-
-
-It’s not usually possible to support more than one vaporizer or melter on a team. Running Diluc + Xiangling + Xingqiu will apply too much pyro for Xingqiu to keep up, and you’ll end up burning off all the hydro from the enemy, applying pyro, and having Xingqiu trigger vaporize for tiny damage instead of Diluc or Xiangling triggering vaporize for a lot of damage. You can run Diluc + Bennett + Xingqiu, though, because Bennett only applies pyro occasionally.  
-
-
-2x melt/vaporize reactions are still useful if you have large single damage instances such as Mona’s or Tartaglia’s burst.  
-
+2x melt/vaporize reactions are still useful if you have large single damage instances such as Mona’s or Tartaglia’s burst.
 
 ### Freeze
 
-**Freeze teams get a huge amount of crit from Blizzard Strayer**, letting you charged attack with impunity, prevent Fatui from shielding, bypass Mitachurl shields, and not need to worry about enemy attacks.  
+**Freeze teams get a huge amount of crit from Blizzard Strayer**, letting you charged attack with impunity, prevent Fatui from shielding, bypass Mitachurl shields, and not need to worry about enemy attacks.
 
+Kaeya, Chongyun and Ganyu are good cryo sources for a freeze team. Xingqiu is the best hydro source; Mona is less reliable, but doesn’t require you to use normal attacks.
 
-Kaeya, Chongyun and Ganyu are good cryo sources for a freeze team. Xingqiu is the best hydro source; Mona is less reliable, but doesn’t require you to use normal attacks.  
-
-
-Claymore attacks and geo damage will shatter frozen enemies, which you want to avoid, so don’t run them on freeze teams. Occasional electro application for superconduct can be good, such as in a Keqing + Kaeya + Xingqiu freeze team, but too-frequent application will reduce the freeze duration.  
-****  
-
+Claymore attacks and geo damage will shatter frozen enemies, which you want to avoid, so don’t run them on freeze teams. Occasional electro application for superconduct can be good, such as in a Keqing + Kaeya + Xingqiu freeze team, but too-frequent application will reduce the freeze duration.
 
 ### Superconduct
 
@@ -190,8 +163,7 @@ The effects of swirl itself aren’t very relevant, what matters is the Viridesc
 
 ### Crystallize
 
-The crystallize shield isn’t strong enough to be worth worrying about. The Petra 4-piece bonus is often more trouble than it’s worth - you need the Petra support to pick up the crystal, and the time taken doing so can cost you more damage than the bonus provides. Keeping a crystallize shield up for geo resonance is worthwhile. Like Swirl, Crystallize doesn’t eat up too much aura so you don’t need to worry about a Zhongli or Albedo messing up your reactions.  
-
+The crystallize shield isn’t strong enough to be worth worrying about. The Petra 4-piece bonus is often more trouble than it’s worth - you need the Petra support to pick up the crystal, and the time taken doing so can cost you more damage than the bonus provides. Keeping a crystallize shield up for geo resonance is worthwhile. Like Swirl, Crystallize doesn’t eat up too much aura so you don’t need to worry about a Zhongli or Albedo messing up your reactions.
 
 ### Rate of Elemental Application
 
@@ -390,19 +362,13 @@ The crystallize shield isn’t strong enough to be worth worrying about. The Pet
 
 ## Energy
 
-**The main way of generating energy is from elemental skills.** They generate elemental particles, which give energy to your team. The active hero will gain more energy than inactive heroes, and heroes who have the same element as the particle will get more energy than heroes with different elements. You can get energy by having multiple heroes of the same element in order to get more out of each particle. Damaging and killing enemies also generates particles, which will most often be picked up by your carry because they spend the most time on the field.  
+**The main way of generating energy is from elemental skills.** They generate elemental particles, which give energy to your team. The active hero will gain more energy than inactive heroes, and heroes who have the same element as the particle will get more energy than heroes with different elements. You can get energy by having multiple heroes of the same element in order to get more out of each particle. Damaging and killing enemies also generates particles, which will most often be picked up by your carry because they spend the most time on the field.
 
+You should identify which heroes have the most important elemental bursts, and build your team around giving them enough energy, usually by having another hero of the same element. Having multiple heroes of the same element also lets you swap heroes while particles are in the air without losing energy, increasing your overall DPS. Having energy regeneration artifacts and/or weapons helps of course, though this trades off against damage. Favonius weapons are good at providing energy to the entire team.
 
-You should identify which heroes have the most important elemental bursts, and build your team around giving them enough energy, usually by having another hero of the same element. Having multiple heroes of the same element also lets you swap heroes while particles are in the air without losing energy, increasing your overall DPS. Having energy regeneration artifacts and/or weapons helps of course, though this trades off against damage. Favonius weapons are good at providing energy to the entire team.  
+If you’ve got a hero that needs a lot of energy, you can have another hero of the same element use their elemental skill, then swap to the energy-hungry hero to pick up the particles.
 
-
-If you’ve got a hero that needs a lot of energy, you can have another hero of the same element use their elemental skill, then swap to the energy-hungry hero to pick up the particles.  
-
-
-Quickswap teams, which use elemental skills very frequently, generate the most energy. Selfish carry teams generate the least.  
-
-
-
+Quickswap teams, which use elemental skills very frequently, generate the most energy. Selfish carry teams generate the least.
 
 | **Unit** | Energy Generation | **Energy Needs** |
 | :--- | :--- | :--- |
@@ -447,8 +413,7 @@ Xingqiu's energy generation goes from Poor to Great if he has a Sacrificial Swor
 
 ![](../.gitbook/assets/unknown%20%281%29.png)
 
-In this team, Xiao deals all the damage. Sucrose provides energy, and with C1 can use her elemental skill twice per rotation. Jean provides energy and heals. Zhongli gives a long-lasting shield and resistance shred.  
-
+In this team, Xiao deals all the damage. Sucrose provides energy, and with C1 can use her elemental skill twice per rotation. Jean provides energy and heals. Zhongli gives a long-lasting shield and resistance shred.
 
 ![](../.gitbook/assets/unknown-1-.png)
 
@@ -472,65 +437,51 @@ This is one of the most potent damaging teams in the game. Ganyu does enormous d
 
 Chongyun’s cryo infuse and Xingqiu’s burst enables Kaeya to freeze the enemy and deal a lot of damage with Blizzard Strayer-boosted charged attacks. Bennett is flexible; the team doesn’t necessarily need more healing than Xingqiu because freeze prevents the enemy from attacking.
 
-![](../.gitbook/assets/unknown-13-.png)
+![](../.gitbook/assets/unknown%20%283%29.png)
 
 Although this team shares many heroes with the previous team, it works quite differently. The goal is to melt most of Xiangling’s burst hits, and vaporize the rest. Xingqiu’s burst quickly clears off any pyro auras, which would otherwise result in 1.5x cryo melts ruining the combo. Xiangling is the main damage dealer; Kaeya spends the most time on the field and also does reasonable damage. Black Sword on Kaeya helps make up for the lack of a dedicated healer; Favonius weapons on Xiangling and/or Chongyun help a lot with energy.
 
-![](../.gitbook/assets/unknown%20%286%29.png)
+![](../.gitbook/assets/unknown-6-.png)
 
-The “taser” team is based around triggering Fischl’s A4 passive as much as possible with electro-charged and swirl. Sucrose spends the most time on field, but Fischl is the main damage dealer. Xingqiu and Beidou add a lot of damage to Sucrose’s otherwise worthless normal attacks. The stagger from electro-charged, damage reduction from Xingqiu, and counter from Beidou substitute for a healer. You can replace Beidou with Bennett, especially if you have C6 on Fischl.  
+The “taser” team is based around triggering Fischl’s A4 passive as much as possible with electro-charged and swirl. Sucrose spends the most time on field, but Fischl is the main damage dealer. Xingqiu and Beidou add a lot of damage to Sucrose’s otherwise worthless normal attacks. The stagger from electro-charged, damage reduction from Xingqiu, and counter from Beidou substitute for a healer. You can replace Beidou with Bennett, especially if you have C6 on Fischl.
 
+![](../.gitbook/assets/unknown-7-.png)
 
-![](../.gitbook/assets/unknown%20%287%29.png)
-
-Crescent Pike Zhongli does reasonable damage with his attacks, while also reducing enemy resistance to boost the damage of Xiangling’s vaporized burst. Albedo is flexible; the team doesn’t need a healer because of Zhongli’s shield and Xingqiu’s damage reduction, but Bennett is still strong.  
-
+Crescent Pike Zhongli does reasonable damage with his attacks, while also reducing enemy resistance to boost the damage of Xiangling’s vaporized burst. Albedo is flexible; the team doesn’t need a healer because of Zhongli’s shield and Xingqiu’s damage reduction, but Bennett is still strong.
 
 ### **Short Rotation Carry**
 
-![](../.gitbook/assets/unknown%20%288%29.png)
+![](../.gitbook/assets/unknown-8-.png)
 
 Xingqiu enables Diluc to vaporize, Zhongli provides resistance shred and a good low-cooldown burst, Bennett provides energy, buffs and heals.
 
-![](../.gitbook/assets/unknown%20%289%29.png)
+![](../.gitbook/assets/unknown-9-.png)
 
-Electro-charged from Keqing and Xingqiu enables Fischl’s A4 passive for lots of damage. Jean provides resistance shred with Viridescent Venerer, heals, and a short cooldown elemental skill. Electro resonance helps with the team’s energy needs.  
+Electro-charged from Keqing and Xingqiu enables Fischl’s A4 passive for lots of damage. Jean provides resistance shred with Viridescent Venerer, heals, and a short cooldown elemental skill. Electro resonance helps with the team’s energy needs.
 
-
-![](../.gitbook/assets/unknown%20%2810%29.png)
+![](../.gitbook/assets/unknown-10-.png)
 
 Ningguang and Albedo feed each other energy for frequent bursts, which are amplified by geo resonance. Crystallize triggers Fischl’s A4 passive for good damage.
 
 ![](../.gitbook/assets/childe.png)
 
-Xiangling is the team’s primary damage dealer, though she doesn’t spend much time on the field. Bennett acts as carry while Tartaglia’s burst is on cooldown. Tartaglia uses E and attacks for 7 seconds to vaporize Xiangling’s burst, Sucrose provides grouping and resistance shred, Bennett provides energy, damage and healing. Constellation 4 on Xiangling is recommended.  
-
+Xiangling is the team’s primary damage dealer, though she doesn’t spend much time on the field. Bennett acts as carry while Tartaglia’s burst is on cooldown. Tartaglia uses E and attacks for 7 seconds to vaporize Xiangling’s burst, Sucrose provides grouping and resistance shred, Bennett provides energy, damage and healing. Constellation 4 on Xiangling is recommended.
 
 ### Quickswap
 
-![](../.gitbook/assets/unknown-14-.png)
+![](../.gitbook/assets/unknown%20%282%29.png)
 
 This team is based around abusing the energy from “Turbo Fischl”. When Oz’s attacks trigger overload \(or superconduct\), they generate a particle for each enemy hit. This enables Beidou and Xiangling to burst off cooldown even if they choose attack weapons over energy recharge. The team has fewer short-cooldown abilities than most quickswap teams, but also doesn’t care about normal attack damage. Works best on abyss floors where you fight multiple large enemies simultaneously.
 
-![](../.gitbook/assets/unknown%20%2811%29.png)
+![](../.gitbook/assets/unknown-11-.png)
 
 The traveler’s boulder explodes if there are more than 3 structures placed on the field, which you can do every 6 seconds with a boulder-pillar-flower rotation. All the structures also enable Zhongli’s pillar pulses, and you have a huge amount of energy generation for frequent bursts from all your heroes.
 
-![](../.gitbook/assets/unknown%20%2812%29.png)
+![](../.gitbook/assets/unknown-12-.png)
 
 Venti and Jean do a lot of damage with their skills and bursts, while providing energy to each other to burst off cooldown. Bennett buffs damage. Chongyun’s burst does a lot of damage when melted on a low cooldown, and his C2 reduces the team’s cooldowns.
 
 ![](../.gitbook/assets/ganyu.png)
 
-If you freeze an enemy affected by Mona’s Omen, the Omen remains until the enemy becomes unfrozen. A hydro-infused Venti burst combined with a Ganyu burst can keep an enemy frozen for a long time, and deal a huge amount of damage in the process.  
-****
-
-  
-
-
-  
-
-
-  
-
+If you freeze an enemy affected by Mona’s Omen, the Omen remains until the enemy becomes unfrozen. A hydro-infused Venti burst combined with a Ganyu burst can keep an enemy frozen for a long time, and deal a huge amount of damage in the process.
 
