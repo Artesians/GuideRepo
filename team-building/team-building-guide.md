@@ -6,9 +6,9 @@ description: 'Written by Zakharov#5645 and edited [Neko]#3521'
 
 ## Definitions
 
-* **A carry is the hero who spends the most time on the field, and deals the most damage**
-* **A support is any other hero**
-* **A rotation is the time taken to have each character in the team switch in, do what they need to do, and switch out again**
+* A carry is the hero who spends the most time on the field, and deals the most damage
+* A support is any other hero
+* A rotation is the time taken to have each character in the team switch in, do what they need to do, and switch out again
 
 ## Team Types
 
