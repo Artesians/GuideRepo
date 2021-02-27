@@ -72,7 +72,7 @@ r/Keqingmains
 
 ## **Weapons**
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This section is awaiting Coronaus' calculations! Please wait.
 {% endhint %}
 
@@ -90,7 +90,7 @@ This section is awaiting Coronaus' calculations! Please wait.
 | **Blackcliff Spear R1 +0** |  |  |
 | **Favonius Lance** |  | Damage loss is very high, but Zhongli can battery for his team with high refinements. |
 
-Per Coronaus':
+Per Coronaus:
 
 > Staff of Homa is an exceptionally strong spear on support and Geo DPS Zhongli builds, being BiS for the first, and a contender for the latter. With a support Zhongli build, It is the numerically best option. Other high tier options such as PJWS require more field time to achieve higher damage where as Homa allows that damage right off the bat, allowing you to optimize time on your DPS. It also provide solid additional shielding with it HP% passive boost. A large point to note is Homa's strength at lower HP. It is very strong but in many situations not ideal to rely on the bonus damage gained from its passive, although a good method of exploiting this can be done in abyss by intentionally taking damage on a lower floor that you have already cleared or no longer are constrained by time on. It beats out PJWS with neither having stacks, making it the most optimal weapon for this build type.
 >
@@ -113,8 +113,6 @@ Planet Befall has the highest talent scaling of any single ability in the game a
 Normal Attack: Rain of Stone &gt; Planet Befall &gt; Dominus Lapidis
 
 Simple, enough, Rain of Stone will provide your higher talent values per second on your autos. Planet Befall gets more petrification time and damage.
-
-
 
 ## **Constellations**
 
