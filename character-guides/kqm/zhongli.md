@@ -1,7 +1,13 @@
+---
+description: >-
+  A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely
+  knowledgeable in all things.
+---
+
 # Zhongli
 
 {% hint style="info" %}
-Visit [Zhongli Mains](%20https://discord.gg/3h5uepPXKr) for more in-depth analysis on Zhongli!
+Visit [Zhongli Mains](%20https://discord.gg/3h5uepPXKr) for more in-depth analysis on the Geo Archon!
 {% endhint %}
 
 ## Official Art
@@ -24,7 +30,7 @@ Visit [Zhongli Mains](%20https://discord.gg/3h5uepPXKr) for more in-depth analys
 
 Zhongli's rise to power since his buffs in 1.3 has left many Genshin Impact players wishing that they had pulled on his banner. Between a global RES shred and stronger shield, the Geo Archon has rocketed in value since his troubled release.
 
-### **Support:**
+### **Support**
 
 At level 70, a +20 flower, and talent level 6 in Dominus Lapidis, Zhongli is casting a 4,820 health shield with 150% damage absorption. His damage is pretty weak for shield-bot gameplay, but his utility and the comfort that he offers cannot be understated as you approach the endgame.
 
@@ -34,26 +40,30 @@ At level 70, a +20 flower, and talent level 6 in Dominus Lapidis, Zhongli is cas
   * Makes the game comfortable to play with Jade Shield's one stop shop utility.
   * Planet Befall has extremely long invulnerability frames.
   * RES shred for a potential 20 seconds can offer \(less\) increased damage for less work than Viridescent Venerer.
+  * In Geo quickswap teams, his resonance damage off his Stone Steele is impressive.
 * **Cons:**
   * His petrify is fairly short, but it buys breathing time.
   * Using his Planet Befall takes a long time to cast and typically is a DPS loss in the later portions of the game.
 
-### **Physical Carry:**
+### **Physical Carry**
 
 Physical carry Zhongli can make use of his global shred and abuse his fast auto attacks with Crescent Pike to push his physical damage further. With his buffs in 1.3, he has more room to deviate from Crescent Pike and can consider using Primordial Jade-Winged Spear or the Staff of Homa. 
 
 * **Pros:**
-  * Crescent Pike is a prototype weapon that can be refined by lucky players.
+  * R3 Crescent Pike is easily achievable, as the game rewards three northlander polearm prototypes.
   * Zhongli is completely self sufficient as a DPS unit, leaving a lot of freedom for his team compositions.
+  * Zhongli can empower his supports while on field with Crescent Pike to push the total team damage further.
   * Extremely safe as a DPS unit because of his shield and petrify.
   * His resistance shred still supports his team just as much as his support builds.
 * **Cons:**
-  * Pushing this build further requires multiple drops of northlander prototypes.
-  * The ceiling on Zhongli's physical damage output is not that high compared to the carries in the game.
+  * The ceiling on Zhongli's physical damage output is not that high compared to the hypercarries in the game, but is more than capable of reaching equivalent or higher total team damage output against viable carries like Razor or Keqing.
 
-### **Credits:**
+### **Credits**
 
 Artesians\#0002  
+Noahboy88\#8888  
+Finrod\#8406  
+IceKane\#0689  
 
 
 r/Zhonglimains  
@@ -81,13 +91,19 @@ T
 
 ## **Talent Priority**
 
-Planet Befall &gt; Normal Attack: Rain of Stone &gt; Dominus Lapidis 
+### Support
 
-F
+Planet Befall &gt; Dominus Lapidis &gt; Normal Attack: Rain of Stone
 
-## **Support Xiao? Quickswap Xiao?**
+Planet Befall has the highest talent scaling of any single ability in the game and ramps up quite sharply every talent upgrade \(65% per talent level\) and the petrified status gets longer. Dominus Lapidis gets power from going beyond talent level 6, but the effects may not be as noticeable as dropping his Burst.
 
-Qu
+### Physical Carry
+
+Normal Attack: Rain of Stone &gt; Planet Befall &gt; Dominus Lapidis
+
+Simple, enough, Rain of Stone will provide your higher talent values per second on your autos. Planet Befall gets more petrification time and damage.
+
+
 
 ## **Constellations**
 
@@ -95,19 +111,23 @@ Qu
 
 _Increase the maximum amount of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2._
 
-De
+Increases the area of AoE when used in tandem with the Geo MC's burst constructs. It's an indirect buff to his energy recharge.
 
 #### **C2: Stone, the Cradle of Jade**
 
 _Planet Befall grants nearby characters on the field a Jade Shield when it descends._
 
-Pretty good constellation when we examine the fact that a lot of our rotations could be generating orbs and the increased efficiency is pretty good depending on your team compositions. This constellation also has the incredible benefit of opening up Xiao’s non-battery comps or heavy swap comps.
+P
 
 #### **C4: Topaz, Unbreakable and Fearless**
 
 _Increases Planet Befall’s AoE by 20% and increases the duration of Petrification by 2 seconds._
 
 I assume you’re here because C6.
+
+**C5: Lazuli, Herald of the Order**
+
+Increases the Level of Planet Befall by 3.
 
 #### **C6: Chrysos, Bounty of Dominator**
 
