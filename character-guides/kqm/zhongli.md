@@ -62,6 +62,7 @@ Physical carry Zhongli can make use of his global shred and abuse his fast auto 
 
 Artesians\#0002  
 Noahboy88\#8888  
+Coronaus\#0001  
 Finrod\#8406  
 IceKane\#0689  
 
@@ -71,23 +72,33 @@ r/Keqingmains
 
 ## **Weapons**
 
-| **Weapons / Refinements / Conditions** | **DPS at 90, Max Stats** | **Notes** |
-| :--- | :--- | :--- |
-| **Lithic Spear R5 +4 Liyue** | 15290.65 | Impractical to use this team, but it’s powerful. |
-| **Primordial Jade-Winged Spear** | 14560.54 | Calc’d at max stacks |
-| **Staff of Homa \(-50% HP\)** | 14505.49 | If you can maintain this HP, it's close to PJWS |
-| **Vortex Vanquisher \(Shielded\)** | 13579.72 | Extremely powerful with Zhongli |
-| **Staff of Homa** | 13390.88 |  |
-| **Lithic Spear R3 +3 Liyue** | 13329.81 |  |
-| **Vortex Vanquisher \(Unshielded\)** | 12730.30 |  |
-| **Deathmatch \(2 enemies\)** | 11802.09 | CR% substat is powerful for bad artifacts. |
-| **Skyward Spine** | 11314.35 | No vacuum blade DPS, ER helps a lot. |
-| **Lithic Spear R1 +2 Liyue** | 11635.56 | Worst case scenario for Lithic. |
-| **Blackcliff Spear R1 +1** | 11627.34 |  |
-| **Blackcliff Spear R1 +0** | 11078.76 |  |
-| **Favonius Lance** | 9,774.32 | The orbs are more powerful than can be measured  |
+{% hint style="info" %}
+This section is awaiting Coronaus' calculations! Please wait.
+{% endhint %}
 
-T
+| **Weapons / Refinements / Conditions** | **DPS at 90** | **Notes** |
+| :--- | :--- | :--- |
+| **Staff of Homa** |  | BiS for Support Zhongli |
+| **Primordial Jade-Winged Spear** |  | Second BiS for Support |
+| **Crescent Pike** |  | BiS for Physical Carry |
+| **Vortex Vanquisher \(Shielded\)** |  |  |
+| **Staff of Homa** |  |  |
+| **Deathmatch \(2 enemies\)** |  |  |
+| **Skyward Spine** |  |  |
+| **Lithic Spear R1 +2 Liyue** |  |  |
+| **Blackcliff Spear R1 +1** |  |  |
+| **Blackcliff Spear R1 +0** |  |  |
+| **Favonius Lance** |  | Damage loss is very high, but Zhongli can battery for his team with high refinements. |
+
+Per Coronaus':
+
+> Staff of Homa is an exceptionally strong spear on support and Geo DPS Zhongli builds, being BiS for the first, and a contender for the latter. With a support Zhongli build, It is the numerically best option. Other high tier options such as PJWS require more field time to achieve higher damage where as Homa allows that damage right off the bat, allowing you to optimize time on your DPS. It also provide solid additional shielding with it HP% passive boost. A large point to note is Homa's strength at lower HP. It is very strong but in many situations not ideal to rely on the bonus damage gained from its passive, although a good method of exploiting this can be done in abyss by intentionally taking damage on a lower floor that you have already cleared or no longer are constrained by time on. It beats out PJWS with neither having stacks, making it the most optimal weapon for this build type.
+>
+> In a Geo DPS build, much of the same holds true in Homa's strengths. PJWS does win in damage here for the reason of Zhongli having much more field time in this scenario, allowing it to stack and obtain higher damage. While Homa does still win in damage below 50% HP, it's far less optimal to obtain that buff than PJWS's buff simply by dealing damage. It should be noted that it's high damage allows it to edge out Vortex Vanquisher and establish itself as the second most optimal weapon for this playstyle but only by small margins.
+>
+> **In a physical DPS build, Crescent Pike is still BiS.**
+>
+> Staff of Homa scales extremely well with refinements due to gaining scaling on both the HP to ATK conversion ratio and the HP gained from the passive. It is a solid spear to roll for if you lack a spear that is as strong or stronger than Deathmatch for support and Geo DPS Zhongli builds.
 
 ## **Talent Priority**
 
@@ -137,6 +148,53 @@ _When Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the
 
 This constellation has become a double edged sword for Zhongli with the release of the Staff of Homa and Hu Tao. Its value is now dependent on team composition and weapon choice.
 
+## Artifacts
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Playstyle</b>
+      </th>
+      <th style="text-align:left">Artifact Set</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Support</td>
+      <td style="text-align:left">
+        <p><b>Archaic Petra (2) + Noblesse Oblige (2) </b>
+        </p>
+        <p>A strong bread and butter artifact set for Zhongli. Archaic Petra and
+          Noblesse Oblige make swapping to Zhongli for a little more damage more
+          palatable.</p>
+        <p></p>
+        <p><b>Noblesse Oblige (4)</b>
+        </p>
+        <p>Zhongli makes a decent user of Noblesse Oblige for team damage.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Physical Carry</td>
+      <td style="text-align:left">
+        <p><b>Gladiator&apos;s Triumph (2) + Bloodstained Chivalry (2)<br /></b>By
+          far his strongest option for physical damage output.
+          <br />
+        </p>
+        <p><b>Gladiator&apos;s Triumph (4)</b>
+        </p>
+        <p><b>Retracing Bolide (4)</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Additional Notes</td>
+      <td style="text-align:left">For main stat choices on his timepiece, you can run HP% for stronger Jade
+        Shields on support, and ATK% for more damage. The circlet should still
+        be CRIT, and the goblet is Geo DMG%.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## **How To Play Zhongli**
 
 ### Support
@@ -147,9 +205,9 @@ As for team compositions, his value extends far and wide. With stagger resistanc
 
 ### **Physical Carry**
 
-For physical Zhongli, his combos for proper damage output changes on your choice of weaponry. For Crescent Pike users, optimal damage is using N4 cancels by sprinting after the spear kick. It is recommended to use Superconduct with Fischl and Geo resonance to push his damage profile further. For 5\* weapons, N4 spear kicks into a Charged Attack yield strong results.
+For physical Zhongli, his combos for proper damage output changes on your choice of weaponry. For Crescent Pike users, optimal damage is using N4 cancels by sprinting after the spear kick. It is recommended to use Superconduct with Fischl and Geo resonance to push his damage profile further. For 5\* weapons, N4 spear kicks into a Charged Attack yield strong results. In general, his team compositions are fluid and you can take your pick of the litter in terms of sub-DPS units.
 
-#### \*\*\*\*
+#### **Small selection of sample team compositions:**
 
 | Composition | Notes |
 | :--- | :--- |
