@@ -12,7 +12,7 @@ This guide was written by ZΛNTO\#4984 of [Beidou Mains](https://discord.gg/rgS2
 
 ![](https://lh5.googleusercontent.com/3E3zi21cVfSbStlavrbGjPZX2NVGIH0WhqtWzfI_BsFrz16zWi-HzmcQpx1OeMYksDRIQPFej8tiSD48Vy8YKxv4J2GQgt10AcYtMxiqH4zMEdBwvTlZiMh0YXHQHGDZOS0CvMC6)
 
-**Original art by** [**flowersblood**](https://www.pixiv.net/en/artworks/86317655)\*\*\*\*
+**Original art by** [**flowersblood**](https://www.pixiv.net/en/artworks/86317655)
 
 Ahoy! Welcome aboard to the official Beidou guide brought to you by ZΛNTO\#4984 of [Beidou Mains](https://discord.gg/rgS2f9dBxb)! Feel free to ask me on Discord about anything related to the guide or Beidou.
 
@@ -206,7 +206,7 @@ Recalling her slaying of the great beast Haishan, Beidou calls upon that monstro
 * Increases the character's resistance to interruption, and decreases DMG taken.
 * Triggers a maximum of 1 lightning discharge per second.
 
-#### **“To ashes!”**
+#### _**“To ashes!”**_
 
 #### **Overview**
 
@@ -607,13 +607,13 @@ Also, Rainslasher is bad. Don’t use it. Just gonna get that out of the way.
 #### **Overall Main Carry Ranking: 1st**
 
 **Main Stats:** CR/ATK%/Electro%  
-\_\*\*\_CR:CD:ATK% substat distribution: 6:9:0
+CR:CD:ATK% substat distribution: 6:9:0
 
 Wolf’s Gravestone is strong enough to be a consistent 1st place for Main Carry. It has a ridiculous amount of ATK% that pads its damage output tremendously. On top of that, it has a party wide buff on its passive to further bolster team damage. Overall, Wolf’s is the low-effort, high-payout claymore that Beidou can absolutely take advantage of.
 
 #### **Overall Sub Carry Ranking: 1st**
 
-**Main Stats:** CR/ER/Electro  
+**Main Stats:** CR/ER/Electro%  
 CR:CD:ATK% substat distribution: 6:9:0
 
 For Sub Carry, WGS’ insane ATK% stat is extremely helpful as it allows Beidou to spec into an ER timepiece and solve most of her energy issues while still maintaining a 2k attack stat. Always use WGS if you have it, as it has the easiest time optimizing substats whereas other weapons need to be very picky.
@@ -656,13 +656,13 @@ For Sub Carry, WGS’ insane ATK% stat is extremely helpful as it allows Beidou 
 #### **Overall Main Carry Ranking: 2nd**
 
 **Main Stats:** CR/ATK%/Electro%  
-\_\*\*\_CR:CD:ATK% substat distribution: 6:9:0
+CR:CD:ATK% substat distribution: 6:9:0
 
 The Unforged is generally considered to be a WGS-lite due to their extremely similar stats spreads. However, the Unforged has the caveat that it needs to attack to get the ATK% that WGS has by default. When shielding and at maximum stacks however, the Unforged actually pulls ahead of WGS in terms of personal damage. One thing to keep in mind however is that Beidou’s C1 shield **does not** grant Beidou the Unforged shield ATK% during her Burst. You will need to shield Beidou before she enters Burst for maximum effect.
 
 **Overall Sub Carry Ranking: 3rd**
 
-**Main Stats:** CR/ER/Electro  
+**Main Stats:** CR/ER/Electro%  
 CR:CD:ATK% substat distribution: 6:9:0
 
 Similar situation to WGS; comfy building and access to ER without much sacrifice. However, the issue with the Unforged as a Sub Carry is that Beidou generally does not have the opportunity to stack up. She **does not** gain stacks off-field, which means we would need to stay on field normal attacking until max stacks, which is generally a DPS loss. Overall, it’s a bit cumbersome to use but even with max stacks, it loses to Skyward Pride in damage.
@@ -679,14 +679,14 @@ Similar situation to WGS; comfy building and access to ER without much sacrifice
 
 #### **Overall Main Carry Ranking: 3rd**
 
-**Main Stats:** CD/ATK%/Electro  
+**Main Stats:** CD/ATK%/Electro%  
 CR:CD:ATK% substat distribution: 12:3:0
 
 Serpent Spine is phenomenal for a 4 star weapon, easily the best one to ever exist. It is incredibly high-value and was practically made for Beidou to abuse. The stack mechanic synergizes very well with Beidou as she has an abundance of shields to ignore stack loss. Coupled with a Crit rate substat and a DMG% passive, Serpent Spine is absolutely stacked if you can keep it stacked \(heh\).
 
 #### **Overall Sub Carry Ranking: 4th**
 
-**Main Stats:** CD/ER%/Electro  
+**Main Stats:** CD/ER%/Electro%  
 CR:CD:ATK% substat distribution: 7:1:7
 
 Unfortunately, Serpent does lose some efficacy in the Sub Carry role and we get our first glimpse of the awkward substat optimization. ATK% is a stat that is sorely lacking for Sub Carries that need to run ER, and Serpent cannot fully utilize its passive without attack as a foundation. Builds need to split Crit and ATK% subs evenly along with 2Gladiator to compensate for the lack of attack.
@@ -728,14 +728,14 @@ Unfortunately, Serpent does lose some efficacy in the Sub Carry role and we get 
 
 #### **Overall Main Carry Ranking: 4th**
 
-**Main Stats:** CR/ATK%/Electro  
+**Main Stats:** CR/ATK%/Electro%  
 CR:CD:ATK% substat distribution: 5:10:0
 
 Lithic Blade’s release in 1.3 means Beidou finally gets a good gacha 4 star. It has a unique passive that would require you to make a Liyue team to get its full effect. Thankfully, Beidou is already Liyue and Xingqiu is, too. However, due to Beidou’s reliance on Fischl, it is difficult to slot in 4 Liyue. As such, when compared to Serpent Spine, it ultimately loses out by a small amount. Another thing to note about Lithic is that the optimal substat spread changes based on refine and Liyue members, which means this weapon is especially nightmarish to optimize.
 
 **Overall Sub Carry Ranking: 5th**
 
-**Main Stats:** CR/ER/Electro  
+**Main Stats:** CR/ER/Electro%  
 CR:CD:ATK% substat distribution: 5:10:0
 
 When evaluated for Sub Carry, its ATK% substat is a godsend and actually pushes it above Serpent by a small amount. However, the same limitations to team building and its finicky optimization means I rank it lower than Serpent, but its ceiling is much higher than Serpent’s. Refer to the Database spreadsheets and Make a Copy to see how it stacks up at various refines and Liyue members, as this weapon does require a lot of number crunching. It is well worth it, though.
