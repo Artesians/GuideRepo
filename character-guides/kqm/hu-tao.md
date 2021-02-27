@@ -11,6 +11,10 @@ Coming soon!
 {% endhint %}
 
 {% tabs %}
+{% tab title="Card Art" %}
+![](../../.gitbook/assets/character_hu_tao_card.png)
+{% endtab %}
+
 {% tab title="Leaked Wish Art" %}
 ![](../../.gitbook/assets/hutao.png)
 {% endtab %}
