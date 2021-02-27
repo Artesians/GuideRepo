@@ -10,6 +10,8 @@ description: >-
 
 {% tabs %}
 {% tab title="Card Art" %}
+![](../../.gitbook/assets/image%20%2821%29%20%281%29%20%281%29.png)
+{% endtab %}
 
 {% tab title="Wish Art" %}
 ![](../../.gitbook/assets/image%20%2817%29.png)
