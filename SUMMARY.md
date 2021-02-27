@@ -9,6 +9,7 @@
   * [Hu Tao](character-guides/kqm/hu-tao.md)
   * [Ganyu](character-guides/kqm/ganyu.md)
   * [Keqing](character-guides/kqm/keqing.md)
+  * [Zhongli](character-guides/kqm/zhongli.md)
 * [Affiliated](character-guides/affiliated/README.md)
   * [Beidou](character-guides/affiliated/beidou.md)
 

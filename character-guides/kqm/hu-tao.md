@@ -42,7 +42,7 @@ Coming soon!
 
 Other things to note about her artifacts is that she will have extremely diluted ATK values, so HP% substats will be more worthwhile. Your priority in sub-stats is projected to be:
 
-**Crit Rate/CritDMG &gt; HP% &gt;= EM &gt; ATK%**
+**EM \(&lt;100\) &gt; Crit Rate/CritDMG &gt; EM \(100-200\) &gt; HP% &gt; ATK%**
 
 The value of HP% against EM and ATK% will depend on how much Hu Tao can vaporize effectively. These numbers are extremely early and we haven't received a large amount Hu Tao footage, so take it with a ~~grain~~ bowl of salt.
 
