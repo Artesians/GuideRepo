@@ -248,7 +248,7 @@ Xiao is not a simple character. By merit of how his burst works and its energy c
 
 Xiao’s kit allows him to string many of his attacks together, but very few are efficient and provide good damage without compromising his energy.
 
-\*\*\*\*[**N1CJP - “Jet Combo”**](https://imgur.com/a/9dMEntj)
+[**N1CJP - “Jet Combo”**](https://imgur.com/a/9dMEntj)
 
 N1CJP is an abbreviated form of Normal Attack 1, Charged Attack, Jump, High Plunge. It is a combo that cancels the animation for Xiao's charged attack and allows Xiao to plunge enemies that he has knocked up. Currently, it is his highest MV/s combo while he is inside his burst.
 
@@ -258,7 +258,7 @@ To do it, just hold down LMB for your Charged Attack, then jump after Xiao swing
 
 High plunge spam is exactly as it sounds, you jump up [high enough](https://imgur.com/fuC3rSh) for a high plunge and cancel the recovery frame by holding down a movement key or attacking once with a normal attack. This is more efficient than low plunge spam as long as you don’t go to the peak of your jump.
 
-\*\*\*\*[**JEP Combo**](https://imgur.com/BYOY4p6) _\*\*_
+[**JEP Combo**](https://imgur.com/BYOY4p6) 
 
 This combo can be used if you need to gap close with its high mobility and high damage for the time it takes to do. You just jump, use Lemniscatic Wind Cycling, and plunge. However, you should only use this outside of your burst and when you are certain you can hit the enemy for Anemo particles.
 
