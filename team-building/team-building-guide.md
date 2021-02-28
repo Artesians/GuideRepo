@@ -411,11 +411,11 @@ Xingqiu's energy generation goes from Poor to Great if he has a Sacrificial Swor
 
 ### Selfish Carry
 
-![](../.gitbook/assets/unknown%20%281%29.png)
+![](../.gitbook/assets/unknown-1-%20%281%29%20%281%29.png)
 
 In this team, Xiao deals all the damage. Sucrose provides energy, and with C1 can use her elemental skill twice per rotation. Jean provides energy and heals. Zhongli gives a long-lasting shield and resistance shred.
 
-![](../.gitbook/assets/unknown-1-.png)
+![](../.gitbook/assets/unknown-1-%20%281%29.png)
 
 This team is built around enhancing Klee’s damage. Xingqiu enables vaporize; Venti provides resistance reduction and grouping; Bennett provides healing and a damage buff. Venti can be replaced by Sucrose if you don’t have him.
 
