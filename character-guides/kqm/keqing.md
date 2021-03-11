@@ -40,7 +40,7 @@ There is a misunderstanding in the wider Genshin community that if a character c
   * Low cooldowns make her strong inside quickswap compositions.
   * Her ascensions give her 15% Crit Rate on Burst cast, and her Critical Damage ascension stat is the premier attribute to stack.
   * Her powerful charged attack gives her variable playstyles \(Physical, Pyro, Cryo, and Electro Keqing are all possible\) with a wide diversity of artifact sets based on her supports.
-  * Because her artifact sets are so variable, her artifacts are mostly all farmable outside of Gladiator’s Triumph.
+  * Because her artifact sets are so variable, her artifacts are mostly all farmable outside of Gladiator’s Finale.
   * Her F2P weapon options are not the worst, and The Black Sword is a strong low spender option.
 * **Cons:**
   * Her strongest compositions require her team to be built and well-geared to push your damage ceiling higher.
@@ -207,8 +207,8 @@ Keqing in Electro-focused comps can run variations of any of the above units. Pr
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
-| **Thundering Fury \(2\)              +                                         Gladiator's Triumph \(2\)** | +15% Electro DMG and +18% ATK makes this set very powerful as a generalist set for Keqing that can be used almost anywhere. |
-| **Thundering Fury \(2\)                +  Noblesse Oblige \(2\)** | Noblesse Oblige offers an alternate, farmable option to Gladiator's Triumph. |
+| **Thundering Fury \(2\)              +                                         Gladiator's Finale \(2\)** | +15% Electro DMG and +18% ATK makes this set very powerful as a generalist set for Keqing that can be used almost anywhere. |
+| **Thundering Fury \(2\)                +  Noblesse Oblige \(2\)** | Noblesse Oblige offers an alternate, farmable option to Gladiator's Finale. |
 | **Thundersoother \(4\)** | Depending on the composition that you run, Thundersoother can be an extremely potent option if you can maintain the Electro aura on enemies. |
 
 ### Physical Keqing
@@ -219,7 +219,7 @@ Physical Keqing really only needs one source of Cryo application to proc Superco
 
 | **Artifact set** | **Description** |
 | :--- | :--- |
-| **Bloodstained Chivalry \(2\) +                                                Gladiator's Triumph \(2\)** | Doesn't rely on the 4 piece set bonus of Bloodstained Chivalry and provides consistent bonuses to white damage without exclusive bonuses to charged attacks. |
+| **Bloodstained Chivalry \(2\) +                                                Gladiator's Finale \(2\)** | Doesn't rely on the 4 piece set bonus of Bloodstained Chivalry and provides consistent bonuses to white damage without exclusive bonuses to charged attacks. |
 | **Bloodstained Chivalry \(4\)** | Strong damage potential when you can proc the 4 piece set effect, but isn't useful in low density abyss floors or bossing. |
 | **Blizzard Strayer \(4\)** | This set is a strong contender with Freeze Keqing. With Xingqiu and Kaeya Cryo application, you can spam N1C without enemy knockback and a free +40% Crit Rate. |
 | **Retracing Bolide \(4\)** | An increase in shield strength with units like Diona or Zhongli that provide other passive bonuses for being shielded is quite valuable on top of the damage bonus while sh |

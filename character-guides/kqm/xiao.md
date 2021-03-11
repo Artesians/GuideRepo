@@ -45,7 +45,7 @@ Level 70-80 Xiao, level 7+ talents, Favonius Lance+, and a lot of energy recharg
   * Requires a very strong ability to manage energy with Xiao and it can be a little more intensive than you would have with other carries.
   * **Energy issues - high cost & no energy generation during burst may require most players to prioritize ER% more than most other main DPS carries.**
   * Getting knocked out of your plunges or being staggered causes your DPS to fall off a cliff.
-  * Virtually _**impossible**_ to farm Gladiator’s Triumph, at Adventure Rank 55, it’s 40 resin for a 50/50 for Gladiator or WT - but you only need 2.
+  * Virtually _**impossible**_ to farm Gladiator’s Finale, at Adventure Rank 55, it’s 40 resin for a 50/50 for Gladiator or WT - but you only need 2.
 
 ### **Hyper Investment:**
 
@@ -57,7 +57,7 @@ Level 80-90 Xiao, level 10 talents, Deathmatch+, and optional levels of energy r
   * Extremely fluid as a carry.
 * **Cons:**
   * Hyper investment is expensive, for the cost of a level 90 character, you’re sacrificing enough resources to build 2.5 characters to ascension 4.
-  * You still need good artifacts, farming for Gladiator’s Triumph is no easier at level 90 than it is at level 70.
+  * You still need good artifacts, farming for Gladiator’s Finale is no easier at level 90 than it is at level 70.
   * Rollouts and the order that you cast your abilities, is still very, very important to _managing_ good uptime \(and therefore damage\) on Xiao. Messing up your rotations can cause up to 10+ seconds of literally nothing but standing around waiting for your burst to come back up because of the nature of your team composition.
 
 ### **Credits:**
@@ -97,7 +97,7 @@ These calculations are made under the following assumptions:
 * **Level 90 Weapon**
 * **Perfect Artifact Rolls \(by perfect I mean, actually perfect\)**
 * **Not in Xiao Q**
-* **2 pc. Viridescent Venerer and 2 pc. Gladiator’s Triumph**
+* **2 pc. Viridescent Venerer and 2 pc. Gladiator’s Finale**
 
 How are these useful then? The weapon ceilings are important to just visualize, because **the best weapon for you is always dependent on the context around your Xiao’s substats.** You might think that Deathmatch is a pretty average option in the tier list, but a critical rate sub-stat is extremely important for a lot of players that have weak crit sub stat lines. Another example, Favonius Lance gives you incredible uptime on Xiao’s ultimate and provides energy for the rest of his team composition at the cost of a lot of damage.
 
