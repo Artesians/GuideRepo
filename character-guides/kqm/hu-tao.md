@@ -228,7 +228,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
         <p>
           <img src="../../.gitbook/assets/hutao (1).png" alt/>
         </p>
-        <p><b>WHO TAO</b>
+        <p><b>Hu Tao</b>
         </p>
       </td>
       <td style="text-align:left">Hu Tao compositions would obviously feature Hu Tao. She&apos;s very strong
