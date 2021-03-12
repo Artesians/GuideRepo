@@ -391,7 +391,8 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
       <td style="text-align:left">Zhongli, as always, is just an overall great unit that fits everywhere.
         Omnishred sees more value here as there can be up to 3 damage types, and
         shield is great insurance that offers increased effective health and knockback
-        resistance.</td>
+        resistance. You can also pair him with Albedo, surprisingly, the Hydro
+        aura gauges are not depleted too fast.</td>
     </tr>
     <tr>
       <td style="text-align:center">
