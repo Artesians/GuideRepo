@@ -205,7 +205,7 @@ You should not fear ATK%, as it also provides some DPS gain, especially when usi
 
 Hu Tao comps can be classified into two main categories: Amplification Tao and Turbo Tao. These two compositions function very differently and have different artifact sets and substats priority. Their functionality is focused around two core units that you must have in order to play them to anywhere near their potential, butbelow will be a small sample to help guide you in building your team compositions.
 
-## **Amping Hu**
+## **Amp Tao**
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
