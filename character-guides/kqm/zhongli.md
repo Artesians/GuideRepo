@@ -201,9 +201,19 @@ Zhongli as a support is not a particularly cerebral character to play. You swap 
 
 As for team compositions, his value extends far and wide. With stagger resistance, universal resistance shred, and a strong shield that can last for 20 seconds, its very clear to see his strength as a support. For particular synergies, he works very well with Ganyu and Xiao to shred resistances and offer them the stagger resistance they so direly appreciate. He fits universally in nearly every type of composition as long as you can keep his Stone Steele from reducing elemental gauges and his resistance shred is weaker than Viridescent Venerer for mono-element compositions.
 
+| Composition | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2824%29.png)  | Zhongli as a support is pretty much a universally strong choice, however Ningguang carry with Zhongli support with any kind of passive damage like Fischl, Xiangling, Xingqiu, or Bennett is fantastic. Post 1.3, Ningguang with Zhongli have a Geo resonance that has a 15% DMG increase and a combined 40% Geo RES down, allowing these two to output similar damage to C0 Vaporize Diluc. |
+
 ### **Physical Carry**
 
 For physical Zhongli, his combos for proper damage output changes on your choice of weaponry. For Crescent Pike users, optimal damage is using N4 cancels by sprinting after the spear kick. It is recommended to use Superconduct with Fischl and Geo resonance to push his damage profile further. For 5\* weapons, N4 spear kicks into a Charged Attack yield strong results. In general, his team compositions are fluid and you can take your pick of the litter in terms of sub-DPS units.
+
+There are several advanced combos that you can use to increase your damage profile. Not only can Zhongli do his N4 Spear Kick, he can also do N7 E taps, where his attack knocks back, and the E pillar will knock up small enemies for fall damage. Furthermore, he also has a Jump Plunge cancel ****that can follow up on his normal attack string.
+
+{% embed url="https://imgur.com/a/bMWxi14" %}
+
+\*\*\*\*
 
 #### **Small selection of sample team compositions:**
 

@@ -124,7 +124,7 @@ The Staff of Homa is by far Hu Tao’s best weapon, but she is surprisingly quit
 | **Blackcliff Polearm +3 Stacks** | 101.4% | 99.4% |  |
 | **Vortex Vanquisher \(Shielded\) +5 Stacks** | 100.5% | 103.4% | Probably not worth the effort compared to Deathmatch. |
 | **Deathmatch \(2+ enemies\)** | 100% | 100% |  |
-| **Lithic Spear R1 +4 Liyue** | 98.7% | 100.7% |  |
+| **Lithic Spear R1 +4 Liyue** | 98.7% | 100.7% | +3 Liyue is also better than Blackcliff Pole |
 | **White Tassel R5** | 93.5% | 94.1% | A 3\* weapon makes its appearance. |
 | **Blackcliff Polearm**  | 93.4% | 91.1% |  |
 | **Skyward Spine** | 93.2% | 94.9% | Energy recharge on Hu Tao isn't particularly useful. |
@@ -139,7 +139,7 @@ Calculations done by Muakasan\#2792.
 * Hutao is level 80/90, with talent level 8,  and less than 50% HP.
 * Level 90/90 weapons,. 
 
-See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P1rEOHTjz-JGw2oMeIBkQ/edit#gid=0) and [code ](https://github.com/Muakasan/genshin/blob/main/hutao_weapons.py)for more details. Vaped abilities based on [this sheet](https://docs.google.com/spreadsheets/d/1VpANxYlBWbYRdoI1lMJVx0lwAM-HOzrNBnV8QzMR1yE/edit#gid=0). Note for Dragon’s Bane, no DMG% bonus is not realistic because there must be hydro aura to vape, but we wanted to show an approximation of the ranking in a non-vaporize composition.
+See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P1rEOHTjz-JGw2oMeIBkQ/edit#gid=0) and [code ](https://github.com/Muakasan/genshin/blob/main/hutao_weapons.py)for more details. Vaped abilities based on [this sheet](https://docs.google.com/spreadsheets/d/1VpANxYlBWbYRdoI1lMJVx0lwAM-HOzrNBnV8QzMR1yE/edit#gid=0). Note for Dragon’s Bane, no DMG% bonus is not realistic because there must be hydro aura to vape, but we wanted to show an approximation of the ranking in a non-vaporize composition. [Additional weapon resources](https://docs.google.com/spreadsheets/d/1RxdPAfiylKZ7OvyE45yph7VrgwLY8xM0ytnxjV_k-IM/htmlview?pru=AAABeBtchko*e7A5D0WgtebbghoFq45fPg#gid=378612281) by Zakharov.
 
 ### Expanded Weapon Notes
 
@@ -177,7 +177,7 @@ See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P
 
 | Artifact Set | Description |
 | :--- | :--- |
-| **Crimson Witch of Flames \(2\) + Wanderer's Troupe \(2\)** | Provides a strong EM bonus for Hu Tao that is fairly strong for her reactions. |
+| **Crimson Witch of Flames \(2\) + Wanderer's Troupe \(2\)**               | Provides a strong EM bonus for Hu Tao that is fairly strong for her reactions. This set has the potential to catch up to Crimson Witch of Flames \(4\) if you have better substats. |
 | **Crimson Witch of Flames \(2\) + Noblesse Oblige \(2\)** | Pushes her burst damage just a little more. |
 | **Crimson Witch of Flames \(2\) + Gladiator's Finale \(2\)** | ATK% is just not ideal, but if you have some good pieces lying around, why not. |
 
@@ -251,7 +251,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
 
 ### **Augment Slot**
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 For the first fill slot, you can use a variety of characters depending on the type of composition and investment you have that will change the composition's identity sharply.
 
@@ -598,7 +598,7 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/image (26).png" alt/>
+        <img src="../../.gitbook/assets/image (27).png" alt/>
         <br /><b>Triple Pyro</b>
       </td>
       <td style="text-align:left">With C1 Xiangling to shred Pyro RES, Bennett to battery, heal, and buff
@@ -608,7 +608,7 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/image (24).png" alt/>
+          <img src="../../.gitbook/assets/image (25).png" alt/>
         </p>
         <p><b>Double Geo</b>
         </p>
@@ -635,7 +635,7 @@ Hu Tao, not only at C6, has an incredibly strong burst that scales well and impo
 | Team Composition | Notes |
 | :--- | :--- |
 | ![](../../.gitbook/assets/image%20%288%29.png)  | The current world record speedrun comp. Sucrose provides VV and EM for Hu Tao to oneshot everything with her Burst. Ganyu is generally the best cryo applicator, but Chongyun is a viable alternative in single target scenarios. |
-| ![](../../.gitbook/assets/image%20%2825%29.png)  | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
+| ![](../../.gitbook/assets/image%20%2826%29.png)  | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
 
 ## **How To Play Hu Tao** 
 
