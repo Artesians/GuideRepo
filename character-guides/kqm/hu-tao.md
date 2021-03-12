@@ -207,7 +207,7 @@ Hu Tao comps can be classified into two main categories: Amplification Tao and T
 
 ## **Amping Hu**
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 **Hu Tao / Xingqiu / Augment / Support**
 
@@ -251,7 +251,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
 
 ### **Augment Slot**
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 For the first fill slot, you can use a variety of characters depending on the type of composition and investment you have that will change the composition's identity sharply.
 
@@ -435,7 +435,7 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
 
 ## Turbo Tao
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 Turbo Tao’s gameplay and win condition revolves around abusing Fischl Turbo mechanics. When Fischl \(Oz\) triggers Overload or Superconduct, she gives 1 electro particle/enemy hit. By building a team around giving Fischl as much Pyro/Cryo aura to proc this mechanic as much as possible, we get a team that has incredible energy gains and can spam impactful ultimates. Turbo Tao lives and dies by how much Turbo you can trigger, so you have to manage aura well, but generally, it is a much more flexible composition in both team choices and playstyle as you are not gated by energy. The more impactful Elemental Bursts you can spam, the closer you are to the win condition.
 
@@ -525,7 +525,7 @@ Core of all OL Turbo Tao comps. Xiangling is still generally underrated as a uni
 
 ### Superconduct Hu Tao
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC Turbo, as no one in the current content beats his Cryo application rate, except for grouped mobs Ganyu + Venti. The last spot can be Ganyu or Diona, and potentially Rosaria, though we need direct tests to confirm her spot here. This composition has enough cryo for Hu Tao to both Melt with charged attacks and proc SC Turbo with Fischl, which is both stable and gives a high damage ceiling. However, there are caveats depending on which variation you run.
 
@@ -584,7 +584,7 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
 
 ## Alternative Team Compositions
 
-### Pure Tao
+### PP Tao
 
 Surprisingly, pure Pyro is actually viable. Testings have shown even with the lack of reactions, C1 Xiangling Pyro shred and Bennett buffs in one team can give very competitive clear times in end game content. You can run Zhongli with another Geo \(Albedo for example\) for the Geo resonance buffs, or run 3 Pyro + 1 VV carrier \(Any combination between Xiangling, Bennett, Diluc for 2 pyro slots works\).
 
@@ -598,7 +598,7 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src="../../.gitbook/assets/image (25).png" alt/>
+        <img src="../../.gitbook/assets/image (26).png" alt/>
         <br /><b>Triple Pyro</b>
       </td>
       <td style="text-align:left">With C1 Xiangling to shred Pyro RES, Bennett to battery, heal, and buff
@@ -608,7 +608,7 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
     <tr>
       <td style="text-align:center">
         <p>
-          <img src="../../.gitbook/assets/image (21).png" alt/>
+          <img src="../../.gitbook/assets/image (24).png" alt/>
         </p>
         <p><b>Double Geo</b>
         </p>
@@ -624,6 +624,10 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
 
 ### Dual Carry Hu Tao
 
+![](../../.gitbook/assets/image%20%2814%29.png)
+
+Both Hu Tao and Childe have great burst damage during their uptime, but are balanced out by uptime issues. However, by running them together, this weakness is greatly relieved. Childe running on a 7-8 second E rotation matches Hu Tao downtimes, and together they keep consistent DPS. Last 2 slots are flexible, and can be filled with either supports for Hu Tao or Childe. Some candidates are: Xingqiu, Fischl, Xiangling, Beidou, Bennett, etc.
+
 ### Nuke Tao
 
 Hu Tao, not only at C6, has an incredibly strong burst that scales well and importantly, is Pyro. Hu Tao having very inherently high ATK and crit stat values makes her uniquely suited for nuke/one shot compositions. Her Burst also has very low frames and high MV/s values, making her perfect for speedruns. These compositions require very strong undestandings of the game and rotating different buffs on top of optimized rotations.
@@ -631,7 +635,7 @@ Hu Tao, not only at C6, has an incredibly strong burst that scales well and impo
 | Team Composition | Notes |
 | :--- | :--- |
 | ![](../../.gitbook/assets/image%20%288%29.png)  | The current world record speedrun comp. Sucrose provides VV and EM for Hu Tao to oneshot everything with her Burst. Ganyu is generally the best cryo applicator, but Chongyun is a viable alternative in single target scenarios. |
-| ![](../../.gitbook/assets/image%20%2824%29.png)  | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
+| ![](../../.gitbook/assets/image%20%2825%29.png)  | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
 
 ## **How To Play Hu Tao** 
 
