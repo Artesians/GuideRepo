@@ -244,7 +244,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
       <td style="text-align:left">Xingqiu is currently the only unit in the game that can apply Hydro fast
         enough for Hu Tao&apos;s attacks. His subtle healing, damage reduction,
         and stagger resistance are all of great use for Hu Tao. It is a shame that
-        his coolodowns are desynced with Hu Tao&apos;s.</td>
+        his cooldowns are desynced with Hu Tao&apos;s.</td>
     </tr>
   </tbody>
 </table>
