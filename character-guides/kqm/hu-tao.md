@@ -96,8 +96,6 @@ _Increases the Blood Blossom damage by the amount equal to 10% of Hu Tao's max H
 
 A decent DPS increase but nothing game breaking. Gives her more ability as a burst support.
 
-Pretty good constellation when we examine the fact that a lot of our rotations could be generating orbs and the increased efficiency is pretty good depending on your team compositions. This constellation also has the incredible benefit of opening up Xiao’s non-battery comps or heavy swap comps.
-
 **C4: Garden of Eternal Rest**
 
 _Upon defeating an enemy affected by Blood Blossom that Hu Tao applied herself, all nearby allies in the party \(excluding Hu Tao herself\) will have their critical rate increased by 12% for 15 seconds._
