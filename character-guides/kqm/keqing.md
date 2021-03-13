@@ -201,7 +201,7 @@ Due to Keqing's Kit being heavily weighted on her N1C string, it is possible to 
 
 ### Electro Keqing
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 Keqing in Electro-focused comps can run variations of any of the above units. Primarily, Keqing is looking to abuse the high talent multipliers on Xingqiu, Fischl, Beidou, and Albedo rather than any specific type of reaction synergy. Bennett offers strong buff utility as well as healing if Xingqiu is not geared up enough. Quickswap compositions will appreciate the usage of Jean to condense as a healer and Viridescent Venerer. Zhongli offers strong RES down bonuses with his 1.3 updated Jade Shield.
 
@@ -213,7 +213,7 @@ Keqing in Electro-focused comps can run variations of any of the above units. Pr
 
 ### Physical Keqing
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 Physical Keqing really only needs one source of Cryo application to proc Superconduct which lasts for 12 seconds, so you can take your pick amongst the Cryo units. Xingqiu offers extra damage on top of the healing and damage reduction and has the added benefit of being able to freeze enemies so they don't get knocked back by Keqing's charged attacks.
 
@@ -226,7 +226,7 @@ Physical Keqing really only needs one source of Cryo application to proc Superco
 
 ### Pyro Keqing
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 Pyro Keqing is limited by the fact that you need access to pyro infusion, which is currently only available with Bennett's _Fire Ventures with Me_, his constellation 6 bonus. Bennett provides the Pyro infusion and the massive attack steroid, as well as healing. Xingqiu provides a consistent element to Vaporize. Kaeya or [Ganyu](https://guides.keqingmains.com/character-guides/keqing#venti-mona-jean-and-zhongli) can freeze enemies in between Xingqiu Hydro procs, and Sucrose pumps up the Elemental Mastery of the composition.
 
@@ -236,7 +236,7 @@ Pyro Keqing is limited by the fact that you need access to pyro infusion, which 
 
 ### Cryo Keqing
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 Cryo Keqing with Chongyun field is also available as a DPS option after the Blizzard Strayer set was released. Chongyun offers Cryo infusion while units like [Ganyu](https://guides.keqingmains.com/character-guides/keqing#venti-mona-jean-and-zhongli) and Kaeya can be used for more Crit Rate from the resonance bonus and extra damage. Xingqiu is there to permanently freeze. This comp appreciates Viridescent Venerer quite a bit, so slotting in Jean or Sucrose may be worthwhile.
 
@@ -252,9 +252,9 @@ Quickswap refers to a type of playstyle that revolves around using units that ha
 
 | Composition | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%285%29.png) | Budget version for abyss clearing when there are enemies that don't get knocked back by overload: Fatui, Mitachurls, Ruin Guards, Geovishaps, etc. |
-| ![](../../.gitbook/assets/unknown.png) | Classic quickswap that has room for pretty much any unit in Beidou's slot and the empty slot. Fischl works wonders. |
-| ![](../../.gitbook/assets/image%20%282%29.png) | One of the strongest variations of quickswap that you can assemble, but it has 4 5-star units. |
+| ![](../../.gitbook/assets/image%20%2843%29.png) | Budget version for abyss clearing when there are enemies that don't get knocked back by overload: Fatui, Mitachurls, Ruin Guards, Geovishaps, etc. |
+| ![](../../.gitbook/assets/image%20%2835%29.png) | Classic quickswap that has room for pretty much any unit in Beidou's slot and the empty slot. Fischl works wonders. |
+| ![](../../.gitbook/assets/image%20%2836%29.png) | One of the strongest variations of quickswap that you can assemble, but it has 4 5-star units. |
 
 ## How to Play Keqing
 
