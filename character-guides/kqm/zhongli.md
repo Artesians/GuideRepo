@@ -72,23 +72,17 @@ r/Keqingmains
 
 ## **Weapons**
 
-{% hint style="danger" %}
-This section is awaiting Coronaus' calculations! Please wait.
-{% endhint %}
+### HP Timepiece
 
-| **Weapons / Refinements / Conditions** | **DPS at 90** | **Notes** |
-| :--- | :--- | :--- |
-| **Staff of Homa** |  | BiS for Support Zhongli |
-| **Primordial Jade-Winged Spear** |  | Second BiS for Support |
-| **Crescent Pike** |  | BiS for Physical Carry |
-| **Vortex Vanquisher \(Shielded\)** |  |  |
-| **Staff of Homa** |  |  |
-| **Deathmatch \(2 enemies\)** |  |  |
-| **Skyward Spine** |  |  |
-| **Lithic Spear R1 +2 Liyue** |  |  |
-| **Blackcliff Spear R1 +1** |  |  |
-| **Blackcliff Spear R1 +0** |  |  |
-| **Favonius Lance** |  | Damage loss is very high, but Zhongli can battery for his team with high refinements. |
+![](../../.gitbook/assets/image%20%2848%29.png)
+
+### ATK% Timepiece
+
+![](../../.gitbook/assets/image%20%2846%29.png)
+
+### Physical DMG
+
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 Per Coronaus:
 

@@ -253,7 +253,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
-For the first fill slot, you can use a variety of characters depending on the type of composition and investment you have that will change the composition's identity sharply.
+For the first fill slot, you can use a variety of characters depending on the type of composition and investment you have, that will change the composition's identity sharply.
 
 <table>
   <thead>
