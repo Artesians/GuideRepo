@@ -11,7 +11,7 @@
   * [Keqing](character-guides/kqm/keqing.md)
   * [Zhongli](character-guides/kqm/zhongli.md)
 * [Affiliated](character-guides/affiliated/README.md)
-  * [Lisa](character-guides/affiliated/wip-lisa.md)
+  * [Lisa](character-guides/affiliated/lisa.md)
   * [Albedo](character-guides/affiliated/albedo.md)
   * [Beidou](character-guides/affiliated/beidou.md)
 
