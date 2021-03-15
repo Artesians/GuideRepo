@@ -8,6 +8,14 @@ description: 'Learning Lisa - A mechanically in-depth Lisa Guide | ArchedNosi#14
 This guide was written by ArchedNosi\#1484 of [LisaMains!](https://discord.gg/5SYy4MPPCt) You can find the full document [here](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#).
 {% endhint %}
 
+## Official Art
+
+{% tabs %}
+{% tab title="Card Art" %}
+![](../../.gitbook/assets/image%20%28105%29.png)
+{% endtab %}
+{% endtabs %}
+
 ## Learning Lisa - A mechanically in-depth Lisa Guide by ArchedNosi\#1484
 
 
