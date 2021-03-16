@@ -1046,7 +1046,7 @@ _Because of how flexible these types of teams can be, there will be overlapping 
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%2893%29.png) | With Jean wielding a short CD on her E and an impactful Ult, she is an exceptional Quickswapper. Particularly, if you do decide to include Jean, this would often mean to drop Bennett, and unless you have another Pyro/Cryo in your team, Lisa won’t be able to abuse Pyro/Cryo to radiate stacks. |
+| ![](../../.gitbook/assets/image%20%28106%29.png) | With Jean wielding a short CD on her E and an impactful Ult, she is an exceptional Quickswapper. Particularly, if you do decide to include Jean, this would often mean to drop Bennett, and unless you have another Pyro/Cryo in your team, Lisa won’t be able to abuse Pyro/Cryo to radiate stacks. |
 
 #### Geo-Based
 
