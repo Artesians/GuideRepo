@@ -14,6 +14,7 @@
   * [Albedo](character-guides/affiliated/albedo.md)
   * [Beidou](character-guides/affiliated/beidou.md)
   * [Lisa](character-guides/affiliated/lisa.md)
+  * [Razor](character-guides/affiliated/razor.md)
 
 ## Team Building
 
