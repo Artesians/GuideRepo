@@ -15,6 +15,7 @@
   * [Beidou](character-guides/affiliated/beidou.md)
   * [Lisa](character-guides/affiliated/lisa.md)
   * [Razor](character-guides/affiliated/razor.md)
+  * [Sucrose](character-guides/affiliated/sucrose.md)
 
 ## Team Building
 
