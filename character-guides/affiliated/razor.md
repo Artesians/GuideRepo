@@ -7,7 +7,7 @@ description: >-
 # Razor
 
 {% hint style="info" %}
-This guide was written by the RazorMains community. You can find the full document [here](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#) and their [Discord here.](https://discord.gg/4BzHdAzHGR)
+This guide was written by the RazorMains community. You can find the full document [here](https://docs.google.com/document/d/e/2PACX-1vSNbjPrXCt9pdgl6BmJa1j8xvi7jgr47c96tRXzoUNmYtT4rSSwyuK8q5bKStf82PBOcrIZ5wuOm-tn/pub) and their [Discord here.](https://discord.gg/4BzHdAzHGR)
 {% endhint %}
 
 ## Official Art
@@ -22,7 +22,7 @@ This guide was written by the RazorMains community. You can find the full docume
 
 ![](https://lh4.googleusercontent.com/4-30cYIkp4fnojsTVEOYSwalJhjFH2dTL7-znCJsCn35-KQ8u59AvumEFLTufy211Bi4EYo8L_pgEmabn-2HMQ3105p-vUOhPqCWwZchyZ3JZNHGsufTDC3hTHeQF9ujnJnoYbhe)
 
-**By Razormains Discord** [**Mods & Theorycrafters**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.yttmknosw0di)
+**By Razormains Discord Mods & Theorycrafters**
 
 Writers: LeafOnTheWind\#9931, Ender\#1359, arashi\#2449
 
@@ -343,8 +343,8 @@ General tips to maximize Razor’s energy generation:
 
 |  | **3 Sigils \(60% bonus ER\)** | **2 Sigils \(40% bonus ER\)** | **1 Sigil \(20% bonus ER\)** |
 | :--- | :--- | :--- | :--- |
-| Tap E | 82% | 82% | 84.25% |
-| Hold E | 70% | 76.25% | 82.5% |
+| **Tap E** | 82% | 82% | 84.25% |
+| **Hold E** | 70% | 76.25% | 82.5% |
 
 Note that the values for 3 Sigils and 2 Sigils tap E is the same because the Sigil is obtained before energy particles reach Razor, meaning 2 Sigil Razor + tap E effectively has 60% ER.
 
@@ -660,20 +660,20 @@ Note: The ‘Synergy with Razor’ column is highly tentative and dependent on t
 
 | **Support** | **Element** | **Role** | **Synergy with Razor** |
 | :--- | :--- | :--- | :--- |
-| [**Kaeya**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.5zakchuegxwd) | **Cryo** | **SC Enabler, Sub-DPS** | **A \(C0\) - S- \(C2\)** |
-| [**Diona**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.ey8l2elf6io3) **** | **Cryo** | **SC Enabler, Shielder, Healer** | **S \(C0\) - S+ \(C2\)** |
-| [**Qiqi**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.a0681imldrz2) **** | **Cryo** | **Healer, SC Enabler** | **S- \(C0 - C6\)** |
-| [**Ganyu**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.ddwys9e0s80w) | **Cryo** | **Sub-DPS, SC Enabler** | **A \(C0\) - S- \(C4\)** |
-| [**Barbara**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.n67lnywtue8y) | **Hydro** | **Healer, Support** | **B+ \(C0\) - A \(C2\)** |
-| [**Xingqiu**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.i9w0un7acy0i) | **Hydro** | **Sub-DPS, Enabler, Support** | **S \(C0\) - S+ \(C2\)** |
-| [**Fischl**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.85r024gl7qee) | **Electro** | **Sub-DPS, Electro Resonance** | **A \(C0\) - S \(C6\)** |
-| [**Beidou**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.vo2yvlmwbvnw) | **Electro** | **Sub-DPS, Electro Resonance** | **B+ \(C0\) - A \(C6\)** |
-| [**Bennett**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.t5b0uqjrll) | **Pyro** | **Support, Healer** | **B+ \(C0\) - A \(C1\)** |
-| [**Xiangling**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.bv31tuox837w) | **Pyro** | **Support, Sub-DPS** | **B \(C0\) - A- \(C4\)** |
-| [**Xinyan**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.fmjwp0uccs9p) | **Pyro** | **Support, Shielder** | **B \(C0\) - A \(C4\)** |
-| [**Venti**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.5ijr19nb5z8r) | **Anemo** | **CC, Sub-DPS, Support** | **B \(C0\) - A \(C2\)** |
-| [**Zhongli**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.2eph3id1m6jy) | **Geo** | **Support, Shielder, CC** | **S \(C0\) - S+ \(C2\)** |
-| [**Albedo**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=kix.jydwoltxem0x) | **Geo** | **Sub-DPS, Support, Shielder** | **A+ \(C0\) - S \(C6\)** |
+| **Kaeya** | **Cryo** | **SC Enabler, Sub-DPS** | **A \(C0\) - S- \(C2\)** |
+| **Diona**  | **Cryo** | **SC Enabler, Shielder, Healer** | **S \(C0\) - S+ \(C2\)** |
+| **Qiqi**  | **Cryo** | **Healer, SC Enabler** | **S- \(C0 - C6\)** |
+| **Ganyu** | **Cryo** | **Sub-DPS, SC Enabler** | **A \(C0\) - S- \(C4\)** |
+| **Barbara** | **Hydro** | **Healer, Support** | **B+ \(C0\) - A \(C2\)** |
+| **Xingqiu** | **Hydro** | **Sub-DPS, Enabler, Support** | **S \(C0\) - S+ \(C2\)** |
+| **Fischl** | **Electro** | **Sub-DPS, Electro Resonance** | **A \(C0\) - S \(C6\)** |
+| **Beidou** | **Electro** | **Sub-DPS, Electro Resonance** | **B+ \(C0\) - A \(C6\)** |
+| **Bennett** | **Pyro** | **Support, Healer** | **B+ \(C0\) - A \(C1\)** |
+| **Xiangling** | **Pyro** | **Support, Sub-DPS** | **B \(C0\) - A- \(C4\)** |
+| **Xinyan** | **Pyro** | **Support, Shielder** | **B \(C0\) - A \(C4\)** |
+| **Venti** | **Anemo** | **CC, Sub-DPS, Support** | **B \(C0\) - A \(C2\)** |
+| **Zhongli** | **Geo** | **Support, Shielder, CC** | **S \(C0\) - S+ \(C2\)** |
+| **Albedo** | **Geo** | **Sub-DPS, Support, Shielder** | **A+ \(C0\) - S \(C6\)** |
 
 ### _**Cryo Units**_
 
@@ -683,8 +683,6 @@ Note: The ‘Synergy with Razor’ column is highly tentative and dependent on t
 
 **SC Enabler, Sub-DPS  
 A \(C0\) - S- \(C2\)**
-
-\*\*\*\*
 
 | \*\*\*\* |  |
 | :--- | :--- |
@@ -736,8 +734,7 @@ Diona’s artifact set can vary depending on what you want to use her for. **4pc
 ![](../../.gitbook/assets/image%20%28123%29.png)
 
 **Healer, SC Enabler  
-S- \(C0-C6\)**  
-
+S- \(C0-C6\)**
 
 | \*\*\*\* |  |
 | :--- | :--- |
@@ -769,8 +766,6 @@ Qiqi is normally not used often in lategame team comps because she doesn’t off
 
 **Sub-DPS, SC Enabler  
 A \(C0\) - S- \(C4\)**
-
-\*\*\*\*
 
 | \*\*\*\* |  |
 | :--- | :--- |
@@ -831,9 +826,7 @@ There is almost no competition for Barbara’s BiS support book and that is **Th
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
 **Sub-DPS, Enabler, Support  
-S \(C0\) - S+ \(C2\)**  
-  
-
+S \(C0\) - S+ \(C2\)**
 
 | \*\*\*\* |  |
 | :--- | :--- |
@@ -886,8 +879,6 @@ In general, good weapons for Sub-DPS Fischl are **Skyward Harp, Amos Bow, The St
 
 **Sub-DPS, Electro resonance  
 B+ \(C0\) - A \(C6\)**
-
-\*\*\*\*
 
 | \*\*\*\* |  |
 | :--- | :--- |
@@ -1156,8 +1147,7 @@ Below we have shared some example Razor team compositions that are very popular 
 
 ![Razor \| Fischl \| Xingqiu \| Diona](../../.gitbook/assets/image%20%28125%29.png)
 
-**Note:** This team can have Qiqi instead of Diona, trading some utility for better healing.  
-****
+**Note:** This team can have Qiqi instead of Diona, trading some utility for better healing.
 
 <table>
   <thead>
@@ -1277,9 +1267,7 @@ Generally the team composition for a Geo Resonance Razor team is Razor + Zhongli
 
 ### **Buff the Razor Comp**
 
-![](../../.gitbook/assets/image%20%28110%29.png)
-
-
+![Razor \| Kaeya \| Xinyan \| Bennett](../../.gitbook/assets/image%20%28110%29.png)
 
 <table>
   <thead>
@@ -1456,7 +1444,7 @@ If you have read this far, we applaud your dedication and perseverance. We hope 
 
 ### **Endnotes**
 
-**I**nitial release date: 02/15/2021
+Initial release date: 02/15/2021
 
 Last updated: 03/16/2021
 
