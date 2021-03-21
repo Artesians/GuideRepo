@@ -223,7 +223,7 @@ Stamina consumption while sprinting is decreased by 20% partywide, non-stackable
 | E \(Hold\) |   **2U** |
 | Q \(Ult\) |   **2U \(Initial Burst DMG\) 1U \(On-Hit Electro\)** |
 
-Explanation on [Gauge Unit Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory) by KQM Theorycrafting Library
+Explanation on [Gauge Element Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory) by KQM Theorycrafting Library
 
 More info on various character gauges can be found [here](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=0).
 
