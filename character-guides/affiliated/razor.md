@@ -675,7 +675,7 @@ Note: The ‘Synergy with Razor’ column is highly tentative and dependent on t
 
 ### Kaeya - Cryo Sword
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 
 **SC Enabler, Sub-DPS  
 A \(C0\) - S- \(C2\)**
@@ -689,11 +689,13 @@ A \(C0\) - S- \(C2\)**
 
 #### **Constellations:** 
 
-Fortunately, Kaeya at **C0** is all that you need for Cryo application. Notably helpful buffs occur at C2 and C6 for his support gameplay, however. **C2** extends the duration of Glacial Waltz by 2.5 seconds for every enemy that dies during its uptime, leading to a maximum uptime of 15 seconds. This is now identical to Razor’s Burst uptime, making it an even better Superconduct match. **C6** adds an icicle to the previous 3, and gives you 15 energy for free when casting the Burst, meaning a quarter of the energy required to cast is automatically given.
+Fortunately, Kaeya at **C0** is all that you need for Cryo application. Notably helpful buffs occur at C2 and C6 for his support gameplay, however. **C2** extends the duration of Glacial Waltz by 2.5 seconds for every enemy that dies during its uptime, leading to a maximum uptime of 15 seconds. This is now identical to Razor’s Burst uptime, making it an even better Superconduct match. **C6** adds an icicle to the previous 3, and gives you 15 energy for free when casting the Burst, meaning a quarter of the energy required to cast is automatically given.  
+
 
 #### **Artifacts:** 
 
-Since Kaeya is used exclusively for his Skill and Burst, energy recharge is your most important stat, hands down. With that, a basic **2pc Exile/2pc Scholar** set to buff said ER is typically the way to go for low-investment Kaeyas to make sure you have as much uptime on his Burst as possible. A **4pc Noblesse** set is also very useful, provided no one else on the team is using it. Since you typically pair Kaeya and Razor’s Bursts together, Noblesse will trigger just in time for Razor’s Burst to take the field. Alternatively, if you choose to build Kaeya as a Sub-DPS \(best lategame option\), **2pc Strayer/2pc Noblesse** is the option you should opt for.
+Since Kaeya is used exclusively for his Skill and Burst, energy recharge is your most important stat, hands down. With that, a basic **2pc Exile/2pc Scholar** set to buff said ER is typically the way to go for low-investment Kaeyas to make sure you have as much uptime on his Burst as possible. A **4pc Noblesse** set is also very useful, provided no one else on the team is using it. Since you typically pair Kaeya and Razor’s Bursts together, Noblesse will trigger just in time for Razor’s Burst to take the field. Alternatively, if you choose to build Kaeya as a Sub-DPS \(best lategame option\), **2pc Strayer/2pc Noblesse** is the option you should opt for.  
+
 
 #### **Weapons:** 
 
@@ -701,7 +703,7 @@ Furthering the energy recharge theme, **Favonius Sword** is Kaeya’s best ER op
 
 ### **Diona - Cryo Bow**
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 **SC Enabler, Shielder, Healer  
 S \(C0\) - S+ \(C2\)**
@@ -713,11 +715,13 @@ S \(C0\) - S+ \(C2\)**
 
 **Constellations:** 
 
-Diona at **C0** is sufficient for all three of her standard roles. However, all of her skill-related constellations improve her abilities in said roles. **C1** regenerates 15 energy after her Burst ends, reducing the total cost to a more manageable 65 energy. **C2** increases the damage of her skill, makes her shield slightly tankier, and spreads a smaller shield to allies in the area for 5 seconds, making her even more useful for co-op. **C4** decreases the time for Aimed Shots by 60% when in her Burst’s AoE, allowing her to spread Cryo via Bow outside her circle much easier. **C6** increases healing by 30% within her Burst when a character’s health is under 50% and increases their Elemental mastery by 200 when it is over 50%, allowing for more efficient healing and/or stronger reactions.
+Diona at **C0** is sufficient for all three of her standard roles. However, all of her skill-related constellations improve her abilities in said roles. **C1** regenerates 15 energy after her Burst ends, reducing the total cost to a more manageable 65 energy. **C2** increases the damage of her skill, makes her shield slightly tankier, and spreads a smaller shield to allies in the area for 5 seconds, making her even more useful for co-op. **C4** decreases the time for Aimed Shots by 60% when in her Burst’s AoE, allowing her to spread Cryo via Bow outside her circle much easier. **C6** increases healing by 30% within her Burst when a character’s health is under 50% and increases their Elemental mastery by 200 when it is over 50%, allowing for more efficient healing and/or stronger reactions.  
+
 
 **Artifacts:** 
 
-Diona’s artifact set can vary depending on what you want to use her for. **4pc Maidens** is very good if you focus more on Diona’s healing Burst, while **4pc Noblesse** is a mainstay if you want her to buff Razor a little more. A low-budget **2pc Exile/2pc Scholar** is also handy to get her 80 energy Burst back quicker for more Cryo application and healing.
+Diona’s artifact set can vary depending on what you want to use her for. **4pc Maidens** is very good if you focus more on Diona’s healing Burst, while **4pc Noblesse** is a mainstay if you want her to buff Razor a little more. A low-budget **2pc Exile/2pc Scholar** is also handy to get her 80 energy Burst back quicker for more Cryo application and healing.  
+
 
 **Weapons:** 
 
@@ -725,7 +729,7 @@ Diona’s artifact set can vary depending on what you want to use her for. **4pc
 
 ### **Qiqi - Cryo Sword** 
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28123%29.png)
 
 **Healer, SC Enabler  
 S- \(C0-C6\)**  
@@ -738,15 +742,18 @@ S- \(C0-C6\)**
 
 **Constellations:** 
 
-Qiqi at **C0** is more than enough to remain effective for Razor. Her **C1** gives her 2 energy for every Talisman-affected enemy that her Skill hits, helping her gain her Burst back faster for additional healing. **C4** decreases enemies’ attack damage by 20% if affected by said Talisman, arguably her most valuable constellation. **C6** lets her revive any fallen party members back up to 50% HP with her Burst once every 15 minutes, which may be useful for long or intense fights.
+Qiqi at **C0** is more than enough to remain effective for Razor. Her **C1** gives her 2 energy for every Talisman-affected enemy that her Skill hits, helping her gain her Burst back faster for additional healing. **C4** decreases enemies’ attack damage by 20% if affected by said Talisman, arguably her most valuable constellation. **C6** lets her revive any fallen party members back up to 50% HP with her Burst once every 15 minutes, which may be useful for long or intense fights.  
+
 
 **Artifacts:** 
 
-For healing, 4pc Maiden Beloved is typically your go-to set, and it remains the same for Qiqi. As well as this, her healing does scale off of Attack, so 2pc Maiden Beloved/2pc Gladiator’s Finale can also be effective and let Qiqi move into more of a Sub-DPS role.
+For healing, 4pc Maiden Beloved is typically your go-to set, and it remains the same for Qiqi. As well as this, her healing does scale off of Attack, so 2pc Maiden Beloved/2pc Gladiator’s Finale can also be effective and let Qiqi move into more of a Sub-DPS role.  
+
 
 **Weapons:** 
 
-Qiqi does not require a specific weapon to shine in a Razor comp. **Sacrificial Sword** is a decent option for Qiqi, as her skill normally has a 30s cooldown. Activating its passive means more Cryo application and on-demand healing, although Razor is fine with just Superconduct. Alternatively, other good options can be **Aquila Favonia, Summit Shaper,** or **The Flute** for maximum healing due to their ATK% boosting properties. Cheap options that are available are **Fillet Blade**, which can be used quite a bit in a quick swap strategy abusing the passive as well as gaining ATK% from the weapon which further benefits her overall healing. 
+Qiqi does not require a specific weapon to shine in a Razor comp. **Sacrificial Sword** is a decent option for Qiqi, as her skill normally has a 30s cooldown. Activating its passive means more Cryo application and on-demand healing, although Razor is fine with just Superconduct. Alternatively, other good options can be **Aquila Favonia, Summit Shaper,** or **The Flute** for maximum healing due to their ATK% boosting properties. Cheap options that are available are **Fillet Blade**, which can be used quite a bit in a quick swap strategy abusing the passive as well as gaining ATK% from the weapon which further benefits her overall healing.   
+
 
 #### _**Aside: Razor & Qiqi’s special synergy**_
 
@@ -754,7 +761,7 @@ Qiqi is normally not used often in lategame team comps because she doesn’t off
 
 ### **Ganyu - Cryo Bow**
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28109%29.png)
 
 **Sub-DPS, SC Enabler  
 A \(C0\) - S- \(C4\)**
@@ -791,7 +798,7 @@ However, If you would still like to use Chongyun on a Razor team, KrushSG has a 
 
 ### **Barbara - Hydro Catalyst**
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28128%29.png)
 
 **Healer, Support**  
 _****_**B \(C0\) - A- \(C2\)**
@@ -803,17 +810,539 @@ _****_**B \(C0\) - A- \(C2\)**
 
 **Constellations:** 
 
-Barbara’s notable constellations as a healer are **C1**, **C2** and **C6**. Her **C1**, while not amazing, still improves her Burst uptime for more consistent heals. Her **C2** decreases the cooldown of her skill by 15% and gives the active character 15% Hydro DMG bonus, the latter of which is useless for Razor but reduced skill cooldown is nice regardless. Her **C6** is a 15min revive that fully heals the fallen character, which could be useful if Razor gets nuked.
+Barbara’s notable constellations as a healer are **C1**, **C2** and **C6**. Her **C1**, while not amazing, still improves her Burst uptime for more consistent heals. Her **C2** decreases the cooldown of her skill by 15% and gives the active character 15% Hydro DMG bonus, the latter of which is useless for Razor but reduced skill cooldown is nice regardless. Her **C6** is a 15min revive that fully heals the fallen character, which could be useful if Razor gets nuked.  
+
 
 **Artifacts:** 
 
-Barbara’s default healer set is 4pc Maiden Beloved for enhanced healing or perhaps a 2pc Maiden/2pc Exile or Scholar for some healing mixed with more frequent Bursts. 4pc Noblesse is also an option if your Barbara has a lot of energy recharge, especially with C1.
+Barbara’s default healer set is 4pc Maiden Beloved for enhanced healing or perhaps a 2pc Maiden/2pc Exile or Scholar for some healing mixed with more frequent Bursts. 4pc Noblesse is also an option if your Barbara has a lot of energy recharge, especially with C1.  
+
 
 **Weapons:** 
 
-There is almost no competition for Barbara’s BiS support book and that is **Thrilling Tales of Dragon Slayers**, due to it synergizing with her healing \(HP% substat\) and giving her utility in the form of a hefty ATK% boost for Razor. If you really want an alternative, **Prototype Amber** is serviceable as a team battery and enhanced healing option.
+There is almost no competition for Barbara’s BiS support book and that is **Thrilling Tales of Dragon Slayers**, due to it synergizing with her healing \(HP% substat\) and giving her utility in the form of a hefty ATK% boost for Razor. If you really want an alternative, **Prototype Amber** is serviceable as a team battery and enhanced healing option. [**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
 
-  
+### **Xingqiu - Hydro Sword**
+
+![](../../.gitbook/assets/image%20%28108%29.png)
+
+**Sub-DPS, Enabler, Support  
+S \(C0\) - S+ \(C2\)**  
   
 
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Xingqiu is an extremely strong Hydro unit at the moment that has the benefit of applying Hydro extremely quickly and dealing a lot of damage while his Elemental Burst is active. This ability, although is the main enabler for vaporise reactions, still heavily benefits Razors playstyle which is based off of normal attack spamming. Even though Electrocharged isn’t a very strong reaction, it still provides some CC and good DPS compared to most transformative reactions, making Xingqiu one of Razor's best supports. In addition to this, his Elemental Skill and Burst provide circulating rain swords which can heal and reduce the damage that Razor takes while buffing his resistance to interruption. This is very much appreciated, as Razor prefers to attack in melee range where he is very likely to get hit. Xingqiu also does not mess up Superconduct as Electro charging enemies still allows enemies to be frozen and Superconducted both at the same time if Cryo is applied. |
+| **Negatives** | Xingqiu’s skill has a very long cooldown \(21s\) and he is quite lackluster without his Burst as a Sub-DPS. Therefore to make him feel strong, you will need a Sacrificial Sword and/or lots of energy recharge. Xingqiu’s Burst has a 80 energy cost, meaning your team most likely needs another battery to enable good Burst uptime unless your Xingqiu is C6. |
+
+**Constellations:** 
+
+Xingqiu constellations allow him to become one of the strongest Sub-DPSs in the game when paired with Razor. While his **C1** is the only thing that benefits Razor himself with the additional rain sword, **C2** \(duration increase and Hydro RES shred\) and **C6** \(increased DPS and ER upon hitting enemies in burst\) are both major upgrades that will increase Xingqiu’s DPS, burst duration and energy recharge significantly.  
+
+
+**Artifacts:** 
+
+As a Sub-DPS, Xingqiu greatly appreciates the Heart of Depth set for maximum Hydro DMG bonus, which boosts his damage and damage reduction from his skill. A common Sub-DPS setup is **2c Heart of Depth/2pc Noblesse**. If there are no other Noblesse 4pc users on your team, Xingqiu can utilize the **4pc Noblesse** set decently as his Burst syncs with Razors, both having approximately 15s duration and 20s cooldown **\(C0\)**.  
+
+
+**Weapons:** 
+
+**Sacrificial Sword** is Xingqiu’s best option, as it allows him to somewhat bypass his high skill cooldown and generate more particles while dealing more damage. Other options included can be **Skyward Blade, Festering Desire, Favonius Sword** and **Skyrider Sword**. For more information on Xingqiu, please visit the [Xingqiu Handbook](https://docs.google.com/document/u/1/d/e/2PACX-1vQh8k62r8m0YwyRkhfI7qi4-iSLj5hnB3EQ3OnYD5oF4HPBq1iuMzuWHDqld3rkPWMeDoo-kdP0ln_G/pub). [**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Fischl - Electro Bow**
+
+![](../../.gitbook/assets/image%20%28124%29.png)
+
+**Sub-DPS, Electro resonance  
+A \(C0\) - S \(C6\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Fischl is a very strong unit that deals a lot of damage alongside Razor and generates a lot of particles for him, making playing Razor feel very comfortable as he can often switch out if the player needs to because the ult downtime is very low. Even though Razor doesn’t normally have issues with ult uptime, Fischl makes it 100% uptime which is extremely good in prolonged fights. In addition, she has an off field skill, which is more accessible to use than Bursts and can do significant DPS when well-invested. C6 Fischl also turns her into a powerhouse that synergizes well with Razor’s quick attacks in Burst. When well built, Fischl provides plenty of damage and energy for Razor while being an excellent battery for the whole team. She also provides extra particles if an Electro reaction is triggered by the on-field character \(A4 + Electro resonance\). |
+| **Negatives** | Fischl is pretty squishy, and in general doesn’t really provide anything but battery and damage. Her C6, while doing respectable damage, will not trigger additional reactions with Razor since they are both Electro, making her potentially synergize with other DPSs better \(e.g. Childe\). If you think you don’t need more off-field damage or ult uptime for Razor, it may not be worth using Fischl other than against tanky bosses.  |
+
+**Constellations:** 
+
+In general, Fischl’s constellations are fairly straightforward boosts to her damage, such as **C2** \(initial skill damage and AoE\) and **C4** \(AoE Burst damage\). Her constellations do not present a unique benefit to Razor until **C6**. Her **C6** makes each of Razor’s autos do bonus Electro DMG, and since it scales with attack speed, Razor’s specialty as a fast-attacking claymore in Burst allows him to output this extra damage quicker than other claymore DPSs. **C6** also increases Oz’s duration, allowing him to generate more energy for the party.  
+****
+
+**Artifacts:** 
+
+**2pc Gamblers** is a great set for Fischl since it boosts elemental skill damage by 20%, greatly increasing Oz’s damage. If using Stringless however, since the weapon has a similar passive, you can run **2pc Gladiators/2pc Thundering Fury** on her for full 5\* stats. Otherwise, **2pc Gamblers/2pc Thundering Fury** is the best choice for Sub-DPS Fischl.  
+****
+
+**Weapons:** 
+
+In general, good weapons for Sub-DPS Fischl are **Skyward Harp, Amos Bow, The Stringless, Rust, Viridescent Hunt and Prototype Crescent. Skyward Harp** is arguably Fischl’s BiS weapon whether it be as a Main DPS or Sub-DPS. The weapon is tailored for Fischl, allowing for build variety as the Harp provides both Crit Rate and Crit Damage while also providing very high Base ATK. Alternatively, **The Stringless** is arguably Fischl’s BiS Sub-DPS 4\* weapon as it boosts Oz’s damage by 24% at R1, which is better than Gambler’s 20%. **Prototype Crescent** and **Rust** both grant ATK% substats which is very useful for C6 Fischl as C6 scales from her attack, but they are overshadowed by **The Stringless** due to their lackluster passives. For more weapon comparisons for Fischl, visit [Sub DPS Fischl Guide ver. 2.0](https://docs.google.com/spreadsheets/d/1EI5u3BmfmqNIlbaSe-ePG0_8w9FxNkcG4VJSsAJgjU4/edit#gid=0). [Back to table](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Beidou - Electro Claymore**
+
+![](../../.gitbook/assets/image%20%28116%29.png)
+
+**Sub-DPS, Electro resonance  
+B+ \(C0\) - A \(C6\)**
+
+\*\*\*\*
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | A well-built Beidou is a monster in situations where her Burst can freely bounce between enemies \(needs at least 2 targets\) to deal AoE damage, and her C2 makes this AoE damage even better by allowing the lightning to occur more frequently. Her Burst also provides a good chunk of survivability in the form of damage reduction, resistance to interruption and a shield \(C1\). Having Beidou on the team will allow Razor to play more aggressively, provided you can get her Burst and Razor’s Burst up at the same time. Unlike Fischl who excels at single-target damage, Beidou excels at multi-target damage, making her a great addition in abyss floors with multiple enemies. |
+| **Negatives** | Unfortunately, Beidou has noticeable energy issues even with Electro Resonance, requiring a hefty 80 energy cost to activate her Burst. Most of Beidou’s power budget as a Razor support is locked behind her Burst, and since she cannot swap in freely during Razor’s Burst to counter enemy attacks, you would rarely be able to full counter with her to get the highest damage and energy generation possible. This is exacerbated by the fact that Razor cannot generate energy with his skill during his Burst, making Beidou’s energy issues more apparent. If running Razor as a traditional Main DPS, Beidou’s power would be severely restricted as she tends to prefer quickswap teams that let her use her high damage skill and Burst whenever available. |
+
+**Constellations:** 
+
+Beidou’s best constellations on a Razor team is her **C1, C2** and **C6**. **C1** gives Razor an Electro shield that scales from 16% of Beidou’s max HP for 15s upon casting her Burst. **C2** is the bread and butter of Sub-DPS Beidou, pushing her AoE capabilities through the roof as it allows her Burst’s lightning to jump to 2 additional targets \(or bounce between the same targets more times, given there are at least 2\). **C6** is a nice boost to both Beidou and Razor’s Electro damage output, as Beidou’s Burst will shred enemy’s Electro Res by 15%.  
+
+
+**Artifacts:** 
+
+Any combination of **2pc Noblesse, 2pc Thundering Fury and 2pc Gladiators** will work for Sub-DPS Beidou. According to Zanto\#4984’s [Beidou Guide](https://docs.google.com/document/d/1LyhpgeCGv4GQ7MXuslgwb5lJgQ2GOrPMhIDSv2qARQo/edit#), **2pc Thundering Fury/2pc Gladiator** is best for pre-C2 Beidou, while **2pc Noblesse/2pc Gladiator** is is best for post-C2 Beidou. **2pc Thundering Fury/2pc Noblesse** works best if your Beidou’s stats are skewed towards ATK% \(e.g. ATK% weapon\), but generally Beidou prefers ATK% \(2Glad\) to Electro DMG% \(2TF\) since her ascension stat grants Electro DMG Bonus and she often faces a low ATK issue from running ER% hourglass, Electro% cup and CRIT/CDMG% circlet.  
+
+
+**Weapons:** 
+
+As a high investment unit, Beidou favors claymores such as **Wolf’s Gravestone**, **Skyward Pride,** and **Serpent Spine** to truly shine as a Sub-DPS. In fact, most of her best weapons coincide with Razor’s best weapons, although she can work with Energy Recharge weapons such as **Sacrificial Greatsword and Favonius Greatsword** to cushion her high ER requirements on a Razor team. **Rainslasher** is not recommended due to its EM substat and reliance on Electro application \(unless perhaps running triple Electro with Razor and Fischl\). ****[**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Bennett - Pyro Sword**
+
+![](../../.gitbook/assets/image%20%28111%29.png)
+
+**Support, Healer**  
+**B+ \(C0\) - A \(C1\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Bennett fills the same role on Razor teams as he does on any other team as that of one of the best buffers in the entire game. His Elemental Burst creates an 12s AoE effect that heals characters up to 70% and provides any character above 70% HP with an ATK% bonus \(C0\), making him good against heavy enemies that don’t get knocked back by Overload. Scaling off of Bennett’s base attack, this provides a sizable bonus for all of Razor’s attacks in the circle, costing 60 energy with a 15s cooldown. With Bennett’s ascension stat being ER, Bennett has no issues gaining back his 60 energy and continually providing Razor with an attack bonus as long as he uses an energy recharge sword. Bennett’s Burst also acts as a cleanse, which is very useful against leyline disorders \(but less valued since Razor’s ult can already self-cleanse\)  |
+| **Negatives** | Bennett’s specific negative with Razor is that he applies Pyro with his skill and Burst, meaning Overload procs are likely to happen. Bennett’s Burst procs Pyro on characters that enter the field, and combining this with Razor’s Burst means that smaller enemies will be continuously knocked out of the circle, wasting the ATK buff as Razor needs to chase after them. In addition, Razor does not need Overload to break Geo shields as a claymore and his hold E breaks Cryo shields fast, so Pyro units are generally unneeded. On the flipside, Bennett is often a better choice for quickswap reaction comps such as Melt and Vaporize teams who allow him to spam his skill frequently to generate energy, so he normally has better synergies with non-selfish DPSs. |
+
+**Constellations:** 
+
+Bennett at **C0** works just fine, but he benefits heavily from his **C1**, which adds another 20% to his ult’s buff as well as removes the 70% HP restriction for said attack bonus. His other constellations don’t mesh as well as a Burst spammer for Razor, and his **C6** actually makes him into a Pyro Chongyun, converting all Normal/Charged Attacks into Pyro DMG over Physical DMG in his Burst. His **C6** generally makes him worse as a support for Razor, so it is not recommended.  
+
+
+**Artifacts:** 
+
+Bennett is one of the best candidates for **4pc Noblesse**, as he exists solely to use his Burst in a Razor comp in order to avoid triggering excessive Overloads. The attack buff from Noblesse will last for the entirety of his Burst, and building Bennett for even more ER means you get even more buffs on top of his already nutty Burst. **2pc Exile/2pc Scholar** is also a good option for Bennett, helping him get as close as possible to 100% Burst uptime.  
+
+
+**Weapons:** 
+
+Similarly to Kaeya, **Favonius Sword** furthers Bennett’s Burst uptime with an ER substat and a passive that lets him generate more energy when he crits. **Festering Desire** is a decent choice on Bennett due to its respectable base ATK and ER, although the passive is largely wasted since you won’t be spamming Bennett’s skill with Razor. **Skyrider Sword** is also useful with an ER substat, and **Fillet Blade** can work for quick burst damage. [**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Xiangling - Pyro Polearm**
+
+![](../../.gitbook/assets/image%20%28121%29.png)
+
+**Support, Sub-DPS  
+B \(C0\) - A- \(C4\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Xiangling’s skill puts down a Panda that breathes fire periodically, which combined with her ring of fire from her Burst makes her one of the best Cryo shieldbreakers in the game. Her skill and Burst both have fairly long durations \(6s and 10s respectively at C0\), making her a decent off-field support for Razor. When invested well, she can put out heavy damage with her Burst’s massive AoE and decent scaling, making her an excellent Pyro Sub-DPS for extended boss fights. Xiangling can also buff Razor’s ATK by 10% for 10s with her A4 after the end of her skill duration, which can have high uptime due to the short cd of her skill \(12s\). |
+| **Negatives** | As with other Pyro units, Xiangling is prone to causing Overload with Razor especially given her frequent Pyro application. She is also very energy-hungry, and Razor won’t be able to fund her 80 energy cost very well since his skill stops generating energy during his Burst. As such, Xiangling is normally used in a quickswap comp that can grant her enough energy to spam Burst frequently to enable reactions such as Vaporize or Melt. |
+
+**Constellations:** 
+
+In a Razor team, **C3-C4** Xiangling is where she truly shines, as the extra damage \(**C3**\) and 40% duration increase \(**C4**\) on her Burst will allow her to do more off-field damage while Razor is locked in his ult. Other constellations are less noteworthy as they generally boost Pyro damage \(**C1/C6**\) or Xiangling’s own normal attacks \(**C2**\).   
+****
+
+**Artifacts:** 
+
+Xiangling prefers the **2pc Noblesse/2pc Crimson Witch** as a Razor support to boost her Burst damage and Pyro damage respectively. The **4pc Crimson Witch** can also work for Sub-DPS Xiangling, but is generally not recommended in a Razor comp since Overload scales poorly as a transformative reaction. **4pc Noblesse** is an option for more team damage assuming no other Noblesse supports, and if lacking energy recharge, one may opt for simply a **2pc Exile/2pc Scholar** or either one with 2pc Noblesse.   
+****
+
+**Weapons:** 
+
+As an energy-hungry Burst support, Xiangling loves weapons that boost her energy recharge especially in a Razor team. Good ER weapons for Xiangling include **Skyward Spine, Favonius Lance, and Prototype Starglitter**. If you feel that you have enough energy recharge on her, more offensive Sub-DPS options would be **Deathmatch, Blackcliff, or Primordial Jade-Winged Spear**. ****[**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Xinyan - Pyro Claymore** 
+
+![](../../.gitbook/assets/image%20%28115%29.png)
+
+**Support, Shielder  
+B \(C0\) - A \(C4\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Xinyan has a built in physical DMG boost \(15% to shielded characters\) on her A2, as well as a physical RES shred \(15% to enemies hit by E\) with C4, making her excellent against tanky bosses. This makes Xinyan a potent support to boost Razor’s physical damage. Her ability to shield also synergizes well with Razor’s playstyle and enables him to keep Serpent Spine stacks up if using the weapon, and her shield can cleanse debuffs. In addition, she can do high burst damage on her Burst if well-invested with Physical DMG artifacts. |
+| **Negatives** | Xinyan’s skill cooldown is very high \(18s\) and her shield is rather frail. As her lvl 3 shield emits continuous Pyro DMG, she may trigger Overloads or even Melts when used alongside Razor and his Cryo supports, potentially interfering with Superconduct. Without C4, Xinyan has no access to physical RES shred. She is not a good battery due to high skill cd, and the physical portion of her Burst \(the majority of its damage share\) has a small radius. There may be diminishing returns of stacking physical bonuses with Xinyan as a Razor support, since Razor tends to stack them by default. |
+
+**Constellations:**
+
+Xinyan has two solid constellations in **C2** and **C4**. **C2** allows her Burst to always crit and grant a level 3 shield, which increases her utility and Sub-DPS potential as you can invest into crit damage while forgoing crit. Her **C4** allows her skill’s initial hit to debuff the enemy's physical RES by 15% for 12s, which is great against enemies with higher physical RES like ruin guards. **C6** is not useful for Xinyan as a Razor support, as it only boosts her charged attack.  
+****
+
+**Artifacts:** 
+
+Xinyan’s artifact choices are fairly flexible. She can run **4pc Noblesse** as support or **2pc Bloodstained/2pc Noblesse** as Sub-DPS provided another unit on your team is running Noblesse for Razor. If aiming for a shield build \(not recommended since her shield scaling is mediocre\), **2pc Guardians/2pc Noblesse** can be viable. **Exile** and **Scholar** are also decent sets to run if your Xinyan is lacking energy recharge.  
+****
+
+**Weapons:** 
+
+**Sacrificial Greatsword** synergizes extremely well with Xinyan as it grants her a reset of her high cooldown skill and more energy recharge to spam her ult. **Snow-Tombed Starsilver** is a decent weapon on Sub-DPS Xinyan to maximize her Burst’s physical damage. Other decent weapons include **Favonius Greatsword, Blackcliff Slasher and Skyward Pride**, although SP is more suitable for main DPSs due to its greedy passive. [**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Venti - Anemo Bow**
+
+![](../../.gitbook/assets/image%20%28120%29.png)
+
+**CC, Sub-DPS, Support  
+B \(C0\) - A \(C2\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Although Venti wasn’t in the top 10 of the poll, we decided to include him because he is indisputably the crowd control king of Genshin Impact, and his banner may get a rerun soon causing more players to use him with Razor. Venti’s overpowered Burst offers unmatched crowd control and deals continuous Anemo damage as well as extra damage if infused with an element. Razor is able to deal damage to enemies above him in said vortex with a hold E &gt; Q &gt; hold E, somewhat mitigating the downsides of being a melee character with low reach. Venti can also equip 4pc Viridescent Venerer to shred enemies’ Electro RES for Razor if pursuing a more Electro-focused build.  |
+| **Negatives** | As touched on above, melee characters often have a hard time hitting inside of Venti’s vortex. Razor is no exception here, as his normal attacks and tap E struggle to hit inside the vortex, reducing his overall DPS. |
+
+**Constellations:** 
+
+Venti at **C0** is all you need to spam his Burst. **C2** decreases Physical RES by a respectable 12% for 10s when affected by his Elemental Skill, helping Razor to deal more physical damage. **C6** can help out Razor’s Electro damage if his Burst Swirls with Electro.  
+****
+
+**Artifacts:** 
+
+**4pc Viridescent Venerer** is excellent for Venti, boosting his Anemo and Swirl damage in his Burst. As well as this, if Swirling with Electro, any enemy caught in the vortex will have their Electro RES reduced by 40% for 10s, making Razor’s Skill and Burst deal more damage. However Venti can also deal quite a bit of damage himself alongside his CC where he uses **2pc Noblesse 2 pc/Viridescent Venerer** to maximise his Burst damage. **4pc Noblesse** works as well if no other Noblesse users are in the party.  
+****
+
+**Weapons:** 
+
+Venti has quite a bit of options for weapons. He has quite a large variety of options to choose from whether it be pure damage, utility, or both. First and foremost, his best options are undoubtedly **Skyward Harp** and **Amos Bow** for pure damage. For 4\* weapons, you want to aim to upgrade a **Stringless** or a **Favonius Warbow** if unavailable. Stringless being accessible through the gacha is one of Venti’s strongest weapons due to the entire weapon benefitting Venti’s playstyle. First, it provides Elemental Mastery, and given how much Venti procs swirl, the stat is well abused. Secondly, the effect that Stringless provides can work off field, heavily boosting Venti’s damage. However if that option is unavailable to you, Favonius Warbow is a F2P option unlocked through the Dvalin story quest which is also fine to use as it provides an excessive amount of energy to Venti letting the player spam his burst much more often. [**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Zhongli - Geo Polearm**
+
+![](../../.gitbook/assets/image%20%28114%29.png)
+
+**Support, Shielder, CC  
+S \(C0\) - S+ \(C2\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Zhongli as of 1.3 is one of the best characters to support any DPS, but specifically for Razor's case it is quite interesting as his shield shreds both Physical and Elemental Resistance by 20%, meaning Razor as a mixed damage dealer gains huge benefit when shielded by Zhongli. Zhongli provides the beefiest shield for Razor out of all supports, letting him play very aggressively while also shredding resistance for Razor and off field supports such as Xingqiu or Fischl. His Burst is also a good crowd control for Razor as it petrifies enemies allowing Razor to land a few hits without retaliation. In addition to that, Zhongli makes Razor’s Electro damage potential quite good as shredding 20% Electro res will often make an enemy have around -5% Electro res \(assuming 10% res\), enabling Razor to deal somewhat decent Electro damage even when running a standard physical build \(shield res shred also stacks with Superconduct\). |
+| **Negatives** | Zhongli has longer cast times and can take field time off Razor, as his hold E and Burst both have long casting animations. His pillar also has inconsistent energy regen, forcing you to rely on another battery or Razor himself to reach optimal Burst uptime. In addition, Zhongli often has to compete with other high-valued supports in a Razor comp. With a Razor/Xingqiu/Fischl core \(strongest Sub-DPS setup\), players will have to choose between Superconduct/healing or RES shred/shielding, meaning Zhongli sometimes may not be optimal given the opportunity cost of losing a Cryo healer or more off-field damage. |
+
+**Constellations:** 
+
+In general, Zhongli’s constellations are quite good for Razor, especially **C2**, **C4** and **C6**. **C2** reduces the field time required for Zhongli by letting him grant a shield upon casting Burst \(effectively increasing Razor’s field time\), **C4** gives his Burst longer CC duration and a larger AOE, and **C6** allows you to forgo running a healer since Zhongli can cover that niche now.  
+****
+
+**Artifacts:** 
+
+For the artifact set as Zhongli support, you would ideally want **4pc Noblesse** for team buff or **2 Noblesse/2 Petra** for more meteor damage. Overall, **4pc Noblesse** would be the best for most teams \(assuming you are lacking a support with 4pc Noblesse equipped\) as the 20% attack buff is good for boosting team damage for off field supports like Fischl/Xingqiu.  
+****
+
+**Weapons:** 
+
+For Zhongli’s weapons, **Favonius Lance** is recommended to provide energy as he can suffer from ER issues, not to mention it increases his team battery potential. **Skyward Spine** can also be good, trading some energy regen capabilities for more damage. If you don’t have either, **Prototype Starglitter** is not a bad option. While ER and energy regen is important for Zhongli, provided that he is used with Razor specifically, Zhongli will likely not be using his meteor off of cooldown due to how Razor often takes the field time. It is more realistic to use Zhongli’s meteor every 15-20s even if he has it ready before then. As such, weapons like **Spear of Homa**, **Deathmatch**, **Blackcliff** and even **Primordial Jade Winged-Spear** may be preferable for a Sub-DPS Zhongli. **Black Tassel** is decent for a tank-only build. ****[**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+### **Albedo - Geo Sword**
+
+![](../../.gitbook/assets/image%20%28127%29.png)
+
+**Sub-DPS, Support, Shielder  
+A+ \(C0\) - S \(C6\)**
+
+| \*\*\*\* |  |
+| :--- | :--- |
+| **Positives** | Albedo’s E is one of the best Sub-DPS skills in the game. With a 4 second cooldown, he places down an elevator platform that lasts for 30 seconds and generates a Transient Blossom on hit every 2 seconds that deals Geo Damage. Importantly, this Geo Damage has a weak elemental application, meaning that it can react with Electro or Cryo to Crystallize without fully removing the status, not getting in the way of Superconduct. This skill adds two things to Razor’s kit with essentially 100% uptime: additional damage within his combos, as well as a height change that forces certain attack patterns. For instance, Shield Mitachurls always switch to a ranged attack when on Albedo’s elevator, and Ruin Hunters will enter their long-range missile phase to be easily stunned by a bow character. Albedo’s Q is also a handy Sub-DPS Burst, with good damage scaling and additional damage if done within the E field. |
+| **Negatives** | Albedo does not bring anything really unique to Razor as a Sub-DPS support, and can be dropped in favor of other characters. For instance, Fischl as a Sub-DPS brings Electro Resonance to assist in Q uptime, while Xingqiu gives better CC by abusing Electro-Charged. Albedo is never a bad pick in any teams, and is an overall solid pick for Razor, but does not particularly shine as a support outside of increased DPS, Geo Resonance, and the occasional shield.  |
+
+Constellations**:** 
+
+Albedo’s **C1** and **C2** both assist only Albedo as a Sub-DPS with his Q, regenerating energy and increasing Q damage. This can be useful, but is not really necessary for supporting Razor. **C4** increases Plunging DMG by 30%, which is fun and a pretty significant buff but still rather gimmicky. **C6** gives a 17% DMG buff to any Crystallize-shielded characters within the E, which is handy for damage, but is somewhat offset by Crystallize flimsiness and Razor’s propensity to knock enemies around.  
+****
+
+**Artifacts:** 
+
+Albedo pretty much requires at least a **2pc Petra** set, with the other 2-piece varying depending on what you have and the specific purpose he wants. Building entirely around E may want a **2pc Defenders** set, while a more general Sub-DPS build will want **2pc Noblesse** to match the Petra set.  
+****
+
+**Weapons:** 
+
+For Sub-DPS purposes, Albedo requires very little investment to abuse **Harbinger of Dawn**, a 3 star sword with crit damage substat and a nifty crit-enhancing ability that works even when Albedo isn’t on the field. **Primordial Jade Cutter and Festering Desire** are also strong Sub-DPS options, but he is usually better off with Harbinger for easy and strong off-field damage. ****[**Back to table**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.94lfurglszcd)
+
+## **9. Team Building**
+
+![Source: https://twitter.com/AlessiaTrunfio/status/1366448305706848258/photo/1](https://lh3.googleusercontent.com/gqxSj5UlpgLxHc3NTUXgOVNzparTE6l0ti-G-JhbL_uRokuByuG_6COvIDZfT-39tOBWlA9jDAYeuHmBL7aUfMxlEvblGlHV1S9Tg0DbQKoNb9DdE2Tb1nI2g9BpzBnhLf9KZHIC)
+
+### **Elemental Resonance**
+
+Razor is fairly flexible regarding team resonance, as he doesn’t require Electro Resonance to maintain high Burst uptime. As a result, you may opt for a different element’s resonance: 
+
+1. **Pyro Resonance: ATK +25%**. A nice damage boost for Razor, although he will have to deal with not just one but two Pyro units triggering Overload.
+2. **Cryo Resonance: CRIT +15% against Cryo-afflicted/Frozen enemies.** Needs a fast Cryo applicator like Kaeya/Ganyu to keep up with Razor’s Electro application in ult.
+3. **Hydro Resonance**: **Increases incoming healing by 30%**. Very useless.
+4. **Electro Resonance**: **Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle \(5s CD\).** Not a bad resonance for Razor if aiming for 100% Burst uptime against any number of enemies. 
+5. **Anemo Resonance: Decreases stamina consumption by 15%, increases movement speed by 10%, shortens skill CD by 5%.** Requires running double Anemo with Razor which is suboptimal compared to other options.
+6. **Geo Resonance: Increases shield strength by 15%, increases damage dealt by 15% for shielded characters and their damage to enemies decrease Geo RES by 20% for 15s.** Very good resonance as of 1.3, with Zhongli being the best contender for this setup as his shield has 100% uptime and provides a RES shred of its own.
+7. **Rainbow Resonance: Elemental RES and Physical RES +15%.** Unlike many other DPSs, Razor doesn’t strongly benefit from having a support of the same element for battery or two supports from a different element to trigger reactions, meaning he can work just fine with no particular resonance. Having 4 different elements in a team can be good as it allows up to 6 total elemental reactions and gives you more elements to counter shields. 
+
+### **Electro Reactions**
+
+As Electro reactions such as Overloaded, Superconduct, Electro-Charged and Electro Swirl are transformative and not amplifying, they only scale with level and elemental mastery and cannot crit, making them sub-optimal for raw damage output. In addition, investment in EM is not recommended due to these reactions not being able to scale from skill damage. However, Electro reactions come with additional utility which can make them situationally strong.
+
+#### **Overload \(Electro + Pyro\)**
+
+| \*\*\*\* |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Character Level** | **1** | **10** | **20** | **30** | **40** | **50** | **60** | **70** | **80** | **90** |
+| **Base Damage** | 34 | 68 | 161 | 273 | 415 | 647 | 981 | 1440 | 1893 | 2406 |
+
+Highest base damage of Electro reactions but the most inconvenient for Razor. Deals AoE Pyro damage and creates an explosion that knocks enemies \(except heavy bosses like fatui\) back. Can be used to break Geo shields.
+
+* Razor may Overload himself if he is hit by Pyro during his Burst \(as his Burst applies the Electro element to himself\), so dodge Pyro missiles to avoid being knocked back mid-ult
+* Typical enablers for Overload: Bennett, Xinyan, Xiangling
+
+#### **Superconduct \(Electro + Cryo\)**
+
+| \*\*\*\* |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Character Level** | **1** | **10** | **20** | **30** | **40** | **50** | **60** | **70** | **80** | **90** |
+| **Base Damage** | 9 | 17 | 40 | 68 | 104 | 162 | 245 | 360 | 473 | 601 |
+
+Lowest base damage of Electro reactions, but by far the most useful for Razor due to its 40% Physical RES shred on all affected enemies that lasts for a lengthy 12s. Note that Physical RES shred gets halved when enemies have negative RES. Here is a [list](https://i.redd.it/evlbyqzrdlv51.jpg) of typical enemy resistance values in the game currently.
+
+* E.g. Superconduct against treasure hoarder with -20% Phys RES results in -40% Phys RES \(-20% - 20%\)
+* E.g. Superconduct against ruin guard with 70% Phys RES results in 30% Phys RES \(70% - 40%\)
+* Razor may Superconduct himself if he is hit by Cryo during his Burst, but the interaction also applies Superconduct to enemies nearby, making it a double-edged sword
+* Typical enablers for Superconduct: Diona, Kaeya, Qiqi
+
+#### **Electro-Charged \(Electro + Hydro\)**
+
+| \*\*\*\* |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Character Level** | **1** | **10** | **20** | **30** | **40** | **50** | **60** | **70** | **80** | **90** |
+| **Base Damage** | 21 | 41 | 97 | 164 | 249 | 388 | 589 | 864 | 1136 | 1443 |
+
+Electro-Charged is a decent damaging reaction for Razor, as it does Electro reaction damage immediately and applies an Electro DoT effect to wet enemies nearby \(1s per tick of EC usually\). Electro-Charge is also useful for staggering enemies. Note that Electro-Charged is inconsistent depending on the trigger character.
+
+* As long as the 2 elemental gauges involved are constantly refreshed \(e.g. Razor + Xingqiu with both Bursts active\), Electro-Charge can be applied indefinitely
+* Electro-Charge allows both Electro and Hydro to co-exist on an enemy, meaning other reactions \(e.g. Superconduct and Freeze\) may be simultaneously applied to an Electro-Charged enemy \(see [Skill Gauges](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.7q180ml02sw) for a demonstration\)
+* Typical enablers for Electro-Charge: Xingqiu, Barbara
+
+#### **Electro-Swirl \(Electro + Anemo\)**
+
+| \*\*\*\* |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Character Level** | **1** | **10** | **20** | **30** | **40** | **50** | **60** | **70** | **80** | **90** |
+| **Base Damage** | 10 | 20 | 48 | 82 | 124 | 194 | 294 | 432 | 568 | 722 |
+
+Electro-Swirl, like other Swirl effects, are triggered by an Anemo user to spread the current element to nearby enemies, allowing for more reaction potential. Swirl deals damage based on the Anemo character’s level and EM. 
+
+* As Razor usually isn’t played in reaction comps and wants as much field time as possible, it is not recommended for him to be played with an Anemo character to trigger Swirls with maybe the exception of Venti, who can apply a long off-field Anemo Burst \(but it may pull enemies too high for Razor’s auto attacks\).
+* If running Hybrid or Electro Razor team, Electro-Swirl may gain more value as the Anemo character can equip VV to shred enemies’ Electro RES by 40%.
+* Typical enablers for Electro-Swirl: Venti
+
+#### **Shatter \(Claymore + Frozen\)**
+
+| \*\*\*\* |  |  |  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Character Level** | **1** | **10** | **20** | **30** | **40** | **50** | **60** | **70** | **80** | **90** |
+| **Base Damage** | 26 | 51 | 121 | 204 | 311 | 485 | 736 | 1080 | 1420 | 1804 |
+
+Shattered is not a result of an Electro reaction - rather, it can be triggered by Razor’s claymore against Frozen enemies \(Cryo + Hydro\) to deal extra Physical damage. Shattered breaks the Frozen status and deals damage based on Razor’s level and EM.
+
+* Frozen enemies will have Cryo persisting normally for a while, allowing for easy reapplications of Frozen + Shatter with a Hydro aura character
+* Typical enablers for Shatter: Kaeya + Xingqiu \(fast elemental applicators\)
+
+### _**Sample Teamcomps**_
+
+Below we have shared some example Razor team compositions that are very popular and/or strong in various situations. Keep in mind that Razor compositions generally only require the convenient Razor and Cryo user; other than that, Razor can work with just about any support, although some synergize better with him than others.
+
+### **Enable the Razor Comp**
+
+![Razor \| Fischl \| Xingqiu \| Diona](../../.gitbook/assets/image%20%28125%29.png)
+
+**Note:** This team can have Qiqi instead of Diona, trading some utility for better healing.  
+****
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pros</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Extremely high single target off-field damage with Fischl and Xingqiu;
+            Xingqiu allows for consistent Electro-reactions that capitalize on Fischl&#x2019;s
+            A4 Lightning Smite talent.</li>
+          <li>Even with sporadic freezing, Superconduct can still be triggered due to
+            the Cryo aura on frozen enemies.</li>
+          <li>As Diona&#x2019;s healing may suffer due to her high energy cost, this
+            can be offsetted somewhat by Xingqiu&#x2019;s rain swords which not only
+            reduce the damage that Razor takes, but also heals him if he takes damage.
+            In addition to that, Xingqiu&#x2019;s rain sword damage reduction allows
+            Diona shield to tank more damage for Razor.</li>
+          <li>Electro resonance batteries the whole team, allowing Xingqiu and Diona
+            to use their high impact ults more often.</li>
+          <li>Xingqiu&#x2019;s Burst does not snapshot (can receives buffs mid-ult)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cons</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>This team lacks AoE potential as Razor, Fischl and Xingqiu all lack consistent
+            AoE unless highly invested.</li>
+          <li>Fischl and Xingqiu, as sub-carries, both require hefty investment in order
+            to maximize their raw damage potential.</li>
+          <li>Fischl and Xingqiu both benefit heavily from their constellations, making
+            them most effective at high constellation levels (huge power spike in Fischl&#x2019;s
+            C6 and Xingqiu&#x2019;sC1,C2, and C6).</li>
+          <li>Fischl&#x2019;s skill snapshots (need to reposition Oz if buff is applied
+            after its initial summon)</li>
+          <li>Overall can be quite a high investment team.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Demonstration:** [**https://www.youtube.com/watch?v=sHwHBY3Jf8k&feature=youtu.be**](https://www.youtube.com/watch?v=sHwHBY3Jf8k&feature=youtu.be)
+
+### **Protect the Razor Comp**
+
+![Razor \| Zhongli \| Albedo \| Xingqiu](../../.gitbook/assets/image%20%28113%29.png)
+
+Generally the team composition for a Geo Resonance Razor team is Razor + Zhongli + Geo + Flex, although the last slot can be flexed. Alternatively, you could add Fischl instead of Albedo here who also benefits from the 20% universal RES shred from Zhongli’s shield as a Sub-DPS.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pros</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Extremely tanky team allowing for high shield uptime and great crowd control
+            with Zhongli plus both off-field single target and AoE damage with Xingqiu
+            and Albedo respectively.</li>
+          <li>Access to Geo resonance, increasing shield strength by 15% and giving
+            the whole team 15% DMG when shielded as well as 20% Geo RES reduction useful
+            for Sub-DPS Albedo and Zhongli.</li>
+          <li>20% universal RES shred from Zhongli&#x2019;s hold E benefits the whole
+            team&#x2019;s damage output.</li>
+          <li>Loss of Superconduct isn&#x2019;t necessarily a DPS loss as Zhongli&#x2019;s
+            RES shred can compensate and increase team damage overall, allowing for
+            the inclusion of high off-field DPS units such as Xingqiu and Albedo.</li>
+          <li>Not using a healer isn&#x2019;t an issue with Zhongli&#x2019;s shield
+            and Xingqiu&#x2019;s DMG reduction as well as healing from rainswords.
+            The extra DMG reduction from Xingqiu can also counteract Serpent Spine
+            Razor&#x2019;s increased damage taken, enabling Zhongli&#x2019;s shield
+            to be more effective.</li>
+          <li>Albedo is very cheap to build with HoD, requiring less investment for
+            this team to be effective.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cons</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Although this team&#x2019;s damage ceiling is very high as well as the
+            playstyle being comfortable, if Zhongli&#x2019;s shield is underinvested,
+            it could potentially lead to the shield being useless, especially against
+            abyss mobs meaning that you would have to replace either Xingqiu or Albedo
+            for a healer.</li>
+          <li>This team requires two limited back-to-back 5* characters, making it literally
+            expensive.</li>
+          <li>If you want to play a quick swap playstyle with Zhongli and Albedo, using
+            Razor here is not needed, you are better off using another team to utilise
+            the effectiveness of the two. (Assuming both of their bursts are invested
+            in).</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Demonstration:** [**https://www.youtube.com/watch?v=wmr7ZtaszLM**](https://www.youtube.com/watch?v=wmr7ZtaszLM)
+
+### **Buff the Razor Comp**
+
+![Razor \| Kaeya \| Xinyan \| Bennett](../../.gitbook/assets/image%20%28110%29.png)
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pros</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Offers a large range of support utility for Razor, including buffs, debuffs,
+            shields, quick Cryo application and sizable ATK from Pyro Resonance.</li>
+          <li>Razor will do an absurd amount of damage by himself given the correct
+            setup is done due to Pryo Resonance, ATK buff from Bennett&#x2019;s Burst
+            and Physical DMG bonus and RES reduction from Xinyan E (Physical RES reduction
+            locked behind C4).</li>
+          <li>Great for most bosses as Overloaded deals good damage, breaks shields
+            and provides valuable CC in certain scenarios (e.g. 11-2).</li>
+          <li>Great for YouTube damage showcases...</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cons</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Two Pyro units interfere heavily with Superconduct, requiring extra micromanagement
+            to work around the additional Pyro aura.</li>
+          <li>Transitioning immediately from Bennett&#x2019;s Burst into Razor&#x2019;s
+            burst or tap/hold E Overloads enemies, knocking them out of Bennett&#x2019;s
+            AoE and rendering it useless. Overload will consistently occur as Bennett&#x2019;s
+            cleanse clashes with Razor&#x2019;s self cleanse, which may be detrimental.</li>
+          <li>Xinyan practically requires C2 (100% physical damage crit on burst plus
+            level 3 shield on cast) and ideally C4 (E reduces enemy physical RES by
+            15% for 12 seconds) in order for this composition to be effective as those
+            two constellations heavily gate her support potential for Razor.</li>
+          <li>Razor&#x2019;s basic rotation applies Electro while Xinyan constantly
+            applies Pyro with her level 3 shield, further accentuating the Overload
+            issue.</li>
+          <li>This comp sacrifices Sub-DPS damage to buff Razor&#x2019;s damage, unless
+            Kaeya/Xinyan is heavily invested.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Demonstration:** [**https://www.youtube.com/watch?v=kewm8XLAJRI**](https://www.youtube.com/watch?v=kewm8XLAJRI)
+
+## **10. Alternative Playstyles**
+
+### **Razor’s True Ratios**
+
+According to Araetha\#9163 who has calculated Razor’s Physical to Electro ratios based on practical combos in the Razor Sheet [\(raw percentage tab\)](https://docs.google.com/spreadsheets/d/1JtrnS_llMXfqrXeANbTP03KgI5to9U1fBzcYC8FRmYY/edit#gid=1924428105), the Phys:Elec ratio of C0 Razor at talents 6/6/6 \(including ascension bonus\) is about 60:40, assuming a combo where tap Es are used to improve Burst uptime.
+
+![](https://lh5.googleusercontent.com/AKP9SQ8-sn-hU0nqJWlyN9R25Wz3W48pbaRbC_3Ig6IS_ofav41jJqAEF19hwD8Gl_Pro3xf685IIjEz1GFssKrXCSVvS70FxhKXF56ajxftlRt6bV7SviqPj2Nq_RMfp3w9a2Z7)
+
+This is a smaller gap compared to the 70:30 or higher Phys:Elec ratio people normally expect with Razor, and it doesn’t stop there. As mentioned at the beginning of the guide, higher constellations and talent levels dramatically improve Razor’s hybrid damage potential. If we change the values of Razor’s talents in the sheet to 10/13/13 \(assuming a maxed C6 Razor\), we can see that the ratio is further skewed to 52:48 - almost equal Physical to Electro output in a typical Burst rotation.
+
+![](https://lh4.googleusercontent.com/kj9IcvVVsOJnWTcqJlKMEkT_6jCyDT2SvYXPmdq7OIT5NtsNEpEWPxF8cCSwgqUEYBbVhoM6Trv-G48Zed0QG8cxbgedyiPfOu55GRJG6Es9iw0_QRIAjpd-RInH4e9ZvXYAMEo0)
+
+Given these findings, investing into Hybrid Razor as an endgame option is actually quite viable. Some weapons also enable the Hybrid Razor build exceptionally well, namely Serpent Spine.
+
+### **Hybrid DPS Razor**
 
