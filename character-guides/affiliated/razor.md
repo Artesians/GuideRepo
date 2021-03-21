@@ -24,6 +24,10 @@ This guide was written by the RazorMains community. You can find the full docume
 
 **By Razormains Discord** [**Mods & Theorycrafters**](https://docs.google.com/document/d/1iXrwYLstfwGA98YXDH7X8MO1F7PMjpKldLmRiRST6Xk/edit#bookmark=id.yttmknosw0di)
 
+Writers: LeafOnTheWind\#9931, Ender\#1359, arashi\#2449
+
+Contributors: Shifu02\#7738, Araetha\#9163, shdwbld\#8103, Wolfen7\#5902, William355\#3092, jerf\#0339, muse\#0188, Azzurala\#6257, HardgoreAlice\#8976, Castguy\#3544, AngaFundarge\#4044, EggsD\#9603
+
 **Discord:** [**https://discord.gg/4BzHdAzHGR**](https://discord.gg/4BzHdAzHGR)  
 **For the FAQ, please visit** [**this**](https://docs.google.com/document/d/1fHznPlYaxCHRogOABBq5fEAErCVqNVC2R4Sb5l90_5w/edit) **doc**
 
@@ -1273,7 +1277,7 @@ Generally the team composition for a Geo Resonance Razor team is Razor + Zhongli
 
 ### **Buff the Razor Comp**
 
-![Razor \| Kaeya \| Xinyan \| Bennett](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 
 
@@ -1345,4 +1349,121 @@ This is a smaller gap compared to the 70:30 or higher Phys:Elec ratio people nor
 Given these findings, investing into Hybrid Razor as an endgame option is actually quite viable. Some weapons also enable the Hybrid Razor build exceptionally well, namely Serpent Spine.
 
 ### **Hybrid DPS Razor**
+
+**ATK% Cup with Serpent Spine**
+
+From Araetha’s calculations, it was also discovered that at higher constellations, using an ATK% cup with Serpent Spine may be better than a Physical DMG% cup \(assuming 4Glad and similar substats\). This is due to the relatively lower base attack of SS \(510 at lvl 90 compared to 565 for Archaic\) and diminishing returns of investing too much into DMG% \(R1 SS already grants 30% DMG and higher refinements increase this DMG% even further\). Combined, these two factors make ATK% a more attractive option on the goblet for SS users.
+
+The caveat is that if you run multiple sources of ATK boosts in your team \(e.g. double Pyro, Bennett, 4pc Noblesse, Thrilling Tales\), Phys Cup may still be better to prevent diminishing returns of ATK. This margin widens as refinement on SS is increased, requiring more ATK bonuses from substats/external buffs for a Phys cup to beat ATK cup. Using an ATK cup is also good for other reasons, as ATK% mainstat goblet is statistically more likely to drop than Phys% mainstat goblet, giving you more chances to use a cup with good substats \(source: [artifact distribution](https://genshin-impact.fandom.com/wiki/Artifacts/Stat_Roll_Distribution)\).
+
+* Weapons: Serpent Spine
+* Artifacts: 4pc Gladiators, 2pc Gladiator/2pc Bloodstained, 4pc Thundersoothers, etc. 
+* Talents priority: AA, E post-lvl 10 Q \(due to better scaling\) or earlier if preferring a more skill-spam heavy playstyle
+
+Note: Hybrid Razor is more of a playstyle than a build. Hybrid Razor’s key trait is its capability to use tap E/hold E far as damage tools rather than just energy recharge tools. In practice, any weapon/artifact combination can work with Hybrid Razor as long as both Physical and Electro values are invested. For example, Wolf’s Gravestone with a Physical% cup can still run with Hybrid playstyle since WGS buffs ATK% massively, which benefits both Physical and Electro damage. Hybrid Razor would prefer to weave more skills between autos compared with Physical Razor, allowing it to potentially function in quickswap.
+
+### **Electro DPS Razor**
+
+#### **Electro% Cup with Wolf’s Gravestone/Serpent Spine**
+
+Given that Razor’s Phys:Electro ratio from talents could reach 51.7:48.3, it demonstrates that Electro Razor can actually be put to practice. However, this section is WIP as this was a relatively new discovery, so our theorycrafters need time to acquire the right artifacts for comparison with Physical builds. We will update this as new data is tested and approved.
+
+* Weapons: Serpent Spine, Wolf’s Gravestone
+* Artifacts: 4pc Thundersoothers, 2pc Thundering Fury/Gladiators, 4pc Thundering Fury
+* Talents priority: AA, E, Q
+
+### **Enabler Razor**
+
+**Electro% Cup with Wolf’s Gravestone/Serpent Spine/Rainslasher \(C4+\)**
+
+_**Why is Razor capable of being an enabler post C4?**_
+
+1. C4 makes tap E shreds DEF by 15%, making him one of the only characters capable of defense shredding in the game \(alongside Klee C2 and Lisa A4\)
+2. C6 adds 100% ATK on-hit Electro only every 10s, which is unsuitable for phys main DPS but good for quickswap \(spam AA + tap E for burst damage\)
+3. One of the lowest skill cds in the game \(tap E\) that applies a 2U aura, allowing other characters with 1U to trigger multiple reactions consistently
+4. A very good battery due to short skill cds \(tap E generates 3 particles with 5s cd, hold E generates 4 particles with 8s cd\) - beware that his ult disables energy regen from skill so swap away from Razor after ulting if intent on generating particles
+5. Electro Resonance complements enabler playstyle well, improving his battery potential and allowing him to spam Bursts on cooldown \(can equip 4Nob to boost team damage\)
+6. Huge burst damage with AA &gt; tap E &gt; Q &gt; hold E, capable of delivering AoE nukes with no reactions involved \(assuming high investment\)
+
+This is by no means a ‘meta’ build, but could be a fun alternative if you feel like swapping to a different main DPS but still want to use Razor in another role.
+
+* Weapons: Serpent Spine, Wolf’s Gravestone, Rainslasher \(only with fast Electro applicator e.g. Fischl\), Sacrificial Greatsword
+* Artifacts: 2pc Thundering Fury/Gladiators, 4pc Thundersoothers, 4pc Noblesse
+* Talents priority: E, Q, AA
+
+For more info on best weapons and teamcomps for Enabler Razor \(and Main DPS Razor\), please check the [Razor tab](https://docs.google.com/spreadsheets/d/1bfUxaay1E_QfZeI9CFBGzF36KeqI9IUmbnD2hBQLEjw/edit#gid=2035252184) in this character builds spreadsheet.
+
+### **Aside: Plunge Razor - Dragon-Strike**
+
+A relatively advanced tech from the CN community termed dragonstrike allows the user to plunge against enemies using hitlag to propel the character up after casting an attack or skill. Dragonstrike is different from footstooling, which relies on enemy collision for plunge. Rather, dragonstrike relies on hitlag during an attack on an enemy, which essentially ‘freezes’ time and makes it easier for the user to gain momentum for a jump-plunge combo. Claymores like Razor can take advantage of dragonstrike the easiest due to claymores having the highest hitlag of all the weapons. Ping is irrelevant with dragonstrike, as testers with over 200 ping have been able to pull off the tech consistently. 
+
+Nevertheless, the timing has to be impeccable and movement speed boosts are needed. Below are demonstrations from William355\#3092 and CN testers showcasing how to plunge against a large target with Razor using both footstooling \(collision-based\) and dragonstrike \(hitlag-based\) for comparison. The combo used in both cases is AA/E &gt; dash &gt; jump &gt; plunge. It is best to dash jump when your claymore makes contact with the enemy, as that is when the collision/hitlag happens.  
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">
+        <p>
+          <img src="https://lh4.googleusercontent.com/v3y3beVbbTsT8cJLEC8lCeQPW4Dr5j_sTQDtyHY8rVN08dNGg_GC4nEj-Gj8iv3-tEVmFU-m0EcnvWvXPj7YjUSopP6EEhD_9Ia3WVTB7W1dLrtb1RN-lhH-83BwIhLzfoAypMwm"
+          alt/>
+        </p>
+        <p><b>Footstooling with Diona</b>
+        </p>
+      </th>
+      <th style="text-align:center">
+        <p>
+          <img src="https://lh5.googleusercontent.com/FklRA_U5YipYonb4vEyex8b6SGg5PBR7CRRWe1bbsWHUYqwXG2iSbv6GIXQ70QY9CT6oQLkca981jHOd-0uveVyDRRuejE3yJE3wMnuYWFom1R5dU32143nQWFEAAtnSDLuR2rRO"
+          alt/>&lt;b&gt;&lt;/b&gt;</p>
+        <p><b>Footstooling with double anemo</b>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="https://lh5.googleusercontent.com/8Hn6XXESa06_AVENC3wH96QN_OP3bIPTdJs3MSKbft-RuIsCcHXGghMF3v15sroXCAQ8tlQQovW4DMriAYKIeMbpxZEI8-Ad-w5fCJfUaGsWMFPRzqDgnWkYkv48N4j81N8gkxQ7"
+          alt/>
+        </p>
+        <p><b>Dragonstrike with double anemo</b>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="https://lh3.googleusercontent.com/w0wtzC6oMyExQa1uoYqYURuEVCQrjWv3BNw5uV5TGWPC3aYkUsec-2CkYytw_h_2za5jILxwmvOnCGR2GxeX95uI31uHl22g6xH8IOt3qORPDPoZnTSn83Dd9NQGzNQe-09LjDwj"
+          alt/>
+        </p>
+        <p><b>Dragonstrike with no MS boost (tap E)</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+With dragonstrike, the user typically needs movement speed boosts \(~10%\) to gain momentum for a jump \(e.g Diona’s shield or Anemo Resonance\). The exception is with tap E, as it seems to grant Razor enough momentum to plunge even without extra movement speed. Another thing to note is that the longer the hitlag \(e.g. hitting shields\), the easier it is to plunge. Interestingly for this technique, 2pc Gladiator/2pc Bloodstained is better than 4pc Gladiator due to 4pc Glad not boosting plunge attacks unlike 2pc Bloodstained \(+25% Phys DMG\).
+
+From Araetha\#9163: Dragonstrike is a new concept and rough maths shows that plunging outside Q every time we E is a significant DPS increase. The math becomes complicated during Q because Dragonstrike loses damage from soul companion. We haven't done the mv/s calculation extensively, but it seems that it's not worth using during Q due to the loss of hit lag \(we want it to "extend" our Q\) and the soul companion damage \(also Glad4 set discourages you from using the trick\). 
+
+More sources: [Tenten's breakdown of Dragonstrike](https://www.youtube.com/watch?v=4kYeUdpqTXg)
+
+## **11. Conclusion**
+
+![Source: https://twitter.com/sammu\_030/status/1348413534707843072](https://lh3.googleusercontent.com/risZkks9RhNUkAm_wkEfMKJA9rjp3zVWbnMHoH-wMv6JWz5tBBFd-at0BZfPRUH_yBwukBYckxFhZIiSOmPEwjxNOzYeKq_UgOhzVQic8pFmirugeK56bLkcFJ99ix6CxLI1w0w_)
+
+If you have read this far, we applaud your dedication and perseverance. We hope that this guide was able to help you decide how to build your Razor and how to maximize his potential at different stages of the game. If you have any questions, suggestions or concerns, we welcome you to join our [discord](https://discord.gg/4BzHdAzHGR) and send them in the \#guide-suggestions channel. Thank you.
+
+### **Endnotes**
+
+**I**nitial release date: 02/15/2021
+
+Last updated: 03/16/2021
+
+Sources: Genshin Impact wiki, various theorycrafting resources, discord, in-game data
+
+Writers: LeafOnTheWind\#9931, Ender\#1359, arashi\#2449
+
+Contributors: Shifu02\#7738, Araetha\#9163, shdwbld\#8103, Wolfen7\#5902, William355\#3092, jerf\#0339, muse\#0188, Azzurala\#6257, HardgoreAlice\#8976, Castguy\#3544, AngaFundarge\#4044, EggsD\#9603  
+
 
