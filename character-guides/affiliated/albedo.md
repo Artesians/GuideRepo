@@ -1,3 +1,7 @@
+---
+description: 'Learning Albedo - by Reydriar#8127'
+---
+
 # Albedo
 
 ![](../../.gitbook/assets/albedo-title.jpeg)
