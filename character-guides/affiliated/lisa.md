@@ -280,7 +280,7 @@ Consists of a **Press** and **Hold** variant.
 
 ![](https://lh6.googleusercontent.com/OG3nMRnlT0if1G9-7Nq-74ejXo4h0FgCzxhfHR20nctvvyaCqwWZ-aC4kxraC7H32sRyw807yeTvPvPKgPmY9C3QOqfWH2WDvleEfFeC0cH0KGEe8vuU34ijClqOk7URrqJ1h-wf)
 
-* Connecting the ability garners **3 to 5** Electro Particles. \(Weights: 1 \| 1 \| 1\)
+* Connecting the ability garners 4 **to 5** Electro Particles. \(Weights: 1 \| 1\)
   * Also creates a [Summoned Electro Particle](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.yxuz177vmzne) with [C1](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.9jejsrvhntq9).
 * This skill, when held, applies a **Strong Electro** aura, or [2 Electro Gauge Units \(2GU Electro\) with 'B' Decay Rate \(2B\)](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory).
 
@@ -316,7 +316,7 @@ Consists of an **Initial Attack** and a lingering **Field**. \(80 Energy\)
 
 ### Passives
 
-**Passive: Induced Aftershock: \(A2\)**
+**Passive: Induced Aftershock: \(A1\)**
 
 ![](https://lh3.googleusercontent.com/eXLdNiM-6zFqktu3UbhrpxgVpfQtPgCDNPy7j59R6Dtp22GSrLlkME2dkiJ0Jw0lWdYoV-YWCYkzGWvDIvQJGOevq9vR7l6MAVhXpL4t2Yb_0KrIBTXQIjuwBiGKaR07aICDh_PP)
 
@@ -1308,7 +1308,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
       <td style="text-align:left">Tartaglia can be inputted in an EC team with Lisa, do be noted that he
         really only can be considered when he is <b>C4+</b>. With Tartaglia&#x2019;s <b>C4</b>,
         he technically can amass for the longest Hydro aura uptime of potentially
-        16 seconds, just that it&apos;s only on four ticks of application. Comparatively,
+        24 seconds, just that it&apos;s only on four ticks of application. Comparatively,
         Xingqiu or Mona would definitely outsuit him in this regard.</td>
     </tr>
   </tbody>
