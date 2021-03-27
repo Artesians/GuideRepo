@@ -33,7 +33,7 @@ Contributors: Shifu02\#7738, Araetha\#9163, shdwbld\#8103, Wolfen7\#5902, Willia
 
 ## **1. Character Introduction**
 
-![Source: https://www.pinterest.ca/pin/646899933969908794/](https://lh6.googleusercontent.com/8gvmj7WFmGLdfGSXPaXFhhroxqlikfR2vTvpV9zb28nSxPbgDaSPGeXBBlgVkbocSf3dv2LmZj7PyYLHvc43M_QcP6zd7ekp_6O8YS_W5gfy8lMMAWfmkDpvFf7c400N3iL3bHFW)
+![https://www.reddit.com/r/Genshin\_Impact/comments/lp458i/fallen\_in\_love\_with\_the\_game\_and\_with\_my\_first/](../../.gitbook/assets/image%20%28140%29.png)
 
 “Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.”
 
