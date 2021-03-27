@@ -155,21 +155,11 @@ There is also a Tertiary [**Support/Enabler**](https://docs.google.com/document/
   * Albedo - **Tectonic Tide**: 780.3% \(an ULT\)
   * Xinyan - **Riff Revolution**: 724.2% \(an ULT\)
 
-#### Early Game / Overworld
+#### Progression and Materials
 
-Throughout your early Genshin Impact gameplay and/or in the Overworld, using anyone at all is justifiable. 
+![Stats](../../.gitbook/assets/image%20%28138%29.png)
 
-* Lisa’s Overworld playstyle is very enjoyable as well; all you have to do is walk up to enemies and nuke them all!
-
-Then again, every unit is capable of handling themselves well in the open Overworld; regardless of World Level.  
-  
-As for her ascension, Lisa’s innate ascension stat is **Elemental Mastery \(96 Max\).**
-
-#### **Lisa's Upgrade Materials**
-
-![Reddit: u/DevilTakoyaki         Twitter: @deviltakoyaki](https://lh3.googleusercontent.com/ic-CZURJM-_d4NSmnZJfiVxu9sHf2JMvEbmhnztghvW07Py9hY1lVVzSvyZMJaIdoyjsf2m6rPX9wgOosZdwdnmDJPYNjpIRw3hwBFp04VwPPw-fqOJF4P3g3NvU0QGsXh6G_e-h)
-
-#### **Late Game / Abyss**
+![Materials](../../.gitbook/assets/image%20%28137%29.png)
 
 As players branch out, progress, and enter the Abyss, in all honesty, Lisa does start to fall out in comparison to other characters.
 
@@ -1406,4 +1396,18 @@ These are really the teams that have seen use in the end-game out of Support Lis
 ![Beidou or Fischl for 2nd Slot](../../.gitbook/assets/image%20%2899%29.png)
 
 _Keep in mind these teams are conditioned to speedrun floors, not for sustained play_.
+
+## Epilogue
+
+_**Tempus Fugit!~**_
+
+Or “_Time Flies_”, as Lisa’s constellation is aptly named, and time surely has flown since you’ve begun reading this guide. And maybe you too now have the knowledge equivalent of Sumeru Academia’s most distinguished graduate since the past two centuries.
+
+Let’s hope it was all worth a good and profitable read, and that it might have changed your view on Lisa as a character. If any of your questions remain to be unanswered or would like to suggest anything to improve upon, our [discord](http://discord.gg/5SYy4MPPCt) server is open to any comments over at \#guide⋅feedback, or you can contact me directly through my discord tag!  
+
+
+_**Tempus Fugit, usque in finem.**_
+
+_**₪ ArchedNosi\#1484 ₪**_  
+
 
