@@ -233,7 +233,7 @@ Even though it is placed on nearby terrain, the hitbox **cannot be rotated** to 
     * Low Plunge: 165.17%
     * High Plunge: 206.3%
 
-![](https://lh6.googleusercontent.com/b0yDE63aCr5dfWID0_yYonvyweYjO_bqaFJtv9OCUhPqfUIl8GBiMF_5SYZj49er1DU3hwfOKISQRIjt_6_4wkXw_pRZRDF3-eFhdfgavIb2kVSBDbfuCSgRhU5Hicen2O8-oW21)
+![The action above, &quot;Standing Plunge&quot;, is no longer possible](https://lh6.googleusercontent.com/b0yDE63aCr5dfWID0_yYonvyweYjO_bqaFJtv9OCUhPqfUIl8GBiMF_5SYZj49er1DU3hwfOKISQRIjt_6_4wkXw_pRZRDF3-eFhdfgavIb2kVSBDbfuCSgRhU5Hicen2O8-oW21)
 
 ### **E: Violet Arc**
 
@@ -250,6 +250,8 @@ Consists of a **Press** and **Hold** variant.
   * If Lisa swaps out of the party before the projectile connects, the tagged mob will not gain a Conductive Stack.
     * The projectile has a lifespan of **3 seconds.**
   * Each stack individually decays after **15 seconds**.
+  * The projectile’s damage is ‘**snapshotted**’ upon its initial cast.
+    * Meaning its damage is dependent on what Lisa’s buffs/stats were upon casting, and gaining buffs will not affect its active damage.
   * This skill, when tapped, applies a                       **Weak Electro** aura, or [1 Electro Gauge Unit \(1GU Electro\) with ‘A’ Decay Rate \(1A\)](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory).
 
 ![Press E going from 2-3 stacks](https://lh5.googleusercontent.com/x2qBTMQp2fTiu7td3ltvjKtY0A9yZodCWhQnOopa3xYkLnpQljTz6f7TwxShTXrko7qmODVqf7zTN80JeSISH6IR1n_o01rsNXs4wfqBP0Z8g5CfTtPk5MaAfAnxgUS5xro8flAk)
@@ -420,6 +422,7 @@ _This effect can only occur once every 5s._
 
 * The radius of Pulsating Witch is 5 meters; Anemo Traveler’s Palm Vortex used as comparison. _\(See below\)_
   * Helpful to make Lisa less clunky to play.
+  * **Note:** This radius _does not_ deal damage nor does it apply an Electro aura, which is nice as it will not interfere with other team combos.
 * Always useful and very effective as Sub and/or Main Carry.
   * The inclusion of C6 also allows Lisa to more efficiently execute team combos without interfering them with her Press E.
     * i.e. Popping Mona’s Ult, Properly timing rotations, etc.
