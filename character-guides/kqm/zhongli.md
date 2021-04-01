@@ -168,11 +168,11 @@ This constellation has become a double edged sword for Zhongli with the release 
     <tr>
       <td style="text-align:left">Physical Carry</td>
       <td style="text-align:left">
-        <p><b>Gladiator&apos;s Triumph (2) + Bloodstained Chivalry (2)<br /></b>By
-          far his strongest option for physical damage output.
+        <p><b>Gladiator&apos;s Triumph (4)<br /></b>By far his strongest option for
+          physical damage output.
           <br />
         </p>
-        <p><b>Gladiator&apos;s Triumph (4)</b>
+        <p><b>Gladiator&apos;s Triumph (2) + Bloodstained Chivalry (2)</b>
         </p>
         <p><b>Retracing Bolide (4)</b>
         </p>
