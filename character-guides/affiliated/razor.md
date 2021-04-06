@@ -14,7 +14,7 @@ This guide was written by the RazorMains community. You can find the full docume
 
 {% tabs %}
 {% tab title="Card Art" %}
-![](../../.gitbook/assets/image%20%28107%29.png)
+![](../../.gitbook/assets/image%20%28119%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -33,7 +33,7 @@ Contributors: Shifu02\#7738, Araetha\#9163, shdwbld\#8103, Wolfen7\#5902, Willia
 
 ## **1. Character Introduction**
 
-![https://www.reddit.com/r/Genshin\_Impact/comments/lp458i/fallen\_in\_love\_with\_the\_game\_and\_with\_my\_first/](../../.gitbook/assets/image%20%28140%29.png)
+![https://www.reddit.com/r/Genshin\_Impact/comments/lp458i/fallen\_in\_love\_with\_the\_game\_and\_with\_my\_first/](../../.gitbook/assets/image%20%28139%29%20%281%29.png)
 
 “Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.”
 
@@ -705,7 +705,7 @@ Furthering the energy recharge theme, **Favonius Sword** is Kaeya’s best ER op
 
 ### **Diona - Cryo Bow**
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28117%29%20%281%29.png)
 
 **SC Enabler, Shielder, Healer  
 S \(C0\) - S+ \(C2\)**
@@ -823,7 +823,7 @@ There is almost no competition for Barbara’s BiS support book and that is **Th
 
 ### **Xingqiu - Hydro Sword**
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28108%29%20%281%29.png)
 
 **Sub-DPS, Enabler, Support  
 S \(C0\) - S+ \(C2\)**
@@ -849,7 +849,7 @@ As a Sub-DPS, Xingqiu greatly appreciates the Heart of Depth set for maximum Hyd
 
 ### **Fischl - Electro Bow**
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28124%29%20%281%29.png)
 
 **Sub-DPS, Electro resonance  
 A \(C0\) - S \(C6\)**
@@ -875,7 +875,7 @@ In general, good weapons for Sub-DPS Fischl are **Skyward Harp, Amos Bow, The St
 
 ### **Beidou - Electro Claymore**
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28116%29%20%281%29.png)
 
 **Sub-DPS, Electro resonance  
 B+ \(C0\) - A \(C6\)**
@@ -901,7 +901,7 @@ As a high investment unit, Beidou favors claymores such as **Wolf’s Gravestone
 
 ### **Bennett - Pyro Sword**
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28103%29%20%283%29.png)
 
 **Support, Healer**  
 **B+ \(C0\) - A \(C1\)**
@@ -953,7 +953,7 @@ As an energy-hungry Burst support, Xiangling loves weapons that boost her energy
 
 ### **Xinyan - Pyro Claymore** 
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28115%29%20%282%29.png)
 
 **Support, Shielder  
 B \(C0\) - A \(C4\)**
@@ -979,7 +979,7 @@ Xinyan’s artifact choices are fairly flexible. She can run **4pc Noblesse** as
 
 ### **Venti - Anemo Bow**
 
-![](../../.gitbook/assets/image%20%28120%29.png)
+![](../../.gitbook/assets/image%20%28120%29%20%281%29.png)
 
 **CC, Sub-DPS, Support  
 B \(C0\) - A \(C2\)**
@@ -1005,7 +1005,7 @@ Venti has quite a bit of options for weapons. He has quite a large variety of op
 
 ### **Zhongli - Geo Polearm**
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%2849%29%20%282%29.png)
 
 **Support, Shielder, CC  
 S \(C0\) - S+ \(C2\)**
@@ -1031,7 +1031,7 @@ For Zhongli’s weapons, **Favonius Lance** is recommended to provide energy as 
 
 ### **Albedo - Geo Sword**
 
-![](../../.gitbook/assets/image%20%28127%29.png)
+![](../../.gitbook/assets/image%20%28127%29%20%282%29.png)
 
 **Sub-DPS, Support, Shielder  
 A+ \(C0\) - S \(C6\)**
