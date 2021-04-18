@@ -266,7 +266,7 @@ Consists of a **Press** and **Hold** variant.
     * **2 seconds** of Cast Time and **3 seconds** of Active Time.
     * In duration, Lisa will remain still and become susceptible to damage.
   * Once the visual radius connects with the outer radius is when the ability is ‘**active**’, releasing during Active Time strikes all mob\(s\) inside the outer radius. Releasing during Cast Time acts as a ‘**Press**’.
-    * **Common Misconception**: This Skill is not a Spherical Hitbox, but rather an entire **Cylindrical Hitbox** with **no height limit**, or **at least a very high limit**. \(_See Below_\)
+    * **Common Misconception**: This Skill is not a Spherical Hitbox, but rather an entire **Cylindrical Hitbox with a radius of 10m and** **no height limit**, or **at least a very high limit**. \(_See Below_\)
 
 ![](https://lh6.googleusercontent.com/xchTugynPZPuUsyD1fPhVibthZw3HGKKmcFFbQoJpS4RqYzptiC-wN2izvvn1Mk72s8bBGBA4M8kGZ0BEnQDpHeKn9fLBW14OyGY46F_jUY4JQRRiVYGD8cCjHfwfZjayxevmdJE)
 
@@ -293,10 +293,12 @@ Consists of an **Initial Attack** and a lingering **Field**. \(80 Energy\)
   * _Does **NOT** apply an Electro aura._
 * **Field** \(20 second CD\)
   * **Damage Value at Talent 6%:**
-    * 51.18% x 28 \(_Variable_\)
+    * 51.18% x 29 \(_Variable_\)
   * Has a **duration of 15** seconds \(_5s Downtime_\).
-  * **28 discharges/connections** are sent out of the lantern throughout the whole duration.
+    * **Radius of 7m**
+  * **29 discharges/connections** are sent out of the lantern throughout the whole duration.
     * The inclusion of [C4](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.1ka71xwl6hxt) allows Lisa to become an efficient Electro enabler.
+  * Similar to Lisa’s normal attacks, these connections also have a small AoE effect, if mobs are close enough to each other, connections can hit multiple mobs.
   * The damage of Lightning Rose is ‘**snapshotted**’.
     * Meaning its damage is dependent on what Lisa’s buffs/stats were upon casting, and gaining buffs will not affect its active damage.
   * Connections **briefly stun** ‘weak’ mobs and **do not** on ‘sturdier’ mobs.
