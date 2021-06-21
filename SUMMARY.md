@@ -20,4 +20,13 @@
 ## Team Building
 
 * [Team Building Guide](team-building/team-building-guide.md)
+* [Enemy Data](team-building/enemy-data/README.md)
+  * [Elementals](team-building/enemy-data/elementals/README.md)
+    * [Slimes](team-building/enemy-data/elementals/slimes.md)
+    * [Eye of the Storm](team-building/enemy-data/elementals/eye-of-the-storm.md)
+  * [Hilichurls](team-building/enemy-data/hilichurls.md)
+  * [Abyss Order](team-building/enemy-data/abyss-order.md)
+  * [Fatui](team-building/enemy-data/fatui.md)
+  * [Elite Bosses](team-building/enemy-data/elite-bosses.md)
+  * [Weekly Bosses](team-building/enemy-data/weekly-bosses.md)
 
