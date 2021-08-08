@@ -12,7 +12,7 @@ This guide was written by ArchedNosi\#1484 of [LisaMains!](https://discord.gg/5S
 
 {% tabs %}
 {% tab title="Card Art" %}
-![](../../.gitbook/assets/image%20%28105%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%28105%29%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -994,7 +994,7 @@ _Because of how flexible these types of teams can be, there will be overlapping 
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (79) (6).png" alt/>
+        <img src="../../.gitbook/assets/image (79) (8) (6).png" alt/>
       </td>
       <td style="text-align:left">Lisa. Whilst she will not be the team&#x2019;s main focus, her burst damage
         in of itself is enough to make her capable of being a Sub DPS. Some variations
@@ -1003,7 +1003,7 @@ _Because of how flexible these types of teams can be, there will be overlapping 
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (103) (2).png" alt/>
+          <img src="../../.gitbook/assets/image (103) (6) (2).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1062,7 +1062,7 @@ In Geo Teams, Ningguang is almost mandatory being a very reliable Geo Pivot Unit
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (49) (3).png" alt/>
+          <img src="../../.gitbook/assets/image (49) (3) (3).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1075,7 +1075,7 @@ In Geo Teams, Ningguang is almost mandatory being a very reliable Geo Pivot Unit
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (127).png" alt/>
+        <img src="../../.gitbook/assets/image (127) (2).png" alt/>
       </td>
       <td style="text-align:left">Albedo can serve as a substitute for Zhongli if he is not available. His
         Ult is generally fairly strong and does good burst damage. However, since
@@ -1098,7 +1098,7 @@ In Geo Teams, Ningguang is almost mandatory being a very reliable Geo Pivot Unit
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (115).png" alt/>
+          <img src="../../.gitbook/assets/image (115) (2).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1132,7 +1132,7 @@ _The last slot becomes a flex slot; as such, not all units will be showcased bel
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (49) (3).png" alt/>
+          <img src="../../.gitbook/assets/image (49) (3) (3).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1141,7 +1141,7 @@ _The last slot becomes a flex slot; as such, not all units will be showcased bel
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (120).png" alt/>
+        <img src="../../.gitbook/assets/image (120) (2).png" alt/>
       </td>
       <td style="text-align:left">Now enters Venti. Notably, Venti stands as an ideal Quickswapper, having
         a short CD on his E as well as an impactful Ult. When infused with either
@@ -1183,7 +1183,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (79) (4).png" alt/>
+          <img src="../../.gitbook/assets/image (79) (8) (4).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1223,7 +1223,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (103) (2).png" alt/>
+          <img src="../../.gitbook/assets/image (103) (6) (2).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1233,7 +1233,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (117).png" alt/>
+        <img src="../../.gitbook/assets/image (117) (1).png" alt/>
       </td>
       <td style="text-align:left">Diona serves as a Healer that can apply Cryo fairly readily with her Ult
         and/or her E. Whilst it isn&apos;t a frequent Cryo application, any at
@@ -1241,7 +1241,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (121) (1).png" alt/>
+        <img src="../../.gitbook/assets/image (121) (1) (1).png" alt/>
       </td>
       <td style="text-align:left">Unlike the other two above, Xiangling offers as a stable Pyro applicant
         with her Ult. Including Xiangling will likely result in less EC procs and
@@ -1251,7 +1251,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (118) (1).png" alt/>
+        <img src="../../.gitbook/assets/image (118) (1) (1).png" alt/>
       </td>
       <td style="text-align:left">Likewise, Kaeya&#x2019;s inclusion is similar in vain to Xiangling&#x2019;s
         inclusion: offering a reliable Cryo applicant in his Ult. Similarly, inputting
@@ -1322,7 +1322,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (49).png" alt/>
+          <img src="../../.gitbook/assets/image (49) (3).png" alt/>
         </p>
         <p></p>
       </td>
@@ -1333,7 +1333,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (127) (1).png" alt/>
+        <img src="../../.gitbook/assets/image (127) (2) (1).png" alt/>
       </td>
       <td style="text-align:left">In a team where Lisa will be on-field the most, Albedo will function as
         an additional source of echo damage sourcing from his Solar Isotoma. As
@@ -1353,7 +1353,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (116).png" alt/>
+        <img src="../../.gitbook/assets/image (116) (1).png" alt/>
       </td>
       <td style="text-align:left">Beidou can be considered as an alternative to Fischl. Comparatively, Beidou
         offers much more AoE damage and also grants an additional source of echo
@@ -1362,7 +1362,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (120) (2).png" alt/>
+        <img src="../../.gitbook/assets/image (120) (2) (2).png" alt/>
       </td>
       <td style="text-align:left">When inputted in an EC team, Venti and another Hydro unit can make a Hydro-infused
         Ult. This would act as the common Hydro applier and provide CC. CC will

@@ -253,7 +253,7 @@ Quickswap refers to a type of playstyle that revolves around using units that ha
 | Composition | Notes |
 | :--- | :--- |
 | ![](../../.gitbook/assets/image%20%2843%29.png) | Budget version for abyss clearing when there are enemies that don't get knocked back by overload: Fatui, Mitachurls, Ruin Guards, Geovishaps, etc. |
-| ![](../../.gitbook/assets/image%20%2838%29%20%282%29.png) | Classic quickswap that has room for pretty much any unit in Beidou's slot and the empty slot. Fischl works wonders. |
+| ![](../../.gitbook/assets/image%20%2838%29%20%287%29%20%282%29.png) | Classic quickswap that has room for pretty much any unit in Beidou's slot and the empty slot. Fischl works wonders. |
 | ![](../../.gitbook/assets/image%20%2836%29.png) | One of the strongest variations of quickswap that you can assemble, but it has 4 5-star units. |
 
 ## How to Play Keqing
